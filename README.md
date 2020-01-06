@@ -26,4 +26,4 @@ In this repo, you can find several files about the Star Wars univers.
 ## Crédits
 
 * [IMSDB](https://www.imsdb.com/) : scipts from movies
-* [KAGGLE](https://www.kaggle.com/xvivancos/star-wars-movie-scripts) : 3 first movies scripts
+* [YIFY](https://yts-subs.com/) : subtitles files
