@@ -1,0 +1,5029 @@
+[{
+        "from": "THREEPIO",
+        "text": "Did you hear that? They've shut down the main reactor. We'll be destroyed for sure. This is madness!",
+        "where": "INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "We're doomed!",
+        "where": "INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "There'll be no escape for the Princess this time.",
+        "where": "INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "What's that?",
+        "where": "INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I should have known better than to trust the logic of a half-sized thermocapsulary dehousing assister...",
+        "where": "INT. REBEL BLOCKADE RUNNER"
+    },
+    {
+        "from": "LUKE",
+        "text": "Hurry up! Come with me! What are you waiting for?! Get in gear!",
+        "where": "EXT. TATOOINE - DESERT WASTELAND - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "ARTOO! ARTOO, where are you?",
+        "where": "EXT. TATOOINE - DESERT WASTELAND - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "At last! Where have you been?",
+        "where": "EXT. TATOOINE - DESERT WASTELAND - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "They're heading in this direction. What are we going to do? We'll be sent to the spice mine of Kessel or smashed into who knows what!",
+        "where": "EXT. TATOOINE - DESERT WASTELAND - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Wait a minute, where are you going?",
+        "where": "EXT. TATOOINE - DESERT WASTELAND - DAY"
+    },
+    {
+        "from": "IMPERIAL OFFICER",
+        "text": "The Death Star plans are not in the main computer.",
+        "where": "INT. REBEL BLOCKADE RUNNER - CORRIDOR"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Where are those transmissions you intercepted?",
+        "where": "INT. REBEL BLOCKADE RUNNER - CORRIDOR"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "What have you done with those plans?",
+        "where": "INT. REBEL BLOCKADE RUNNER - CORRIDOR"
+    },
+    {
+        "from": "REBEL OFFICER",
+        "text": "We intercepted no transmissions. Aaah... This is a consular ship. Were on a diplomatic mission.",
+        "where": "INT. REBEL BLOCKADE RUNNER - CORRIDOR"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "If this is a consular ship... were is the Ambassador?",
+        "where": "INT. REBEL BLOCKADE RUNNER - CORRIDOR"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Commander, tear this ship apart until you've found those plans and bring me the Ambassador. I want her alive!",
+        "where": "INT. REBEL BLOCKADE RUNNER - CORRIDOR"
+    },
+    {
+        "from": "TROOPER",
+        "text": "There she is! Set for stun!",
+        "where": "INT. REBEL BLOCKADE RUNNER - SUBHALLWAY"
+    },
+    {
+        "from": "TROOPER",
+        "text": "She'll be all right. Inform Lord Vader we have a prisoner.",
+        "where": "INT. REBEL BLOCKADE RUNNER - SUBHALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Hey, you're not permitted in there. It's restricted. You'll be deactivated for sure..",
+        "where": "INT. REBEL BLOCKADE RUNNER - SUBHALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Don't call me a mindless philosopher, you overweight glob of grease! Now come out before somebody sees you.",
+        "where": "INT. REBEL BLOCKADE RUNNER - SUBHALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Secret mission? What plans? What are you talking about? I'm not getting in there!",
+        "where": "INT. REBEL BLOCKADE RUNNER - SUBHALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I'm going to regret this.",
+        "where": "INT. REBEL BLOCKADE RUNNER - SUBHALLWAY"
+    },
+    {
+        "from": "CHIEF PILOT",
+        "text": "There goes another one.",
+        "where": "INT. IMPERIAL STARDESTROYER"
+    },
+    {
+        "from": "CAPTAIN",
+        "text": "Hold your fire. There are no life forms. It must have been short-circuited.",
+        "where": "INT. IMPERIAL STARDESTROYER"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "That's funny, the damage doesn't look as bad from out here.",
+        "where": "INT. IMPERIAL STARDESTROYER"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Are you sure this things safe?",
+        "where": "INT. IMPERIAL STARDESTROYER"
+    },
+    {
+        "from": "WOMAN",
+        "text": "I've told you kids to slow down!",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "FIXER",
+        "text": "Did I hear a young noise blast through here?",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "CAMIE",
+        "text": "It was just wormie on another rampage.",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Shape it up you guys!... Biggs?",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "I didn't know you were back! When did you get in?",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Just now. I wanted to surprise you, hot shot. I thought you'd be here... certainly didn't expect you to be out working.",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "The Academy didn't change you much...but you're back so soon? Hey, what happened, didn't you get your commission?",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Of course I got it. Signed aboard The Rand Ecliptic last week. First mate Biggs Darklighter at your service... (he salutes) ...I just came to say good-bye to all you unfortunate landlocked simpletons.",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "I almost forgot. There's a battle going on! Right here in our system. Come and look!",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "DEAK",
+        "text": "Not again! Forget it.",
+        "where": "INT. POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "There they are!",
+        "where": "EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "That's no battle, hot shot... they're just sitting there! Probably a freighter-tanker refueling.",
+        "where": "EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "But there was a lot of firing earlier...",
+        "where": "EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Hey, easy with those...",
+        "where": "EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "CAMIE",
+        "text": "Don't worry about it, Wormie.",
+        "where": "EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "FIXER",
+        "text": "I keep telling you, the Rebellion is a long way from here. I doubt if the Empire would even fight to keep this system. Believe me Luke, this planet is a big hunk of nothing...",
+        "where": "EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "Lord Vader, I should have known. Only you could be so bold. The Imperial Senate will not sit for this, when they hear you've attacked a diplomatic...",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Don't play games with me, Your Highness. You weren't on any mercy mission this time. You passed directly through a restricted system. Several transmissions were beamed to this ship by Rebel spies. I want to know what happened to the plans they sent you.",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "I don't know what you're talking about. I'm a member of the Imperial Senate on a diplomatic mission to Alderaan...",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "You're a part of the Rebel Alliance... and a traitor. Take her away!",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "COMMANDER",
+        "text": "Holding her is dangerous. If word of this gets out, it could generate sympathy for the Rebellion in the senate.",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I have traced the Rebel spies to her. Now she is my only link to find their secret base!",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "COMMANDER",
+        "text": "She'll die before she tells you anything.",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Leave that to me. Send a distress signal and then inform the senate that all aboard were killed!",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "SECOND OFFICER",
+        "text": "Lord Vader, the battle station plans are not aboard this ship! And no transmissions were made. An escape pod was jettisoned during the fighting, but no life forms were aboard.",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "She must have hidden the plans in the escape pod. Send a detachment down to retrieve them. See to it personally, Commander. There'll be no one to stop us this time.",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "COMMANDER",
+        "text": "Yes, sir.",
+        "where": "INT. REBEL BLOCKADE RUNNER - HALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "How did I get into this mess? I really don't know how. We seem to be made to suffer. It's our lot in life.",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I've got to rest before I fall apart. My joints are almost frozen.",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "What a desolate place this is.",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Where are you going?",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Well, I'm not going that way. It's much too rocky. This way is much easier.",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "What makes you think there are settlements over there?",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Don't get technical with me.",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "What mission? What are you talking about? I've had just about enough of you! Go that way! You'll be malfunctioning within a day, you nearsighted scrap pile!",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "And don't let me catch you following me begging for help, because you won't get it.",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "No more adventures. I'm not going that way.",
+        "where": "EXT. TATOOINE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "That malfunctioning little twerp. This is all his fault! He tricked me into going this way, but he'll do no better.",
+        "where": "EXT. TATOOINE - DUNE SEA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Wait, what's that? A transport! I'm saved!",
+        "where": "EXT. TATOOINE - DUNE SEA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Over here! Help! Please, help!",
+        "where": "EXT. TATOOINE - DUNE SEA"
+    },
+    {
+        "from": "LUKE",
+        "text": "(Very animated) ...so I cut off my power, shut down the afterburners and came in low on Deak's trail. I was so close I thought I was going to fry my instruments. As it was I busted up the Skyhopper pretty bad. Uncle Owen was pretty upset. He grounded me for the rest of the season. You should have been there... it was fantastic.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "You ought to take it easy Luke. You may be the hottest bushpilot this side of Mos Eisley, but those little Skyhoppers are dangerous. Keep it up, and one day, whammo, you're going to be nothing more than a dark spot on the down side of a canyon wall.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Look who's talking. Now that you've been around those giant starships you're beginning to sound like my uncle. You've gotten soft in the city...",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "I've missed you kid.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, things haven't been the same since you left, Biggs. It's been so... quiet.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Luke, I didn't come back just to say good-bye... I shouldn't tell you this, but you're the only one I can trust... and if I don't come back, I want somebody to know.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "What are you talking about?",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "I made some friends at the Academy. (he whispers) ...when our frigate goes to one of the central systems, we're going to jump ship and join the Alliance...",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Join the Rebellion?! Are you kidding! How?",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Quiet down will ya! You got a mouth bigger than a meteor crater!",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'm sorry. I'm quiet. (he whispers) Listen how quiet I am. You can barely hear me...",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "My friend has a friend on Bestine who might help us make contact.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "You're crazy! You could wander around forever trying to find them.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "I know it's a long shot, but if I don't find them I'll do what I can on my own... It's what we always talked about. Luke, I'm not going to wait for the Empire to draft me into service. The Rebellion is spreading and I want to be on the right side -- the side I believe in.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "And I'm stuck here...",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "I thought you were going to the Academy next term. You'll get your chance to get off this rock.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Not likely! I had to cancel my application. There has been a lot of unrest among the Sandpeople since you left... they've even raided the outskirts of Anchorhead.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Your uncle could hold off a whole colony of Sandpeople with one blaster.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "I know, but he's got enough vaporators going to make the place pay off. He needs me for just one more season. I can't leave him now.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "I feel for you, Luke, you're going to have to learn what seems to be important or what really is important. What good is all your uncle's work if it's taken over by the Empire?... You know they're starting to nationalize commerce in the central systems... it won't be long before your uncle is merely a tenant, slaving for the greater glory of the Empire.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "It couldn't happen here. You said it yourself. The Empire won't bother with this rock.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Things always change.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "I wish I was going... Are you going to be around long?",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "No, I'm leaving in the morning...",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Then I guess I won't see you.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Maybe someday... I'll keep a lookout.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, I'll be at the Academy next season... after that who knows. I won't be drafted into the Imperial Starfleet that's for sure... Take care of yourself, you'll always be the best friend I've got.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "BIGGS",
+        "text": "So long, Luke.",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "ARTOO! It's you! It's you!",
+        "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY"
+    },
+    {
+        "from": "FIRST TROOPER",
+        "text": "Someone was in the pod. The tracks go off in this direction.",
+        "where": "EXT. TATOOINE - DESERT - DAY"
+    },
+    {
+        "from": "SECOND TROOPER",
+        "text": "Look, sir -- droids.",
+        "where": "EXT. TATOOINE - DESERT - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Wake up! Wake up!",
+        "where": "EXT. TATOOINE - DESERT - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "We're doomed.",
+        "where": "EXT. TATOOINE - DESERT - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Do you think they'll melt us down?",
+        "where": "EXT. TATOOINE - DESERT - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Don't shoot! Don't shoot! Will this never end?",
+        "where": "EXT. TATOOINE - DESERT - DAY"
+    },
+    {
+        "from": "BERU",
+        "text": "Luke, tell Owen that if he gets a translator to be sure it speaks Bocce.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "It looks like we don't have much of a choice but I'll remind him.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "I have no need for a protocol droid.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(quickly) Sir -- not in an environment such as this -- that's why I've also been programmed for over thirty secondary functions that...",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "What I really need is a droid that understands the binary language of moisture vaporators.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Vaporators! Sir -- My first job was programming binary load lifter... very similar to your vaporators. You could say...",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "Do you speak Bocce?",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Of course I can, sir. It's like a second language for me... I'm as fluent in Bocce...",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "All right shut up! (turning to Jawa) I'll take this one.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Shutting up, sir.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "Luke, take these two over to the garage, will you? I want you to have both of them cleaned up before dinner.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "But I was going into Toshi Station to pick up some power converters...",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "You can waste time with your friends when your chores are done. Now come on, get to it!",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "All right, come on! And the red one, come on. Well, come on, Red, let's go.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Uncle Owen...",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "Yeah?",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "This R2 unit has a bad motivator. Look!",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "(to the head Jawa) Hey, what're you trying to push on us?",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(pointing to ARTOO) Excuse me, sir, but that R2 unit is in prime condition. A real bargain.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Uncle Owen...",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "Yeah?",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "What about that one?",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "OWEN",
+        "text": "(to Jawa) What about that blue one? We'll take that one.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Yeah, take it away.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Uh, I'm quite sure you'll be very pleased with that one, sir. He really is in first-class condition. I've worked with him before. Here he comes.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Okay, let's go.",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(to ARTOO) Now, don't you forget this! Why I should stick my neck out for you is quite beyond my capacity!",
+        "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Thank the maker! This oil bath is going to feel so good. I've got such a bad case of dust contamination, I can barely move!",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "It just isn't fair. Oh, Biggs is right. I'm never gonna get out of here!",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Is there anything I might do to help?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, not unless you can alter time, speed up the harvest, or teleport me off this rock!",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I don't think so, sir. I'm only a droid and not very knowledgeable about such things. Not on this planet, anyways. As a matter of fact, I'm not even sure which planet I'm on.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, if there's a bright center to the universe, you're on the planet that it's farthest from.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I see, sir.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Uh, you can call me Luke.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I see, sir Luke.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "(laughing) Just Luke.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "And I am See-Threepio, human-cyborg relations, and this is my counterpart, ARTOO.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Hello.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "You got a lot of carbon scoring here. It looks like you boys have seen a lot of action.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "With all we've been through, sometimes I'm amazed we're in as good condition as we are, what with the Rebellion and all.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "You know of the Rebellion against the Empire?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "That's how we came to be in your service, if you take my meaning, sir.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Have you been in many battles?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Several, I think. Actually, there's not much to tell. I'm not much more than an interpreter, and not very good at telling stories. Well, not at making them interesting, anyways",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, my little friend, you've got something jammed in here real good. Were you on a cruiser or...",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LEIA",
+        "text": "Help me, Obi-Wan Kenobi. You're my only hope.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "What's this?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "What is what?!? He asked you a question... (pointing to Leia) What is that?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LEIA",
+        "text": "Help me, Obi-Wan Kenobi. You're my only hope. Help me, Obi-Wan Kenobi. You're my only hope.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oh, he says it's nothing, sir. Merely a malfunction. Old data. Pay it no mind.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Who is she? She's beautiful.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I'm afraid I'm not quite sure, sir.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LEIA",
+        "text": "Help me, Obi-Wan Kenobi...",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I think she was a passenger on our last voyage. A person of some importance, sir -- I believe. Our captain was attached to...",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Is there more to this recording?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Behave yourself, ARTOO. You're going to get us in trouble. It's all right, you can trust him. He's our new master.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "He says he's the property of Obi-Wan Kenobi, a resident of these parts. And it's a private message for him. Quite frankly, sir I don't know what he's talking about. Our last master was Captain Antilles, but with what we've been through, this little R2 unit has become a bit eccentric.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Obi-Wan Kenobi? I wonder if he means old Ben Kenobi?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I beg your pardon, sir, but do you know what he's talking about?",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, I don't know anyone named Obi- Wan, but old Ben lives out beyond the dune sea. He's kind of a strange old hermit.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "I wonder who she is. It sounds like she's in trouble. I'd better play back the whole thing.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "He says the restraining bolt has short circuited his recording system. He suggests that if you remove the bolt, he might be able to play back the entire recording.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "H'm? Oh, yeah, well, I guess you're too small to run away on me if I take this off! Okay.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "There you go.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, wait a minute. Where'd she go? Bring her back! Play back the entire message.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "What message? The one you're carrying inside your rusty innards!",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "AUNT BERU",
+        "text": "Luke? Luke! Come to dinner!",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "All right, I'll be right there, Aunt Beru.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I'm sorry, sir, but he appears to have picked up a slight flutter.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, see what you can do with him. I'll be right back.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(to ARTOO) Just you reconsider playing that message for him.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "No, I don't think he likes you at all.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "No, I don't like you either.",
+        "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON"
+    },
+    {
+        "from": "LUKE",
+        "text": "You know, I think that R2 unit we bought might have been stolen.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "What makes you think that?",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, I stumbled across a recording while I was cleaning him. He says he belongs to someone called Obi-Wan Kenobi.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "I thought he might have meant old Ben. Do you know what he's talking about? Well, I wonder if he's related to Ben.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "That old man's just a crazy old wizard. Tomorrow I want you to take that R2 unit into Anchorhead and have its memory flushed. That'll be the end of it. It belongs to us now.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "But what if this Obi-Wan comes looking for him?",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "He won't, I don't think he exists any more. He died about the same time as your father.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "He knew my father?",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "I told you to forget it. Your only concern is to prepare the new droids for tomorrow. In the morning I want them on the south ridge working out those condensers.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Yes, sir. I think those new droids are going to work out fine. In fact, I, uh, was also thinking about our agreement about my staying on another season. And if these new droids do work out, I want to transmit my application to the Academy this year.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "You mean the next semester before harvest?",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Sure, there're more than enough droids.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "Harvest is when I need you the most. Only one more season. This year we'll make enough on the harvest so I'll be able to hire some more hands. And then you can go to the Academy next year.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "You must understand I need you here, Luke.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "But it's a whole 'nother year.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "Look, it's only one more season.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Yeah, that's what you said last year when Biggs and Tank left.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "AUNT BERU",
+        "text": "Where are you going?",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "It looks like I'm going nowhere. I have to finish cleaning those droids.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "AUNT BERU",
+        "text": "Owen, he can't stay here forever. Most of his friends have gone. It means so much to him.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "I'll make it up to him next year. I promise.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "AUNT BERU",
+        "text": "Luke's just not a farmer, Owen. He has too much of his father in him.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "OWEN",
+        "text": "That's what I'm afraid of.",
+        "where": "INT. LARS HOMESTEAD - DINING AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "What are you doing hiding there?",
+        "where": "INT. LARS HOMESTEAD - GARAGE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "It wasn't my fault, sir. Please don't deactivate me. I told him not to go, but he's faulty, malfunctioning; kept babbling on about his mission.",
+        "where": "INT. LARS HOMESTEAD - GARAGE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Oh, no!",
+        "where": "INT. LARS HOMESTEAD - GARAGE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "That R2 unit has always been a problem. These astro-droids are getting quite out of hand. Even I can't understand their logic at times.",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "LUKE",
+        "text": "How could I be so stupid? He's nowhere in sight. Blast it!",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Pardon me, sir, but couldn't we go after him?",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "LUKE",
+        "text": "It's too dangerous with all the Sandpeople around. We'll have to wait until morning.",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "OWEN",
+        "text": "Luke, I'm shutting the power down for the night.",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "LUKE",
+        "text": "All right, I'll be there in a few minutes. Boy, am I gonna get it.",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "LUKE",
+        "text": "You know that little droid is going to cause me a lot of trouble.",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oh, he excels at that, sir.",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "OWEN",
+        "text": "Luke? Luke? Luke? Where could he be loafing now!",
+        "where": "INT. LARS HOMESTEAD - PLAZA"
+    },
+    {
+        "from": "OWEN",
+        "text": "Have you seen Luke this morning?",
+        "where": "INT. LARS HOMESTEAD - KITCHEN"
+    },
+    {
+        "from": "AUNT BERU",
+        "text": "He said he had some things to do before he started today, so he left early.",
+        "where": "INT. LARS HOMESTEAD - KITCHEN"
+    },
+    {
+        "from": "OWEN",
+        "text": "Uh? Did he take those two new droids with him?",
+        "where": "INT. LARS HOMESTEAD - KITCHEN"
+    },
+    {
+        "from": "AUNT BERU",
+        "text": "I think so.",
+        "where": "INT. LARS HOMESTEAD - KITCHEN"
+    },
+    {
+        "from": "OWEN",
+        "text": "Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay!",
+        "where": "INT. LARS HOMESTEAD - KITCHEN"
+    },
+    {
+        "from": "LUKE",
+        "text": "(yelling) How's that.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Old Ben Kenobi lives out in this direction somewhere, but I don't see how that R2 unit could have come this far. We must have missed him. Uncle Owen isn't going to take this very well.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Sir, would it help if you told him it was my fault.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "(brightening) Sure. He needs you. He'd probably only deactivate you for a day or so...",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Deactivate! Well, on the other hand if you hadn't removed his restraining bolt...",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Wait, there's something dead ahead on the scanner. It looks like our droid... hit the accelerator.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Hey, whoa, just where do you think you're going?",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Master Luke here is your rightful owner. We'll have no more of this Obi-Wan Kenobi jibberish... and don't talk to me about your mission, either. You're fortunate he doesn't blast you into a million pieces right here.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, come on. It's getting late. I only hope we can get back before Uncle Owen really blows up.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "If you don't mind my saying so, sir, I think you should deactivate the little fugitive until you've gotten him back to your workshop.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "No, he's not going to try anything.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "What's wrong with him now?",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oh my... sir, he says there are several creatures approaching from the southeast.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Sandpeople! Or worst! Come on, let's have a look. Come on.",
+        "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "There are two Banthas down there but I don't see any... wait a second, they're Sandpeople all right. I can see one of them now.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Hello there! Come here my little friend. Don't be afraid.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Don't worry, he'll be all right.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "What happened?",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Rest easy, son, you've had a busy day. You're fortunate you're still in one piece.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Ben? Ben Kenobi! Boy, am I glad to see you!",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "The Jundland wastes are not to be traveled lightly. Tell me young Luke, what brings you out this far?",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Oh, this little droid! I think he's searching for his former master... I've never seen such devotion in a droid before... there seems to be no stopping him. He claims to be the property of an Obi-Wan Kenobi. Is he a relative of yours? Do you know who he's talking about?",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Obi-Wan Kenobi... Obi-Wan? Now thats a name I haven't heard in a long time... a long time.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "I think my uncle knew him. He said he was dead.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Oh, he's not dead, not... not yet.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "You know him!",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Well of course, of course I know him. He's me! I haven't gone by the name Obi-Wan since oh, before you were born.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Then the droid does belong to you.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Don't seem to remember ever owning a droid. Very interesting...",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "I think we better get indoors. The Sandpeople are easily startled but they will soon be back and in greater numbers.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Threepio!",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Where am I? I must have taken a bad step...",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Can you stand? We've got to get out of here before the Sandpeople return.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I don't think I can make it. You go on, Master Luke. There's no sense in you risking yourself on my account. I'm done for.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "No, you're not. What kind of talk is that?",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Quickly, son... they're on the move.",
+        "where": "EXT. TATOOINE - ROCK CANYON - RIDGE - DA"
+    },
+    {
+        "from": "LUKE",
+        "text": "No, my father didn't fight in the wars. He was a navigator on a spice freighter.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "That's what your uncle told you. He didn't hold with your father's ideals. Thought he should have stayed here and not gotten involved.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "You fought in the Clone Wars?",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Yes, I was once a Jedi Knight the same as your father.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "I wish I'd known him.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "He was the best star-pilot in the galaxy, and a cunning warrior. I understand you've become quite a good pilot yourself. And he was a good friend. Which reminds me...",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "I have something here for you. Your father wanted you to have this when you were old enough, but your uncle wouldn't allow it. He feared you might follow old Obi-Wan on some damned-fool idealistic crusade like your father did.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Sir, if you'll not be needing me, I'll close down for awhile.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "Sure, go ahead.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "What is it?",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Your fathers lightsaber. This is the weapon of a Jedi Knight. Not as clumsy or as random as a blaster.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "An elegant weapon for a more civilized time. For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times, before the Empire.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "How did my father die?",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "A young Jedi named Darth Vader, who was a pupil of mine until he turned to evil, helped the Empire hunt down and destroy the Jedi Knights. He betrayed and murdered your father. Now the Jedi are all but extinct. Vader was seduced by the dark side of the Force.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "The Force?",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Well, the Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Now, let's see if we can't figure out what you are, my little friend. And where you come from.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "I saw part of the message he was...",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "I seem to have found it.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LEIA",
+        "text": "General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire. I regret that I am unable to present my father's request to you in person, but my ship has fallen under attack and I'm afraid my mission to bring you to Alderaan has failed. I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit. My father will know how to retrieve it. You must see this droid safely delivered to him on Alderaan. This is our most desperate hour. Help me, Obi-Wan Kenobi, you're my only hope.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You must learn the ways of the Force if you're to come with me to Alderaan.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "(laughing) Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "I need your help, Luke. She needs your help. I'm getting too old for this sort of thing.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "I can't get involved! I've got work to do! It's not that I like the Empire. I hate it! But there's nothing I can do about it right now. It's such a long way from here.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "That's your uncle talking.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "(sighing) Oh, God, my uncle. How am I ever going to explain this?",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Learn about the Force, Luke.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "LUKE",
+        "text": "Look, I can take you as far as Anchorhead. You can get a transport there to Mos Eisley or wherever you're going.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You must do what you feel is right, of course.",
+        "where": "INT. KENOBI'S DWELLING"
+    },
+    {
+        "from": "TAGGE",
+        "text": "Until this battle station is fully operational we are vulnerable. The Rebel Alliance is too well equipped. They're more dangerous than you realize.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "MOTTI",
+        "text": "Dangerous to your starfleet, Commander, not to this battle station!",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TAGGE",
+        "text": "The Rebellion will continue to gain a support in the Imperial Senate as long as....",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "The Imperial Senate will no longer be of any concern to us. I've just received word that the Emperor has dissolved the council permanently. The last remnants of the Old Republic have been swept away.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TAGGE",
+        "text": "That's impossible! How will the Emperor maintain control without the bureaucracy?",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "The regional governors now have direct control over territories. Fear will keep the local systems in line. Fear of this battle station.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TAGGE",
+        "text": "And what of the Rebellion? If the Rebels have obtained a complete technical readout of this station, it is possible, however unlikely, that they might find a weakness and exploit it.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "The plans you refer to will soon be back in our hands.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "MOTTI",
+        "text": "Any attack made by the Rebels against this station would be a useless gesture, no matter what technical data they've obtained. This station is now the ultimate power in the universe. I suggest we use it!",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "MOTTI",
+        "text": "Don't try to frighten us with your sorcerer's ways, Lord Vader. Your sad devotion to that ancient religion has not helped you conjure up the stolen data tapes, or given you clairvoyance enough to find the Rebel's hidden fort...",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I find your lack of faith disturbing.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Enough of this! Vader, release him!",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "As you wish.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "This bickering is pointless. Lord Vader will provide us with the location of the Rebel fortress by the time this station is operational. We will then crush the Rebellion with one swift stroke.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "It looks like Sandpeople did this, all right. Look, here are Gaffi sticks, Bantha tracks. It's just... I never heard of them hitting anything this big before.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "They didn't. But we are meant to think they did. These tracks are side by side. Sandpeople always ride single file to hide there numbers.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "LUKE",
+        "text": "These are the same Jawas that sold us ARTOO and Threepio.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "And these blast points, too accurate for Sandpeople. Only Imperial stormtroopers are so precise.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "LUKE",
+        "text": "Why would Imperial troops want to slaughter Jawas?",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "LUKE",
+        "text": "If they traced the robots here, they may have learned who they sold them to. And that would lead them home!",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Wait, Luke! It's too dangerous.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "LUKE",
+        "text": "Uncle Owen! Aunt Beru! Uncle Owen!",
+        "where": "EXT. TATOOINE - LARS HOMESTEAD"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "And, now Your Highness, we will discuss the location of your hidden Rebel base.",
+        "where": "INT. DEATH STAR - DETENTION CORRIDOR"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "There's nothing you could have done, Luke, had you been there. You'd have been killed, too, and the droids would be in the hands of the Empire.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "LUKE",
+        "text": "I want to come with you to Alderaan. There's nothing here for me now. I want to learn the ways of the Force and become a Jedi like my father.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Mos Eisley Spaceport. You will never find a more wretched hive of scum and villainy. We must be cautious.",
+        "where": "EXT. TATOOINE - WASTELAND"
+    },
+    {
+        "from": "TROOPER",
+        "text": "How long have you had these droids?",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "LUKE",
+        "text": "About three or four seasons.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "They're for sale if you want them.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "Let me see your identification.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You don't need to see his identification.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "We don't need to see his identification.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "These are not the droids your looking for.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "These are not the droids we're looking for.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "He can go about his business.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "You can go about your business.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "(to Luke) Move along.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "Move along. Move along.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I can't abide these Jawas. Disgusting creatures.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "LUKE",
+        "text": "Go on, go on. I can't understand how we got by those troopers. I thought we were dead.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "The Force can have a strong influence on the weak-minded. You will find it a powerful ally.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "LUKE",
+        "text": "Do you really think we're going to find a pilot here that'll take us to Alderaan?",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Well, most of the best freighter pilots can be found here. Only watch your step. This place can be a little rough.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'm ready for anything.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Come along, ARTOO.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "BARTENDER",
+        "text": "We don't serve their kind here!",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "LUKE",
+        "text": "What?",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "BARTENDER",
+        "text": "Your droids. They'll have to wait outside. We don't want them here.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Listen, why don't you wait out by the speeder. We don't want any trouble.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I heartily agree with you sir.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "CREATURE",
+        "text": "Negola dewaghi wooldugger?!?",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HUMAN",
+        "text": "He doesn't like you.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'm sorry.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HUMAN",
+        "text": "I don't like you either.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HUMAN",
+        "text": "Don't insult us. You just watch yourself. We're wanted men. I have the death sentence in twelve systems.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'll be careful than.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HUMAN",
+        "text": "You'll be dead.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "This little one isn't worth the effort. Come let me buy you something...",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "BARTENDER",
+        "text": "No blasters! No blaster!",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "This is CHEWBACCA. He's first-mate on a ship that might suit our needs.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I don't like the look of this.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Han Solo. I'm captain of the Millennium Falcon. Chewie here tells me you're looking for passage to the Alderaan system.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Yes, indeed. If it's a fast ship.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Fast ship? You've never heard of the Millennium Falcon?",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Should I have?",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "It's the ship that made the Kessel run in less than twelve parsecs!",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I've outrun Imperial starships, not the local bulk-cruisers, mind you. I'm talking about the big Corellian ships now. She's fast enough for you, old man. What's the cargo?",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Only passengers. Myself, the boy, two droids, and no questions asked.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What is it? Some kind of local trouble?",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Let's just say we'd like to avoid any Imperial entanglements.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Well, that's the trick, isn't it? And it's going to cost you something extra. Ten thousand in advance.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Ten thousand? We could almost buy our own ship for that!",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "But who's going to fly it, kid! You?",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "LUKE",
+        "text": "You bet I could. I'm not such a bad pilot myself! We don't have to sit here and listen...",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "We haven't that much with us. But we could pay you two thousand now, plus fifteen when we reach Alderaan.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Seventeen, huh!",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Okay. You guys got yourself a ship. We'll leave as soon as you're ready. Docking bay Ninety-four.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Ninety-four.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Looks like somebody's beginning to take an interest in your handiwork.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "TROOPER",
+        "text": "All right, we'll check it out.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Seventeen thousand! Those guys must really be desperate. This could really save my neck. Get back to the ship and get her ready.",
+        "where": "INT. TATOOINE - MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You'll have to sell your speeder.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "LUKE",
+        "text": "That's okay. I'm never coming back to this planet again.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "GREEDO",
+        "text": "Going somewhere, Solo?",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Yes, Greedo. As a matter of fact, I was just going to see your boss. Tell Jabba that I've got his money.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "GREEDO",
+        "text": "It's too late. You should have paid him when you had the chance. Jabba's put a price on your head, so large that every bounty hunter in the galaxy will be looking for you. I'm lucky I found you first.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Yeah, but this time I got the money.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "GREEDO",
+        "text": "If you give it to me, I might forget I found you.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I don't have it with me. Tell Jabba...",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "GREEDO",
+        "text": "Jabba's through with you. He has no time for smugglers who drop their shipments at the first sign of an Imperial cruiser.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Even I get boarded sometimes. Do you think I had a choice?",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "GREEDO",
+        "text": "You can tell that to Jabba. He may only take your ship.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Over my dead body.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "GREEDO",
+        "text": "That's the idea. I've been looking forward to killing you for a long time.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Yes, I'll bet you have.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Sorry about the mess.",
+        "where": "INT. MOS EISLEY - CANTINA"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Her resistance to the mind probe is considerable. It will be some time before we can extract any information from her.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "IMPERIAL OFFICER",
+        "text": "The final check-out is complete. All systems are operational. What course shall we set?",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Perhaps she would respond to an alternative form of persuasion.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "What do you mean?",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "I think it is time we demonstrate the full power of this station. (to soldier) Set your course for Princess Leia's home planet of Alderaan.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TROOPER",
+        "text": "With pleasure.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Lock the door, ARTOO.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "All right, check that side of the street. It's secure. Move on to the next door.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I would much rather have gone with Master Luke than stay here with you. I don't know what all the trouble is about, but I'm sure it must be your fault.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "You watch your language!",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "LUKE",
+        "text": "He says it's the best he can do. Since the XP-38 came out, they're just not in demand.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED SPEEDER LOT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "It will be enough.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED SPEEDER LOT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "If the ship's as fast as he's boasting, we ought to do well.",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED SPEEDER LOT"
+    },
+    {
+        "from": "JABBA",
+        "text": "Come on out, Solo!",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I've been waiting for you, Jabba.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "JABBA",
+        "text": "I expected you would be.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I'm not the type to run.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "JABBA",
+        "text": "(fatherly-smooth) Han, my boy, there are times when you disappoint me... why haven't you paid me? And why did you have to fry poor Greedo like that... after all we've been through together.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "You sent Greedo to blast me.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "JABBA",
+        "text": "(mock surprise) Han, why you're the best smuggler in the business. You're too valuable to fry. He was only relaying my concern at your delays. He wasn't going to blast you.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I think he thought he was. Next time don't send one of those twerps. If you've got something to say to me, come see me yourself.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "JABBA",
+        "text": "Han, Han! If only you hadn't had to dump that shipment of spice... you understand I just can't make an exception. Where would I be if every pilot who smuggled for me dumped their shipment at the first sign of an Imperial starship? It's not good business.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "You know, even I get boarded sometimes, Jabba. I had no choice, but I've got a charter now and I can pay you back, plus a little extra. I just need some more time.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "JABBA",
+        "text": "(to his men) Put your blasters away. Han, my boy, I'm only doing this because you're the best and I need you. So, for an extra, say twenty percent I'll give you a little more time... but this is it. If you disappoint me again, I'll put a price on your head so large you won't be able to go near a civilized system for the rest of your short life.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Jabba, I'll pay you because it's my pleasure.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "What a piece of junk.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "She'll make point five beyond the speed of light. She may not look like much, but she's got it where it counts, kid. I've added some special modifications myself.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "We're a little rushed, so if you'll hurry aboard we'll get out of here.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Hello, sir.",
+        "where": "INT. DOCKING BAY 94 - DAY"
+    },
+    {
+        "from": "TROOPER",
+        "text": "Which way?",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "All right, men. Load your weapons!",
+        "where": "EXT. TATOOINE - MOS EISLEY - STREET"
+    },
+    {
+        "from": "TROOPER",
+        "text": "Stop that ship!",
+        "where": "INT. MOS EISLEY SPACEPORT - DOCKING BAY 94"
+    },
+    {
+        "from": "TROOPER",
+        "text": "Blast 'em!",
+        "where": "INT. MOS EISLEY SPACEPORT - DOCKING BAY 94"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Chewie, get us out of here!",
+        "where": "INT. MILLENNIUM FALCON"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oh, my. I'd forgotten how much I hate space travel.",
+        "where": "INT. MILLENNIUM FALCON"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "It looks like an Imperial cruiser. Our passengers must be hotter than I thought. Try and hold them off. Angle the deflector shield while I make the calculations for the jump to light speed.",
+        "where": "INT. MILLENNIUM FALCON"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Stay sharp! There are two more coming in; they're going to try to cut us off.",
+        "where": "INT. MILLENNIUM FALCON"
+    },
+    {
+        "from": "LUKE",
+        "text": "Why don't you outrun them? I thought you said this thing was fast.",
+        "where": "INT. MILLENNIUM FALCON"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Watch your mouth, kid, or you're going to find yourself floating home. We'll be safe enough once we make the jump to hyperspace. Besides, I know a few maneuvers. We'll lose them!",
+        "where": "INT. MILLENNIUM FALCON"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Here's where the fun begins!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "How long before you can make the jump to light speed?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "It'll take a few moments to get the coordinates from the navi-computer.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Are you kidding? At the rate they're gaining...",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Traveling through hyperspace isn't like dusting crops, boy! Without precise calculations we could fly right through a star or bounce too close to a supernova and that'd end your trip real quick, wouldn't it?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "What's that flashing?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "We're losing our deflector shield. Go strap yourself in, I'm going to make the jump to light speed.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "MOTTI",
+        "text": "We've entered the Alderaan system.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "Governor Tarkin, I should have expected to find you holding Vader's leash. I recognized your foul stench when I was brought on board.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Charming to the last. You don't know how hard I found it signing the order to terminate your life!",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "I surprised you had the courage to take the responsibility yourself!",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Princess Leia, before your execution I would like you to be my guest at a ceremony that will make this battle station operational. No star system will dare oppose the Emperor now.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "The more you tighten your grip, Tarkin, the more star systems will slip through your fingers.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Not after we demonstrate the power of this station. In a way, you have determined the choice of the planet that'll be destroyed first. Since you are reluctant to provide us with the location of the Rebel base, I have chosen to test this station's destructive power... on your home planet of Alderaan.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "No! Alderaan is peaceful. We have no weapons. You can't possibly...",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "You would prefer another target? A military target? Then name the system!",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "I grow tired of asking this. So it'll be the last time. Where is the Rebel base?",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "(softly) Dantooine.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "They're on Dantooine.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "There. You see Lord Vader, she can be reasonable. (addressing Motti) Continue with the operation. You may fire when ready.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "What?",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "You're far too trusting. Dantooine is too remote to make an effective demonstration. But don't worry. We will deal with your Rebel friends soon enough.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "No!",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Commence primary ignition.",
+        "where": "INT. DEATH STAR - BLAST CHAMBER"
+    },
+    {
+        "from": "LUKE",
+        "text": "Are you all right? What's wrong?",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "I felt a great disturbance in the Force... as if millions of voices suddenly cried out in terror and were suddenly silenced. I fear something terrible has happened.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You'd better get on with your exercises.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Well, you can forget your troubles with those Imperial slugs. I told you I'd outrun 'em.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Don't everyone thank me at once.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Anyway, we should be at Alderaan about oh-two-hundred hours.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Now be careful, ARTOO.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "He made a fair move. Screaming about it won't help you.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(interrupting) Let him have it. It's not wise to upset a Wookiee.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "But sir, nobody worries about upsetting a droid.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "That's 'cause droids don't pull people's arms out of their socket when they lose. Wookiees are known to do that.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I see your point, sir. I suggest a new strategy, ARTOO. Let the Wookiee win.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Remember, a Jedi can feel the Force flowing through him.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "You mean it controls your actions?",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Partially. But it also obeys your commands.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Hokey religions and ancient weapons are no match for a good blaster at your side, kid.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "You don't believe in the Force, do you?",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Kid, I've flown from one side of this galaxy to the other. I've seen a lot of strange stuff, but I've never seen anything to make me believe there's one all-powerful force controlling everything. There's no mystical energy field that controls my destiny.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "It's all a lot of simple tricks and nonsense.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "I suggest you try it again, Luke.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "This time, let go your conscious self and act on instinct.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "(laughing) With the blast shield down, I can't even see. How am I supposed to fight?",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Your eyes can deceive you. Don't trust them.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Stretch out with your feelings.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You see, you can do it.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I call it luck.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "In my experience, there's no such thing as luck.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Look, going good against remotes is one thing. Going good against the living? That's something else.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Looks like we're coming up on Alderaan.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "You know, I did feel something. I could almost see the remote.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "That's good. You have taken your first step into a larger world.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Yes.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "OFFICER CASS",
+        "text": "Our scout ships have reached Dantooine. They found the remains of a Rebel base, but they estimate that it has been deserted for some time. They are now conducting an extensive search of the surrounding systems.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "She lied! She lied to us!",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I told you she would never consciously betray the Rebellion.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Terminate her... immediately!",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Stand by, Chewie, here we go. Cut in the sublight engines.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What the...? Aw, we've come out of hyperspace into a meteor shower. Some kind of asteroid collision. It's not on any of the charts.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "What's going on?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Our position is correct, except... no, Alderaan!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "What do you mean? Where is it?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Thats what I'm trying to tell you, kid. It ain't there. It's been totally blown away.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "What? How?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Destroyed... by the Empire!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "The entire starfleet couldn't destroy the whole planet. It'd take a thousand ships with more fire power than I've...",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "There's another ship coming in.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Maybe they know what happened.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "It's an Imperial fighter.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "It followed us!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "No. It's a short range fighter.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "There aren't any bases around here. Where did it come from?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "It sure is leaving in a big hurry. If they identify us, we're in big trouble.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Not if I can help it. Chewie...jam it's transmissions.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "It'd be as well to let it go. It's too far out of range.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Not for long...",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "A fighter that size couldn't get this deep into space on its own.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "It must have gotten lost, been part of a convoy or something.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Well, he ain't going to be around long enough to tell anyone about us",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Look at him. He's headed for that small moon.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I think I can get him before he gets there... he's almost in range.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "That's no moon! It's a space station.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "It's too big to be a space station.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "I have a very bad feeling about this.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Yeah, I think your right. Full reverse! Chewie, lock in the auxiliary power.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Why are we still moving towards it?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "We're caught in a tractor beam! It's pulling us in!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "But there's gotta be something you can do!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "There's nothin' I can do about it, kid. I'm in full power. I'm going to have to shut down. But they're not going to get me without a fight!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You can't win. But there are alternatives to fighting.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "VOICE OVER DEATH STAR INTERCOM",
+        "text": "Clear Bay twenty-three-seven. We are opening the magnetic field.",
+        "where": "EXT. DEATH STAR - HUGE PORT DOORS"
+    },
+    {
+        "from": "OFFICER",
+        "text": "To you stations! (to another officer) Come with me.",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "OFFICER",
+        "text": "Close all outboard shields! Close all outboard shields!",
+        "where": "INT. DEATH STAR - HANGAR 2037"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Yes.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "VOICE",
+        "text": "(over intercom) We've captured a freighter entering the remains of the Alderaan system. It's markings match those of a ship that blasted its way out of Mos Eisley.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "They must be trying to return the stolen plans to the princess. She may yet be of some use to us.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "VOICE",
+        "text": "(over intercom) Unlock one-five-seven and nine. Release charges.",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "OFFICER",
+        "text": "(to Vader) There's no one on board, sir. According to the log, the crew abandoned ship right after takeoff. It must be a decoy, sir. Several of the escape pods have been jettisoned.",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Did you find any droids?",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "OFFICER",
+        "text": "No, sir. If there were any on board, they must also have jettisoned.",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Send a scanning crew on board. I want every part of this ship checked.",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "OFFICER",
+        "text": "Yes, sir.",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I sense something... a presence I haven't felt since...",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "OFFICER",
+        "text": "Get me a scanning crew in here on the double. I want every part of this ship checked!",
+        "where": "INT. DEATH STAR - DOCKING BAY 2037"
+    },
+    {
+        "from": "LUKE",
+        "text": "Boy, it's lucky you had these compartments.",
+        "where": "INT. MILLENNIUM FALCON - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous. Even if I could take off, I'd never get past the tractor beam.",
+        "where": "INT. MILLENNIUM FALCON - HALLWAY"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Leave that to me!",
+        "where": "INT. MILLENNIUM FALCON - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Damn fool. I knew that you were going to say that!",
+        "where": "INT. MILLENNIUM FALCON - HALLWAY"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Who's the more foolish... the fool or the fool who follows him?",
+        "where": "INT. MILLENNIUM FALCON - HALLWAY"
+    },
+    {
+        "from": "TROOPER",
+        "text": "The ship's all yours. If the scanners pick up anything, report it immediately. All right, let's go.",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Hey down there, could you give us a hand with this?",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY"
+    },
+    {
+        "from": "GANTRY OFFICER",
+        "text": "TX-four-one-two. Why aren't you at your post? TX-four-one-two, do you copy?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "GANTRY OFFICER",
+        "text": "Take over. We've got a bad transmitter. I'll see what I can do.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "You know, between his howling and your blasting everything in sight, it's a wonder the whole station doesn't know we're here.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Bring them on! I prefer a straight fight to all this sneaking around.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "We found the computer outlet, sir.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Plug in. He should be able to interpret the entire Imperial computer network.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "He says he's found the main computer to power the tractor beam that's holding the ship here. He'll try to make the precise location appear on the monitor.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "The tractor beam is coupled to the main reactor in seven locations. A power loss at one of the terminals will allow the ship to leave.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "I don't think you boys can help. I must go alone.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Whatever you say. I've done more that I bargained for on this trip already.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "I want to go with you.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Be patient, Luke. Stay and watch over the droids.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "But he can...",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "They must be delivered safely or other star systems will suffer the same fate as Alderaan. Your destiny lies along a different path than mine. The Force will be with you... always!",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Boy you said it, Chewie.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Where did you dig up that old fossil?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Ben is a great man.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Yeah, great at getting us into trouble.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "I didn't hear you give any ideas...",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Well, anything would be better than just hanging around waiting for him to pick us up...",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Who do you think...",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "What is it?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I'm afraid I'm not quite sure, sir. He says \"I found her\", and keeps repeating, \"She's here.\"",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, who... who has he found?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Princess Leia.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "The princess? She's here?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Princess? What's going on?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Level five. Detention block A A-twenty- three. I'm afraid she's scheduled to be terminated.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Oh, no! We've got to do something.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What are you talking about?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "The droid belongs to her. She's the one in the message... We've got to help her.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Now, look, don't get any funny ideas. The old man wants us to wait right here.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "But he didn't know she was here. Look, will you just find a way back into the detention block?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I'm not going anywhere.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "They're going to execute her. Look, a few minutes ago you said you didn't want to just wait here to be captured. Now all you want to do is stay.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Marching into the detention area is not what I had in mind.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "But they're going to kill her!",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Better her than me...",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "She's rich.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Rich?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Yes. Rich, powerful! Listen, if you were to rescue her, the reward would be...",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well more wealth that you can imagine.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I don't know, I can imagine quite a bit!",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "You'll get it!",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I better!",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "You will...",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "All right, kid. But you'd better be right about this.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "All right.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What's your plan?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Uh... Threepio, hand me those binders there will you?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Okay. Now, I'm going to put these on you.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Okay. Han, you put these on.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Don't worry, Chewie. I think I know what he has in mind.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Master Luke, sir! Pardon me for asking... but, ah... what should ARTOO and I do if we're discovered here?",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "Lock the door!",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "And hope they don't have blasters.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "That isn't very reassuring.",
+        "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE"
+    },
+    {
+        "from": "LUKE",
+        "text": "I can't see a thing in this helmet.",
+        "where": "INT. DEATH STAR - DETENTION AREA - ELEVATOR TUBE"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "This is not going to work.",
+        "where": "INT. DEATH STAR - INTERIOR ELEVATOR - DETENTION SECURITY AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Why didn't you say so before?",
+        "where": "INT. DEATH STAR - INTERIOR ELEVATOR - DETENTION SECURITY AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I did say so before!",
+        "where": "INT. DEATH STAR - INTERIOR ELEVATOR - DETENTION SECURITY AREA"
+    },
+    {
+        "from": "OFFICER",
+        "text": "Where are you taking this... thing?",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "Prisoner transfer from Block one-one- three-eight.",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "OFFICER",
+        "text": "I wasn't notified. I'll have to clear it.",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Look out! He's loose!",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "LUKE",
+        "text": "He's going to pull us all apart.",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Go get him!",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "We've got to find out which cell this princess of yours is in. Here it is... cell twenty-one-eight-seven. You go get her. I'll hold them here.",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(sounding official) Everything is under control. Situation normal.",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "INTERCOM VOICE",
+        "text": "What happened?",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(getting nervous) Uh... had a slight weapons malfunction. But, uh, everything's perfectly all right now. We're fine. We're all fine here, now, thank you. How are you?",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "INTERCOM VOICE",
+        "text": "We're sending a squad up.",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Uh, uh, negative. We had a reactor leak here now. Give us a few minutes to lock it down. Large leak... very dangerous.",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "INTERCOM VOICE",
+        "text": "Who is this? What's your operating number?",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Boring conversation anyway. (yelling down the hall) Luke! We're going to have company!",
+        "where": "INT. DETENTION AREA"
+    },
+    {
+        "from": "LEIA",
+        "text": "(finally) Aren't you a little short to be a stormtrooper?",
+        "where": "INT. DEATH STAR - CELL ROW"
+    },
+    {
+        "from": "LUKE",
+        "text": "What? Oh... the uniform. I'm Luke Skywalker. I'm here to rescue you.",
+        "where": "INT. DEATH STAR - CELL ROW"
+    },
+    {
+        "from": "LEIA",
+        "text": "You're who?",
+        "where": "INT. DEATH STAR - CELL ROW"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'm here to rescue you. I've got your R2 unit. I'm here with Ben Kenobi.",
+        "where": "INT. DEATH STAR - CELL ROW"
+    },
+    {
+        "from": "LEIA",
+        "text": "Ben Kenobi is here! Where is he?",
+        "where": "INT. DEATH STAR - CELL ROW"
+    },
+    {
+        "from": "LUKE",
+        "text": "Come on!",
+        "where": "INT. DEATH STAR - CELL ROW"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "He is here...",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Obi-Wan Kenobi! What makes you think so?",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "A tremor in the Force. The last time I felt it was in the presence of my old master.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Surely he must be dead by now.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Don't underestimate the power of the Force.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "The Jedi are extinct, their fire has gone out of the universe. You, my friend, are all that's left of their religion.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Yes.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "INTERCOM VOICE",
+        "text": "Governor Tarkin, we have an emergency alert in detention block A A-twenty- three.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "The princess! Put all sections on alert!",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Obi-Wan is here. The Force is with him.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "If you're right, he must not be allowed to escape.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Escape is not his plan. I must face him alone.",
+        "where": "INT. DEATH STAR - CONFERENCE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Chewie!",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Get behind me! Get behind me!",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Can't get out that way.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "Looks like you managed to cut off our only escape route.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(sarcastically) Maybe you'd like it back in your cell, Your Highness.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "See-Threepio! See-Threepio!",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(over comlink) Yes sir?",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "We've been cut off! Are there any other ways out of the cell bay?... What was that? I didn't copy!",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "I said, all systems have been alerted to your presence, sir. The main entrance seems to be the only way in or out; all other information on your level is restricted.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "TROOPER VOICE",
+        "text": "Open up in there!",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oh, no!",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "There isn't any other way out.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I can't hold them off forever! Now what?",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "This is some rescue. When you came in here, didn't you have a plan for getting out?",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(pointing to Luke) He's the brains, sweetheart.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, I didn't...",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What the hell are you doing?",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "Somebody has to save our skins. Into the garbage chute, wise guy.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Get in there you big furry oaf! I don't care what you smell! Get in there and don't worry about it.",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Wonderful girl! Either I'm going to kill her or I'm beginning to like her. Get in there!",
+        "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(sarcastically) Oh! The garbage chute was a really wonderful idea. What an incredible smell you've discovered! Let's get out of here! Get away from there...",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "No! wait!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Will you forget it? I already tried it. It's magnetically sealed!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "Put that thing away! You're going to get us all killed.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Absolutely, Your Worship. Look, I had everything under control until you led us down here. You know, it's not going to take them long to figure out what happened to us.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "It could be worse...",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "It's worse.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "There's something alive in here!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "That's your imagination.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Something just moves past my leg! Look! Did you see that?",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What?",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Help!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Luke! Luke! Luke!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "Luke!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "Luke, Luke, grab a hold of this.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Blast it, will you! My gun's jammed.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Where?",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Anywhere! Oh!!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Luke! Luke!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "Grab him!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "What happened?",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "I don't know, it just let go of me and disappeared...",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I've got a very bad feeling about this.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "The walls are moving!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "Don't just stand there. Try to brace it with something.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Wait a minute!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Threepio! Come in Threepio! Threepio! Where could he be?",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "FIRST TROOPER",
+        "text": "Take over! (pointing to the dead officer) See to him! Look there!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "They're madmen! They're heading for the prison level. If you hurry, you might catch them.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "FIRST OFFICER",
+        "text": "(to his troops) Follow me! You stand guard.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(to ARTOO) Come on!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oh! All this excitement has overrun the circuits of my counterpart here. If you don't mind, I'd like to take him down to maintenance.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "TROOPER",
+        "text": "All right.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Threepio! Come in, Threepio! Threepio!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Get to the top!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "I can't",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Where could he be? Threepio! Threepio, will you come in?",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "They aren't here! Something must have happened to them. See if they've been captured.",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Hurry!",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "One thing's for sure. We're all going to be a lot thinner! (to Leia) Get on top of it!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LEIA",
+        "text": "I'm trying!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(to ARTOO) Thank goodness, they haven't found them! Where could they be?",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Use the comlink? Oh, my! I forgot I turned it off!",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Are you there, sir?",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "LUKE",
+        "text": "Threepio!",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "We've had some problems...",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over comlink) Will you shut up and listen to me? Shut down all garbage mashers on the detention level, will you? Do you copy?",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "LUKE",
+        "text": "Shut down all the garbage mashers on the detention level.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over comlink) Shut down all the garbage mashers on the detention level.",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(to ARTOO) No. Shut them all down! Hurry!",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Listen to them! They're dying, ARTOO! Curse my metal body! I wasn't fast enough. It's all my fault! My poor master!",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over comlink) Threepio, we're all right!",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "LUKE",
+        "text": "We're all right. You did great.",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "Hey... hey, open the pressure maintenance hatch on unit number... where are we?",
+        "where": "INT. DEATH STAR - GARBAGE ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(over comlink) Three-two-six-eight-two-seven.",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "If we can just avoid any more female advice, we ought to be able to get out of here.",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Well, let's get moving!",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to Chewie) Where are you going?",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "No, wait. They'll hear!",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to Chewie) Come here, you big coward!",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Chewie! Come here!",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "Listen. I don't know who you are, or where you came from, but from now on, you do as I tell you. Okay?",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Look, Your Worshipfulness, let's get one thing straight! I take orders from one person! Me!",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "It's a wonder you're still alive. (looking at Chewie) Will somebody get this big walking carpet out of my way?",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "No reward is worth this.",
+        "where": "INT. DEATH STAR - UNUSED HALLWAY"
+    },
+    {
+        "from": "OFFICER",
+        "text": "Secure this area until the alert is canceled.",
+        "where": "INT. DEATH STAR - POWER TRENCH"
+    },
+    {
+        "from": "FIRST TROOPER",
+        "text": "Give me regular reports.",
+        "where": "INT. DEATH STAR - POWER TRENCH"
+    },
+    {
+        "from": "FIRST TROOPER",
+        "text": "Do you know what's going on?",
+        "where": "INT. DEATH STAR - POWER TRENCH"
+    },
+    {
+        "from": "SECOND TROOPER",
+        "text": "Maybe it's another drill.",
+        "where": "INT. DEATH STAR - POWER TRENCH"
+    },
+    {
+        "from": "SECOND TROOPER",
+        "text": "What was that?",
+        "where": "INT. DEATH STAR - POWER TRENCH"
+    },
+    {
+        "from": "FIRST TROOPER",
+        "text": "Oh, it's nothing. Don't worry about it.",
+        "where": "INT. DEATH STAR - POWER TRENCH"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(looking at his ship) There she is.",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "See-Threepio, do you copy?",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "(voice) For the moment. Uh, we're in the main hangar across from the ship.",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "We're right above you. Stand by.",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "You came in that thing? You're braver that I thought.",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Nice! Come on!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "FIRST TROOPER",
+        "text": "It's them! Blast them",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to Luke and Leia) Get back to the ship!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Where are you going? Come back!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "He certainly has courage.",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "What good will it do us if he gets himself killed? Come o",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "(gasping) I think we took a wrong turn.",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LEIA",
+        "text": "There's no lock!",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LUKE",
+        "text": "That oughta hold it for a while.",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LEIA",
+        "text": "Quick, we've got to get across. Find the control that extends the bridge.",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Oh, I think I just blasted it.",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LEIA",
+        "text": "They're coming through!",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Here, hold this.",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LEIA",
+        "text": "Here they come!",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "LEIA",
+        "text": "For luck!",
+        "where": "INT. DEATH STAR - CENTRAL CORE SHAFT"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Where could they be?",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY"
+    },
+    {
+        "from": "TROOPER",
+        "text": "Close the blast doors!",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY"
+    },
+    {
+        "from": "TROOPER",
+        "text": "Open the blast doors! Open the blast doors!",
+        "where": "INT. DEATH STAR - MAIN FORWARD BAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I've been waiting for you, Obi-Wan. We meet again, at last. The circle is now complete.",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "When I left you, I was but the learner; now I am the master.",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "Only a master of evil, Darth.",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Your powers are weak, old man.",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "OBI-WAN",
+        "text": "You can't win, Darth. If you strike me down, I shall become more powerful than you can possibly imagine.",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Didn't we just leave this party?",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What kept you?",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "We ran into some old friends.",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Is the ship all right?",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Seems okay, if we can get to it. Just hope the old man got the tractor beam out of commission.",
+        "where": "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Look!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Come on, ARTOO, we're going!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Now's our chance! Go!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "No!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to Luke) Come on!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "Come on! Luke, its too late!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Blast the door! Kid!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "OBI WAN",
+        "text": "Run, Luke! Run!",
+        "where": "INT. DEATH STAR - HALLWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I hope the old man got that tractor beam out if commission, or this is going to be a real short trip. Okay, hit it!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to Chewie) We're coming up on the sentry ships. Hold 'em off! Angle the deflector shields while I charge up the main guns!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "I can't believe he's gone.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "LEIA",
+        "text": "There wasn't anything you could have done.",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to Luke) Come on, buddy, we're not out of this yet!",
+        "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to Luke) You in, kid? Okay, stay sharp!",
+        "where": "INT. MILLENNIUM FALCON - SOLO'S GUNPORT"
+    },
+    {
+        "from": "LEIA",
+        "text": "(into intercom) Here they come!",
+        "where": "INT. MILLENNIUM FALCON - SOLO'S GUNPORT"
+    },
+    {
+        "from": "LUKE",
+        "text": "They're coming in too fast!",
+        "where": "INT. MILLENNIUM FALCON - GUNPORTS"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oooh!",
+        "where": "INT. MILLENNIUM FALCON - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "LEIA",
+        "text": "We've lost lateral controls.",
+        "where": "INT. MILLENNIUM FALCON - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Don't worry, she'll hold together.",
+        "where": "INT. MILLENNIUM FALCON - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(to ship) You hear me, baby? Hold together!",
+        "where": "INT. MILLENNIUM FALCON - MAIN PASSAGEWAY"
+    },
+    {
+        "from": "LUKE",
+        "text": "Got him! I got him!",
+        "where": "INT. MILLENNIUM FALCON - GUNPORTS"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Great kid! Don't get cocky.",
+        "where": "INT. MILLENNIUM FALCON - GUNPORTS"
+    },
+    {
+        "from": "LEIA",
+        "text": "There are still two more of them out there!",
+        "where": "INT. MILLENNIUM FALCON - GUNPORTS"
+    },
+    {
+        "from": "LUKE",
+        "text": "(laughing) That's it! We did it!",
+        "where": "INT. MILLENNIUM FALCON - GUNPORT"
+    },
+    {
+        "from": "LEIA",
+        "text": "We did it!",
+        "where": "INT. MILLENNIUM FALCON - GUNPORT"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Help! I think I'm melting! (to ARTOO) This is all your fault.",
+        "where": "INT. MILLENNIUM FALCON - PASSAGEWAY"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Are they away?",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "They have just made the jump into hyperspace.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "You're sure the homing beacon is secure aboard their ship? I'm taking an awful risk, Vader. This had better work.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Not a bad bit of rescuing, huh? You know, sometimes I even amaze myself.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LEIA",
+        "text": "That doesn't sound too hard. Besides, they let us go. It's the only explanation for the ease of our escape.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Easy... you call that easy?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LEIA",
+        "text": "Their tracking us!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Not this ship, sister.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LEIA",
+        "text": "At least the information in ARTOO is still intact.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What's so important? What's he carrying?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LEIA",
+        "text": "The technical readouts of that battle station. I only hope that when the data is analyzed, a weakness can be found. It's not over yet!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "It is for me, sister! Look, I ain't in this for your revolution, and I'm not in it for you, Princess. I expect to be well paid. I'm in it for the money!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LEIA",
+        "text": "You needn't worry about your reward. If money is all that you love, then that's what you'll receive!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LEIA",
+        "text": "Your friend is quite a mercenary. I wonder if he really cares about anything... or anyone.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "I care!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "So... what do you think of her, Han?",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "I'm trying not to, kid!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "(under his breath) Good...",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Still, she's got a lot of spirit. I don't know, what do you think? Do you think a princess and a guy like me...",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "No!",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "WILLARD",
+        "text": "(holding Leia) You're safe! We had feared the worst.",
+        "where": "INT. MASSASSI - MAIN HANGAR DECK"
+    },
+    {
+        "from": "WILLARD",
+        "text": "composes himself, steps back and bows formally.",
+        "where": "INT. MASSASSI - MAIN HANGAR DECK"
+    },
+    {
+        "from": "WILLARD",
+        "text": "When we heard about Alderaan, we were afraid that you were... lost along with your father.",
+        "where": "INT. MASSASSI - MAIN HANGAR DECK"
+    },
+    {
+        "from": "LEIA",
+        "text": "We don't have time for our sorrows, Commander. The battle station has surely tracked us here. (looking pointedly to Han) It's the only explanation for the ease of our escape. You must use the information in this R2 unit to plan the attack. It is our only hope.",
+        "where": "INT. MASSASSI - MAIN HANGAR DECK"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Yes.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DEATH STAR INTERCOM VOICE",
+        "text": "We are approaching the planet Yavin. The Rebel base is on a moon on the far side. We are preparing to orbit the planet.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DODONNA",
+        "text": "The battle station is heavily shielded and carries a firepower greater than half the star fleet. It's defenses are designed around a direct large-scale assault. A small one-man fighter should be able to penetrate the outer defense.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "Pardon me for asking, sir, but what good are snub fighters going to be against that?",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DODONNA",
+        "text": "Well, the Empire doesn't consider a small one-man fighter to be any threat, or they'd have a tighter defense. An analysis of the plans provided by Princess Leia has demonstrated a weakness in the battle station.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DODONNA",
+        "text": "The approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DODONNA",
+        "text": "Only a precise hit will set up a chain reaction. The shaft is ray-shielded, so you'll have to use proton torpedoes.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "WEDGE",
+        "text": "That's impossible, even for a computer.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "It's not impossible. I used to bull's- eye womp rats in my T-sixteen back home. They're not much bigger than two meters.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DODONNA",
+        "text": "Man your ships! And may the Force be with you!",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DEATH STAR INTERCOM VOICE",
+        "text": "Orbiting the planet at maximum velocity. The moon with the Rebel base will be in range in thirty minutes.",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "This will be a day long remembered. It has seen the end of Kenobi and it will soon see the end of the Rebellion.",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(over loudspeaker) All flight trooper, man your stations. All flight troops, man your stations.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "LUKE",
+        "text": "So... you got your reward and you're just leaving then?",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "That's right, yeah! I got some old debts I've got to pay off with this stuff. Even if I didn't, you don't think I'd be fool enough to stick around here, do you? Why don't you come with us? You're pretty good in a fight. I could use you.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "LUKE",
+        "text": "(getting angry) Come on! Why don't you take a look around? You know what's about to happen, what they're up against. They could use a good pilot like you. You're turning your back on them.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What good's a reward if you ain't around to use it? Besides, attacking that battle station ain't my idea of courage. It's more like suicide.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "LUKE",
+        "text": "All right. Well, take care of yourself, Han. I guess that's what you're best at, isn't it?",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Hey, Luke... may the Force be with you!",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "What're you lookin' at? I know what I'm doing.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK"
+    },
+    {
+        "from": "LEIA",
+        "text": "What's wrong?",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "LUKE",
+        "text": "Oh, it's Han! I don't know, I really thought he'd change his mind.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "LEIA",
+        "text": "He's got to follow his own path. No one can choose it for him.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "LUKE",
+        "text": "I only wish Ben were here.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Luke! I don't believe it! How'd you get here... are you going out with us?!",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "LUKE",
+        "text": "Biggs! Of course, I'll be up there with you! Listen, have I got some stories to tell...",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Are you... Luke Skywalker? Have you been checked out on the Incom T-sixty- five?",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Sir, Luke is the best bushpilot in the outer rim territories.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "I met your father once when I was just a boy, he was a great pilot. You'll do all right. If you've got half of your father's skill, you'll do better than all right.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "LUKE",
+        "text": "Thank you, sir. I'll try.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "BIGGS",
+        "text": "I've got to get aboard. Listen, you'll tell me your stories when we come back. All right?",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "LUKE",
+        "text": "I told you I'd make it someday, Biggs.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "BIGGS",
+        "text": "(going off) You did, all right. It's going to be like old times, Luke. We're a couple of shooting stars that'll never be stopped!",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "CHIEF",
+        "text": "This R2 unit of your seems a bit beat up. Do you want a new one?",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "LUKE",
+        "text": "Not on your life! That little droid and I have been through a lot together. (to ARTOO) You okay, ARTOO?",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "CHIEF",
+        "text": "Okay, easy she goes!",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Hang on tight,ARTOO, you've got to come back.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "You wouldn't want my life to get boring, would you?",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "OBI WAN",
+        "text": "Luke, the Force will be with you.",
+        "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP"
+    },
+    {
+        "from": "MASSASSI INTERCOM VOICE",
+        "text": "Stand-by alert. Death Star approaching. Estimated time to firing range, fifteen minutes.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "All wings report in.",
+        "where": "INT. RED LEADER STARSHIP - COCKPIT"
+    },
+    {
+        "from": "RED TEN",
+        "text": "Red Ten standing by.",
+        "where": "INT. ANOTHER COCKPIT"
+    },
+    {
+        "from": "RED SEVEN",
+        "text": "(over Biggs' headset) Red Seven standing by.",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Red Three standing by.",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "PORKINS",
+        "text": "Red Six standing by.",
+        "where": "INT. PORKINS' COCKPIT"
+    },
+    {
+        "from": "RED NINE",
+        "text": "(over headset) Red Nine standing by.",
+        "where": "INT. PORKINS' COCKPIT"
+    },
+    {
+        "from": "WEDGE",
+        "text": "Red Two standing by.",
+        "where": "INT. WEDGE'S FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED ELEVEN",
+        "text": "(over headset) Red Eleven standing by.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Red Five standing by.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Lock S-foils in attack position.",
+        "where": "INT. RED LEADER'S FIGHTER - COCKPIT"
+    },
+    {
+        "from": "READ LEADER",
+        "text": "(over headset) We're passing through their magnetic field.",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Hold tight!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) Switch your deflectors on.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) Double front!",
+        "where": "INT. ANOTHER COCKPIT"
+    },
+    {
+        "from": "WEDGE",
+        "text": "Look at the size of that thing!",
+        "where": "INT. WEDGE'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) Cut the chatter, Red Two.",
+        "where": "INT. WEDGE'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Accelerate to attack speed. This is it, boys!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "Red Leader, this is Gold Leader.",
+        "where": "INT. GOLD LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) I copy, Gold Leader.",
+        "where": "INT. GOLD LEADER'S COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "We're starting for the target shaft now.",
+        "where": "INT. GOLD LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "We're in position. I'm going to cut across the axis and try and draw their fire.",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "WEDGE",
+        "text": "(over war room speaker system) Heavy fire, boss! Twenty-degrees.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over speaker) I see it. Stay low.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "This is Red Five; I'm going in!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "(over headset) Luke, pull up!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Are you all right?",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "I got a little cooked, but I'm okay.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "ASTRO-OFFICER",
+        "text": "We count thirty Rebel ships, Lord Vader. But they're so small they're evading our turbo-lasers!",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "We'll have to destroy them ship to ship. Get the crews to their fighters.",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Luke, let me know when you're going in.",
+        "where": "INT. READ LEADER'S X-WING FIGHTER - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'm on my way in now...",
+        "where": "INT. LUKE'S X-WING - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Watch yourself! There's a lot of fire coming from the right side of that deflection tower.",
+        "where": "INT. LUKE'S X-WING - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'm on i",
+        "where": "INT. LUKE'S X-WING - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "CONTROL OFFICER",
+        "text": "Squad leaders, we've picked up a new group of signals. Enemy fighters coming your way.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROO"
+    },
+    {
+        "from": "LUKE",
+        "text": "My scope's negative. I don't see anything.",
+        "where": "INT. LUKE'S X-WING - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Keep up your visual scanning. With all this jamming, they'll be on top of you before your scope can pick them up.",
+        "where": "INT. RED LEADER'S X-WING - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Biggs! You've picked one up... watch it!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "I can't see it! Where is he?!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "He's on me tight, I can't shake him... I can't shake him.",
+        "where": "INT. BIGGS' COCKPIT - TRAVELIN"
+    },
+    {
+        "from": "LUKE",
+        "text": "Hang on, Biggs, I'm coming in.",
+        "where": "INT. X-WING FIGHTER - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "LUKE",
+        "text": "Got him!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT - TRAVELING"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Several fighters have broken off from the main group. Come with me!",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "BIGGS",
+        "text": "(over speaker) Pull in! Luke... pull in!",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "WEDGE",
+        "text": "(over speaker) Watch your back, Luke!",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "WEDGE",
+        "text": "(over headset) Watch your back! Fighter's above you, coming in!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "I'm hit, but not bad.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "ARTOO, see what you can do with it. Hang on back there.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) Red Six...",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "RED LEADER (over speaker) Can you see Red Five?",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "RED TEN (over speaker) There's a heavy fire zone on this side. Red Five, where are you?",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "I can't shake him!",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "WEDGE",
+        "text": "I'm on him, Luke!",
+        "where": "INT. WEDGE'S COCKPIT"
+    },
+    {
+        "from": "WEDGE (over headset) Hold on!",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Blast it! Wedge where are you?",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Thanks, Wedge.",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "(over speaker) Good shooting, Wedge!",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "(over speaker) Red Leader...",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "This is Gold Leader. We're starting out attack run.",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over speaker) I copy, Gold Leader. Move into position.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Stay in attack formation!",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "(over speaker) The exhaust post is...",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "...marked and locked in!",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "Switch power to front deflector screens.",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "How many guns do you think, Gold Five.",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD FIVE (over speaker) I'd say about twenty guns. Some on the surface, some on the towers.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "MASSASSI INTERCOM VOICE",
+        "text": "(over speaker) Death Star will be in range in five minutes.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "Switching to targeting computer.",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD TWO",
+        "text": "Computer's locked. Getting a signal.",
+        "where": "INT. GOLD TWO'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD TWO",
+        "text": "The guns... they've stopped!",
+        "where": "INT. GOLD TWO'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD FIVE",
+        "text": "Stabilize your read deflectors. Watch for enemy fighters.",
+        "where": "EXT. GOLD FIVE'S COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "They've coming in! Three marks at two ten.",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I'll take them myself! Cover me!",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "WINGMAN'S VOICE",
+        "text": "(over speaker) Yes, sir.",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER (into mike) I can't maneuver!",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD FIVE",
+        "text": "Stay on target.",
+        "where": "INT. GOLD FIVE'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "We're too close.",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD FIVE",
+        "text": "Stay on target!",
+        "where": "INT. GOLD FIVE'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD LEADER",
+        "text": "Loosen up!",
+        "where": "INT. GOLD LEADER'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD FIVE",
+        "text": "Gold Five to Red Leader...",
+        "where": "INT. GOLD FIVE'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "GOLD FIVE",
+        "text": "(over headset) Lost Tiree, lost Dutch.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "I copy, Gold Five.",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "GOLD FIVE",
+        "text": "They came from behind...",
+        "where": "INT. GOLD FIVE'S Y-WING - COCKPIT"
+    },
+    {
+        "from": "OFFICER",
+        "text": "We've analyzed their attack, sir, and there is a danger. Should I have your ship standing by?",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "Evacuate? In out moment of triumph? I think you overestimate their chances!",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "VOICE",
+        "text": "(over speaker) Rebel base, three minutes and closing.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Red Group, this is Red Leader.",
+        "where": "INT. READ LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over speaker) Rendezvous at mark six point one.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "WEDGE (over speaker) This is Red Two. Flying toward you.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "BIGGS",
+        "text": "(over speaker) Red Three, standing by.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "DODONNA (over headset) Red Leader, this is Base One. Keep half your group out of range for the next run.",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) Copy, Base One. Luke, take Red Two and Three. Hold up here and wait for my signal... to start your run.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "This is it!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED TEN",
+        "text": "We should be able to see it by now.",
+        "where": "INT. RED TEN'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Keep your eyes open for those fighters!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED TEN",
+        "text": "There's too much interference!",
+        "where": "INT. RED TEN'S COCKPIT"
+    },
+    {
+        "from": "RED TEN",
+        "text": "Red Five, can you see them from where you are?",
+        "where": "EXT. SPACE - DEATH STAR TRENCH"
+    },
+    {
+        "from": "LUKE",
+        "text": "No sign of any... wait!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over headset) Coming in point three five.",
+        "where": "INT. RED TEN'S COCKPIT"
+    },
+    {
+        "from": "RED TEN",
+        "text": "I see them.",
+        "where": "INT. RED TEN'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "I'm in range.",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Target's coming up!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Just hold them off for a few seconds.",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Close up formation.",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "RED TEN",
+        "text": "You'd better let her loose.",
+        "where": "INT. RED TEN'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Almost there!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED TEN",
+        "text": "I can't hold them!",
+        "where": "INT. RED TEN'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "It's away!",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED NINE",
+        "text": "(over speaker) It's a hit!",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over speaker) Negative.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "Negative! It didn't go in. It just impacted on the surface.",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over headset) Red Leader, we're right above you. Turn to point...",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "...oh-five; we'll cover for you.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) Stay there...",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "...I just lost my starboard engine.",
+        "where": "INT. RED LEADER'S COCKPIT"
+    },
+    {
+        "from": "RED LEADER",
+        "text": "(over headset) Get set to make your attack run.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "DEATH STAR INTERCOM VOICE",
+        "text": "Rebel base, one minute and closing.",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over speaker) Biggs, Wedge, let's close it up. We're going in. We're going in full throttle.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "WEDGE",
+        "text": "Right with you, boss.",
+        "where": "INT. WEDGE'S COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Luke, at that speed will you be able to pull out in time?",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "It'll be just like Beggar's Canyon back home.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "We'll stay back far enough to cover you.",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "WEDGE",
+        "text": "(over headset) My scope shows the tower, but I can't see the exhaust port! Are you sure the computer can hit it?",
+        "where": "INT. LUKE'S COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "Watch yourself! Increase speed full throttle!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "WEDGE",
+        "text": "What about the tower?",
+        "where": "INT. WEDGE'S COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "You worry about those fighters! I'll worry about the tower!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "(to ARTOO) ARTOO... that, that stabilizer's broken loose again! See if you can't lock it down!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPI"
+    },
+    {
+        "from": "WEDGE",
+        "text": "(over speaker) I'm hit! I can't stay with you.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over speaker) Get clear, Wedge.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "You can't do any more good back there!",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "WEDGE",
+        "text": "Sorry!",
+        "where": "INT. WEDGE'S COCKPIT"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "Let him go! Stay on the leader!",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Hurry, Luke, they're coming in much faster this time. I can't hold them!",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "LUKE",
+        "text": "ARTOO, try and increase the power!",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "BIGGS",
+        "text": "(over headset) Hurry up, Luke!",
+        "where": "INT. LUKE'S X-WING FIGHTER"
+    },
+    {
+        "from": "BIGGS",
+        "text": "Wait!",
+        "where": "INT. BIGGS' COCKPIT"
+    },
+    {
+        "from": "DEATH STAR INTERCOM VOICE",
+        "text": "Rebel base, thirty seconds and closing.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I'm on the leader.",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Hang on, ARTOO!",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "OBI WAN",
+        "text": "Use the Force, Luke.",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "OBI WAN",
+        "text": "Let go, Luke.",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "The Force is strong with this one!",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "OBI WAN",
+        "text": "Luke, trust me.",
+        "where": "INT. LUKE'S X-WING - COCKPIT"
+    },
+    {
+        "from": "BASE VOICE",
+        "text": "(over speaker) His computer's off. Luke, you switched off your targeting computer. What's wrong?",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "(over speaker) Nothing. I'm all right.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "LUKE",
+        "text": "I've lost ARTOO!",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "MASSASSI INTERCOM VOICE",
+        "text": "The Death Star has cleared the planet. The Death Star has cleared the planet.",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "DEATH STAR INTERCOM VOICE",
+        "text": "Rebel base, in range.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "TARKIN",
+        "text": "You may fire when ready.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DEATH STAR INTERCOM VOICE",
+        "text": "Commence primary ignition.",
+        "where": "INT. DEATH STAR - CONTROL ROOM"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "I have you now.",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "DARTH VADER",
+        "text": "What?",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(yelling) Yahoo!",
+        "where": "INT. DARTH VADER'S COCKPIT"
+    },
+    {
+        "from": "WINGMAN",
+        "text": "Look out!",
+        "where": "INT. WINGMAN'S COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(into mike) You're all clear, kid.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(over speaker) Now let's blow this thing and go home!",
+        "where": "INT. MASSASSI OUTPOST - WAR ROOM"
+    },
+    {
+        "from": "INTERCOM VOICE",
+        "text": "Stand by to fire at Rebel base.",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "INTERCOM VOICE",
+        "text": "Standing by.",
+        "where": "INT. DEATH STAR"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Great shot, kid. That was one in a million.",
+        "where": "INT. MILLENNIUM FALCON - COCKPIT"
+    },
+    {
+        "from": "OBI WAN",
+        "text": "Remember, the Force will be with you... always.",
+        "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT"
+    },
+    {
+        "from": "LEIA",
+        "text": "Luke! Luke! Luke!",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "(laughing) Hey! Hey!",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "LUKE",
+        "text": "(laughing) I knew you'd come back! I just knew it!",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "HAN SOLO",
+        "text": "Well, I wasn't gonna let you get all the credit and take all the reward.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "LEIA",
+        "text": "(laughing) Hey, I knew there was more to you than money.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "LUKE",
+        "text": "Oh, no!",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "Oh, my! ARTOO! Can you hear me? Say something! (to mechanic) You can repair him, can't you?",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "TECHNICIAN",
+        "text": "We'll get to work on him right away.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "THREEPIO",
+        "text": "You must repair him! Sir, if any of my circuits or gears will help, I'll gladly donate them.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    },
+    {
+        "from": "LUKE",
+        "text": "He'll be all right.",
+        "where": "INT. MASSASSI OUTPOST - MAIN HANGAR"
+    }
+]
