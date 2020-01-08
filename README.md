@@ -73,6 +73,40 @@ function countWords(s){
 }
 ```
 
+> Code to make the json
+
+```javascript
+const uls = document.querySelectorAll('ul')
+var global = []
+let where = null
+
+uls.forEach(ul => {
+    let previousEl = ul.previousElementSibling
+    let lis = [...ul.getElementsByTagName('li')]
+
+    if (previousEl !== null) {
+        if (previousEl.nodeName === "H2") {
+            where = previousEl.innerText
+        }
+    }
+
+    lis.forEach(li => {
+        let content = li.innerText.split(" : ")
+        let number = 0
+        if (content[1]) {
+            number = countWords(content[1])
+        }
+
+        global.push({
+            "from": content[0],
+            "text": content[1],
+            "where": where,
+            "number": number
+        })
+    })
+})
+```
+
 ## Credits
 
 | Links      | Description |
