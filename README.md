@@ -59,13 +59,15 @@ In this repo, you can find several files about the Star Wars univers.
 
 ## Credits
 
-* [IMSDB](https://www.imsdb.com/) : scipts from movies
-* [YIFY](https://yts-subs.com/) : subtitles files
-* [MarkdownToHtml](https://markdowntohtml.com/) : convert markdown to html
-* [JSON Parser](http://json.parser.online.fr/) : Parese the JSON
-* [CSV-JSON](https://www.csvjson.com/json2csv) : Convert JSON to CSV
-* [WORDCOUNTER](https://wordcounter.net/) : Count word if needed
-* [REGEXR](https://regexr.com/) : For Regular Expressions
+| Link      | Description |
+| ----------- | ----------- |
+| [IMSDB](https://www.imsdb.com/) | Scripts from movies |
+| [YIFY](https://yts-subs.com/) | Subtitles files |
+| [MarkdownToHtml](https://markdowntohtml.com/) | Convert markdown to html |
+| [JSON Parser](http://json.parser.online.fr/) | Parser the JSON |
+| [CSV-JSON](https://www.csvjson.com/json2csv) | Convert JSON to CSV |
+| [WORDCOUNTER](https://wordcounter.net/) | Count word if needed |
+| [REGEXR](https://regexr.com/) | For Regular Expressions |
 
 > My count words function used for the project :
 
