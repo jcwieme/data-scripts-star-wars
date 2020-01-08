@@ -6,5 +6,7 @@ In this folder, you will find all the source files that have been used to collec
 
 ## Credits
 
-* [IMSDB](https://www.imsdb.com/) : scipts from movies
-* [YIFY](https://yts-subs.com/) : subtitles files
+| Links      | Description |
+| ----------- | ----------- |
+| [IMSDB](https://www.imsdb.com/) | Scripts from movies |
+| [YIFY](https://yts-subs.com/) | Subtitles files |
