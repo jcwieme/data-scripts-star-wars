@@ -19,7 +19,7 @@ Likewise, you will find the **images** of each of the **characters** who had an 
 
 In the folder ***data*** , are the CSV files of each film with information on the dialogues such as: the **number of words** per interaction, the **types of words**, the **duration** of the **interaction**, **who** speaks to **whom** and the **location**.
 
-If you like the work then do not hesitate to visit my [site](https://www.jeanchristophewieme.be/){:target="_blank"}.
+If you like the work then do not hesitate to visit my [site](https://www.jeanchristophewieme.be/).
 
 ## Why this repo
 
