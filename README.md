@@ -23,7 +23,7 @@ This done, I encoded each film in a **numbers file** with several data including
 
 In this repo, you can find several files about the Star Wars univers.
 
-## Crédits
+## Credits
 
 * [IMSDB](https://www.imsdb.com/) : scipts from movies
 * [YIFY](https://yts-subs.com/) : subtitles files
@@ -31,3 +31,16 @@ In this repo, you can find several files about the Star Wars univers.
 * [JSON Parser](http://json.parser.online.fr/) : Parese the JSON
 * [CSV-JSON](https://www.csvjson.com/json2csv) : Convert JSON to CSV
 * [WORDCOUNTER](https://wordcounter.net/) : Count word if needed
+
+> My count words function used for the project :
+
+```javascript
+function countWords(s){
+    s = s.replace(/(^\s*)|(\s*$)/gi,"")
+    s = s.replace(/[ ]{2,}/gi," ")
+    s = s.replace(/[...]/gi," ")
+    s = s.replace(/[(]+.+[)]/gi," ")
+    s = s.replace(/\n /,"\n")
+    return s.split(' ').filter(function(str){return str!="";}).length
+}
+```
