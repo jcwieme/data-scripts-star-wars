@@ -9,6 +9,7 @@
   - [Progression in the project](#progression-in-the-project)
   - [What can you find here](#what-can-you-find-here)
   - [Credits](#credits)
+  - [Some code](#some-code)
 
 ## Overview
 
@@ -68,6 +69,8 @@ In this repo, you can find several files about the Star Wars univers.
 | [CSV-JSON](https://www.csvjson.com/json2csv) | Convert JSON to CSV |
 | [WORDCOUNTER](https://wordcounter.net/) | Count word if needed |
 | [REGEXR](https://regexr.com/) | For Regular Expressions |
+
+## Some code
 
 > My count words function used for the project :
 
