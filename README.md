@@ -8,8 +8,8 @@
   - [Why this repo](#why-this-repo)
   - [Progression in the project](#progression-in-the-project)
   - [What can you find here](#what-can-you-find-here)
-  - [Credits](#credits)
   - [Some code](#some-code)
+  - [Credits](#credits)
 
 ## Overview
 
@@ -58,18 +58,6 @@ In this repo, you can find several files about the Star Wars univers.
 | :open_file_folder: [Data sheet](https://github.com/jcwieme/data-scripts-star-wars/tree/master/4.%20Data%20sheet) | Sheet file which gathers all the information for each film |
 | :open_file_folder: [Data CSV](https://github.com/jcwieme/data-scripts-star-wars/tree/master/5.%20Data%20CSV) | CSV file ready to use for each film |
 
-## Credits
-
-| Links      | Description |
-| ----------- | ----------- |
-| [IMSDB](https://www.imsdb.com/) | Scripts from movies |
-| [YIFY](https://yts-subs.com/) | Subtitles files |
-| [MarkdownToHtml](https://markdowntohtml.com/) | Convert markdown to html |
-| [JSON Parser](http://json.parser.online.fr/) | Parser the JSON |
-| [CSV-JSON](https://www.csvjson.com/json2csv) | Convert JSON to CSV |
-| [WORDCOUNTER](https://wordcounter.net/) | Count word if needed |
-| [REGEXR](https://regexr.com/) | For Regular Expressions |
-
 ## Some code
 
 > My count words function used for the project :
@@ -84,3 +72,15 @@ function countWords(s){
     return s.split(' ').filter(function(str){return str!="";}).length
 }
 ```
+
+## Credits
+
+| Links      | Description |
+| ----------- | ----------- |
+| [IMSDB](https://www.imsdb.com/) | Scripts from movies |
+| [YIFY](https://yts-subs.com/) | Subtitles files |
+| [MarkdownToHtml](https://markdowntohtml.com/) | Convert markdown to html |
+| [JSON Parser](http://json.parser.online.fr/) | Parser the JSON |
+| [CSV-JSON](https://www.csvjson.com/json2csv) | Convert JSON to CSV |
+| [WORDCOUNTER](https://wordcounter.net/) | Count word if needed |
+| [REGEXR](https://regexr.com/) | For Regular Expressions |
