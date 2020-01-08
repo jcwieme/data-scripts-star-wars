@@ -85,7 +85,7 @@ uls.forEach(ul => {
     let lis = [...ul.getElementsByTagName('li')]
 
     if (previousEl !== null) {
-        if (previousEl.nodeName === "H2") {
+        if (previousEl.nodeName === "H2" || previousEl.nodeName === "P") {
             where = previousEl.innerText
         }
     }
