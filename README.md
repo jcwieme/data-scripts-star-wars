@@ -27,3 +27,7 @@ In this repo, you can find several files about the Star Wars univers.
 
 * [IMSDB](https://www.imsdb.com/) : scipts from movies
 * [YIFY](https://yts-subs.com/) : subtitles files
+* [MarkdownToHtml](https://markdowntohtml.com/) : convert markdown to html
+* [JSON Parser](http://json.parser.online.fr/) : Parese the JSON
+* [CSV-JSON](https://www.csvjson.com/json2csv) : Convert JSON to CSV
+* [WORDCOUNTER](https://wordcounter.net/) : Count word if needed
