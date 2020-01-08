@@ -51,11 +51,11 @@ In this repo, you can find several files about the Star Wars univers.
 
 | Folder      | Description |
 | ----------- | ----------- |
-| Sources | All source files that were used to collect the data |
-| Markdown | Markdown files with dialogs, speakers and location |
-| JSON for sheet | JSON files format with word count and data to populate the Sheet file |
-| Data sheet | Sheet file which gathers all the information for each film |
-| Data CSV | CSV file ready to use for each film |
+| [Sources](https://github.com/jcwieme/data-scripts-star-wars/tree/master/1.%20Sources) | All source files that were used to collect the data |
+| [Markdown](https://github.com/jcwieme/data-scripts-star-wars/tree/master/2.%20Markdown) | Markdown files with dialogs, speakers and location |
+| [JSON for sheet](https://github.com/jcwieme/data-scripts-star-wars/tree/master/3.%20JSON%20for%20sheet) | JSON files format with word count and data to populate the Sheet file |
+| [Data sheet](https://github.com/jcwieme/data-scripts-star-wars/tree/master/4.%20Data%20sheet) | Sheet file which gathers all the information for each film |
+| [Data CSV](https://github.com/jcwieme/data-scripts-star-wars/tree/master/5.%20Data%20CSV) | CSV file ready to use for each film |
 
 ## Credits
 
