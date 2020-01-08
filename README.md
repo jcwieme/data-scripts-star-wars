@@ -111,7 +111,7 @@ uls.forEach(ul => {
 
 ## Credits
 
-> The storyline, characters and images represented in this site belong to the respective
+> The storyline, characters and images represented in this repo belong to the respective owners
 
 | Links      | Description |
 | ----------- | ----------- |
