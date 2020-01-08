@@ -80,7 +80,7 @@
         "from": "JERJERROD",
         "text": "(aghast) The Emperor's coming here?",
         "where": "4 INT DEATH STAR - MAIN DOCKING BAY",
-        "number": 5
+        "number": 4
     },
     {
         "from": "DARTH VADER",
@@ -122,7 +122,7 @@
         "from": "THREEPIO",
         "text": "(instantly) There doesn't seem to be anyone there. Let's go back and tell Master Luke.",
         "where": "6 EXT JABBA'S PALACE - GATE",
-        "number": 15
+        "number": 14
     },
     {
         "from": "STRANGE VOICE",
@@ -182,7 +182,7 @@
         "from": "THREEPIO",
         "text": "(cont) ...and a gift. (thinks a moment, then to Artoo) Gift, what gift?",
         "where": "6 EXT JABBA'S PALACE - GATE",
-        "number": 13
+        "number": 3
     },
     {
         "from": "BIB",
@@ -236,7 +236,7 @@
         "from": "LUKE",
         "text": "Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo. I know that you are powerful, mighty Jabba, and that your anger with Solo must be equally powerful. I seek an audience with Your Greatness to bargain for Solo's life. (Jabba's crowd laughs) With your wisdom, I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation. As a token of my goodwill, I present to you a gift: these two droids.",
         "where": "8 INT JABBA'S THRONE ROOM",
-        "number": 92
+        "number": 89
     },
     {
         "from": "THREEPIO",
@@ -248,7 +248,7 @@
         "from": "LUKE",
         "text": "(cont) ... Both are hardworking and will serve you well.",
         "where": "8 INT JABBA'S THRONE ROOM",
-        "number": 10
+        "number": 8
     },
     {
         "from": "THREEPIO",
@@ -260,7 +260,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) There will be no bargain.",
         "where": "8 INT JABBA'S THRONE ROOM",
-        "number": 8
+        "number": 5
     },
     {
         "from": "THREEPIO",
@@ -272,7 +272,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) I will not give up my favorite decoration. I like Captain Solo where he is.",
         "where": "8 INT JABBA'S THRONE ROOM",
-        "number": 18
+        "number": 15
     },
     {
         "from": "THREEPIO",
@@ -338,13 +338,13 @@
         "from": "NINEDENINE",
         "text": "(to a Gamorrean guard) Guard! This protocol droid might be useful. Fit him with a restraining bolt and take him back to His Excellency's main audience chamber.",
         "where": "8 INT JABBA'S THRONE ROOM",
-        "number": 27
+        "number": 23
     },
     {
         "from": "THREEPIO",
         "text": "(disappearing) Artoo, don't leave me! Ohhh!",
         "where": "8 INT JABBA'S THRONE ROOM",
-        "number": 6
+        "number": 5
     },
     {
         "from": "NINEDENINE",
@@ -374,7 +374,7 @@
         "from": "BOUSHH",
         "text": "(in Ubese subtitled) I have come for the bounty on this Wookiee.",
         "where": "11 INT JABBA'S THRONE ROOM",
-        "number": 12
+        "number": 9
     },
     {
         "from": "THREEPIO",
@@ -386,7 +386,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) At last we have the mighty Chewbacca.",
         "where": "11 INT JABBA'S THRONE ROOM",
-        "number": 10
+        "number": 7
     },
     {
         "from": "THREEPIO",
@@ -404,13 +404,13 @@
         "from": "BOUSHH",
         "text": "(in Ubese subtitled) I want fifty thousand. No less.",
         "where": "11 INT JABBA'S THRONE ROOM",
-        "number": 9
+        "number": 6
     },
     {
         "from": "THREEPIO",
         "text": "Uh, oh... but what, what did I say? (to Boushh) Uh, the mighty Jabba asks why he must pay fifty thousand.",
         "where": "11 INT JABBA'S THRONE ROOM",
-        "number": 21
+        "number": 19
     },
     {
         "from": "THREEPIO",
@@ -422,7 +422,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) This bounty hunter is my kind of scum. Fearless and inventive.",
         "where": "11 INT JABBA'S THRONE ROOM",
-        "number": 14
+        "number": 11
     },
     {
         "from": "THREEPIO",
@@ -518,7 +518,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) It's too late for that, Solo. You may have been a good smuggler, but now you're Bantha fodder.",
         "where": "14 INT JABBA'S THRONE ROOM - NIGHT",
-        "number": 21
+        "number": 18
     },
     {
         "from": "HAN",
@@ -530,7 +530,7 @@
         "from": "JABBA",
         "text": "(cont Huttese subtitled) Take him away!",
         "where": "14 INT JABBA'S THRONE ROOM - NIGHT",
-        "number": 6
+        "number": 3
     },
     {
         "from": "HAN",
@@ -542,7 +542,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) Bring her to me.",
         "where": "14 INT JABBA'S THRONE ROOM - NIGHT",
-        "number": 7
+        "number": 4
     },
     {
         "from": "LEIA",
@@ -554,7 +554,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) I'm sure.",
         "where": "14 INT JABBA'S THRONE ROOM - NIGHT",
-        "number": 5
+        "number": 2
     },
     {
         "from": "LEIA",
@@ -596,7 +596,7 @@
         "from": "HAN",
         "text": "A...Jedi Knight? I--I'm out of it for a little while, everybody gets delusions of grandeur.",
         "where": "15 INT DUNGEON CELL",
-        "number": 15
+        "number": 16
     },
     {
         "from": "HAN",
@@ -650,7 +650,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) I told you not to admit him.",
         "where": "17 INT JABBA'S THRONE ROOM",
-        "number": 10
+        "number": 7
     },
     {
         "from": "LUKE",
@@ -662,13 +662,13 @@
         "from": "BIB",
         "text": "(in Huttese subtitled) He must be allowed to speak.",
         "where": "17 INT JABBA'S THRONE ROOM",
-        "number": 9
+        "number": 6
     },
     {
         "from": "JABBA",
         "text": "(in Huttese subtitled) You weak-minded fool! He's using an old Jedi mind trick.",
         "where": "17 INT JABBA'S THRONE ROOM",
-        "number": 13
+        "number": 10
     },
     {
         "from": "LUKE",
@@ -680,7 +680,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) Your mind powers will not work on me, boy.",
         "where": "17 INT JABBA'S THRONE ROOM",
-        "number": 12
+        "number": 9
     },
     {
         "from": "LUKE",
@@ -698,7 +698,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) There will be no bargain, young Jedi. I shall enjoy watching you die.",
         "where": "17 INT JABBA'S THRONE ROOM",
-        "number": 16
+        "number": 13
     },
     {
         "from": "JABBA",
@@ -716,7 +716,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) Bring me Solo and the Wookiee. They will all suffer for this outrage.",
         "where": "19 HOLDING TUNNEL - RANCOR PIT",
-        "number": 16
+        "number": 13
     },
     {
         "from": "LUKE",
@@ -794,7 +794,7 @@
         "from": "HAN",
         "text": "(to Luke) Doesn't sound so bad.",
         "where": "22 INT THRONE ROOM",
-        "number": 6
+        "number": 4
     },
     {
         "from": "THREEPIO",
@@ -848,7 +848,7 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) Soon you will learn to appreciate me.",
         "where": "24 INT BARGE OBSERVATION DECK",
-        "number": 10
+        "number": 7
     },
     {
         "from": "THREEPIO",
@@ -890,13 +890,13 @@
         "from": "JABBA",
         "text": "(in Huttese subtitled) Move him into position.",
         "where": "28 INT SAIL BARGE OBSERVATION DECK",
-        "number": 7
+        "number": 4
     },
     {
         "from": "JABBA",
         "text": "(in Huttese subtitled) Put him in.",
         "where": "29 EXT BARGE - UPPER DECK",
-        "number": 6
+        "number": 3
     },
     {
         "from": "LUKE",
@@ -1034,7 +1034,7 @@
         "from": "LUKE",
         "text": "(to Leia) Get the gun! Point it at the deck!",
         "where": "40 EXT UPPER DECK - SAIL BARGE",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LUKE",
@@ -1082,19 +1082,19 @@
         "from": "HAN",
         "text": "(blinking) Then I guess I'm getting better.",
         "where": "44 EXT DUNE SEA - LANDING AREA",
-        "number": 7
+        "number": 6
     },
     {
         "from": "HAN",
         "text": "(turning to Luke) I've got to hand it to you, kid, you were pretty good out there.",
         "where": "44 EXT DUNE SEA - LANDING AREA",
-        "number": 17
+        "number": 14
     },
     {
         "from": "LUKE",
         "text": "(shrugging it off) I had a lot of help. Think nothing of it.",
         "where": "44 EXT DUNE SEA - LANDING AREA",
-        "number": 13
+        "number": 10
     },
     {
         "from": "HAN",
@@ -1106,7 +1106,7 @@
         "from": "LUKE",
         "text": "(moving to his ship) I'll see you back at the fleet.",
         "where": "44 EXT DUNE SEA - LANDING AREA",
-        "number": 11
+        "number": 7
     },
     {
         "from": "HAN",
@@ -1124,7 +1124,7 @@
         "from": "HAN",
         "text": "(looking dubiously at Lando, obviously remembering his friend's betrayal and subsequent aide) Guess I owe you some thanks, too, Lando.",
         "where": "44 EXT DUNE SEA - LANDING AREA",
-        "number": 20
+        "number": 8
     },
     {
         "from": "LANDO",
@@ -1136,7 +1136,7 @@
         "from": "LEIA",
         "text": "He means \"You're welcome.\"",
         "where": "44 EXT DUNE SEA - LANDING AREA",
-        "number": 4
+        "number": 5
     },
     {
         "from": "LANDO",
@@ -1154,7 +1154,7 @@
         "from": "LEIA",
         "text": "(over comlink) Hurry. The Alliance should be assembled by now.",
         "where": "45 INT X-WING - COCKPIT",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LUKE",
@@ -1166,7 +1166,7 @@
         "from": "HAN",
         "text": "(over comlink) Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.",
         "where": "45 INT X-WING - COCKPIT",
-        "number": 15
+        "number": 13
     },
     {
         "from": "LUKE",
@@ -1178,7 +1178,7 @@
         "from": "EMPEROR",
         "text": "(to Vader) Rise, my friend.",
         "where": "48 INT DOCKING BAY - DEATH STAR",
-        "number": 5
+        "number": 3
     },
     {
         "from": "DARTH VADER",
@@ -1232,7 +1232,7 @@
         "from": "YODA",
         "text": "(tickled, chuckles) I do, yes, I do! Sick have I become. Old and weak. (Points a crooked finger) When nine hundred years old you reach, look as good you will not. Hmm?",
         "where": "50 INT YODA'S HOUSE",
-        "number": 32
+        "number": 14
     },
     {
         "from": "YODA",
@@ -1274,7 +1274,7 @@
         "from": "YODA",
         "text": "(shakes his head) Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, only then, a Jedi will you be. And confront him you will.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 27
+        "number": 24
     },
     {
         "from": "LUKE",
@@ -1328,7 +1328,7 @@
         "from": "YODA",
         "text": "(gathering all his strength) No. Unfortunate that you rushed to face him... that incomplete was your training. Not ready for the burden were you.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 24
+        "number": 20
     },
     {
         "from": "LUKE",
@@ -1346,7 +1346,7 @@
         "from": "YODA",
         "text": "Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I (cough), the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke... (with great effort) There is...another...Sky...Sky...walker.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 50
+        "number": 30
     },
     {
         "from": "LUKE",
@@ -1358,7 +1358,7 @@
         "from": "OBI-WAN",
         "text": "(OS) Yoda will always be with you.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 7
+        "number": 6
     },
     {
         "from": "LUKE",
@@ -1382,7 +1382,7 @@
         "from": "LUKE",
         "text": "(turning away, derisive) A certain point of view!",
         "where": "50 INT YODA'S HOUSE",
-        "number": 8
+        "number": 5
     },
     {
         "from": "OBI-WAN",
@@ -1454,13 +1454,13 @@
         "from": "OBI-WAN",
         "text": "(grinning at Luke's indignation) And did you help them? It was they who had to save you. You achieved little by rushing back prematurely, I fear.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 26
+        "number": 22
     },
     {
         "from": "LUKE",
         "text": "(with sadness) I found out Darth Vader was my father.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 10
+        "number": 8
     },
     {
         "from": "OBI-WAN",
@@ -1520,13 +1520,13 @@
         "from": "OBI-WAN",
         "text": "(continuing his narrative) When your father left, he didn't know your mother was pregnant. Your mother and I knew he would find out eventually, but we wanted to keep you both as safe as possible, for as long as possible. So I took you to live with my brother Owen on Tatooine... and your mother took Leia to live as the daughter of Senator Organa, on Alderaan.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 67
+        "number": 64
     },
     {
         "from": "OBI-WAN",
         "text": "(attempting to give solace with his words) The Organa household was high-born and politically quite powerful in that system. Leia became a princess by virtue of lineage... no one knew she'd been adopted, of course. But it was a title without real power, since Alderaan had long been a democracy. Even so, the family continued to be politically powerful, and Leia, following in her foster father's path, became a senator as well. That's not all she became, of course... she became the leader of her cell in the Alliance against the corrupt Empire. And because she had diplomatic immunity, she was a vital link for getting information to the Rebel cause. That's what she was doing when her path crossed yours... for her foster parents had always told her to contact me on Tatooine, if her troubles became desperate.",
         "where": "50 INT YODA'S HOUSE",
-        "number": 139
+        "number": 132
     },
     {
         "from": "LUKE",
@@ -1556,13 +1556,13 @@
         "from": "HAN",
         "text": "(sarcastic) Well, don't look at me, pal. I just said you were a fair pilot. I didn't know they were lookin' for somebody to lead this crazy attack.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 28
+        "number": 27
     },
     {
         "from": "LANDO",
         "text": "(smiling) I'm surprised they didn't ask you to do it.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 10
+        "number": 9
     },
     {
         "from": "HAN",
@@ -1586,7 +1586,7 @@
         "from": "MON MOTHMA",
         "text": "(cont) Many Bothans died to bring us this information. Admiral Ackbar, please.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 12
+        "number": 11
     },
     {
         "from": "ACKBAR",
@@ -1598,7 +1598,7 @@
         "from": "ACKBAR",
         "text": "(cont) General Calrissian has volunteered to lead the fighter attack",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 10
+        "number": 9
     },
     {
         "from": "HAN",
@@ -1634,7 +1634,7 @@
         "from": "LEIA",
         "text": "(to Han) I wonder who they found to pull that off.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 11
+        "number": 9
     },
     {
         "from": "GENERAL MADINE",
@@ -1658,7 +1658,7 @@
         "from": "HAN",
         "text": "(smiles) That's one.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 3
+        "number": 2
     },
     {
         "from": "LEIA",
@@ -1670,7 +1670,7 @@
         "from": "VOICE",
         "text": "(OS) I'm with you, too!",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 5
+        "number": 4
     },
     {
         "from": "LEIA",
@@ -1682,7 +1682,7 @@
         "from": "LUKE",
         "text": "(hesitant) Ask me again sometime.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 5
+        "number": 4
     },
     {
         "from": "HAN",
@@ -1718,7 +1718,7 @@
         "from": "HAN",
         "text": "(looks at him warmly) Right. I got your promise now. Not a scratch.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 13
+        "number": 9
     },
     {
         "from": "LANDO",
@@ -1772,7 +1772,7 @@
         "from": "LEIA",
         "text": "(softly) Come on, General, let's move.",
         "where": "53 INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM",
-        "number": 6
+        "number": 5
     },
     {
         "from": "HAN",
@@ -1838,7 +1838,7 @@
         "from": "CONTROLLER",
         "text": "(over radio) We have you on our screen now. Please identify.",
         "where": "59 INT STOLEN IMPERIAL SHUTTLE - COCKPIT",
-        "number": 11
+        "number": 9
     },
     {
         "from": "HAN",
@@ -1850,7 +1850,7 @@
         "from": "CONTROLLER",
         "text": "(over radio) Shuttle Tydirium, transmit the clearance code for shield passage.",
         "where": "59 INT STOLEN IMPERIAL SHUTTLE - COCKPIT",
-        "number": 11
+        "number": 9
     },
     {
         "from": "HAN",
@@ -1910,13 +1910,13 @@
         "from": "PIETT",
         "text": "(into comlink) Shuttle Tydirium, what is your cargo and destination?",
         "where": "60 INT VADER'S STAR DESTROYER - BRIDGE",
-        "number": 10
+        "number": 8
     },
     {
         "from": "PILOT VOICE (HAN)",
         "text": "(filtered) Parts and technical crew for the forest moon.",
         "where": "60 INT VADER'S STAR DESTROYER - BRIDGE",
-        "number": 9
+        "number": 8
     },
     {
         "from": "DARTH VADER",
@@ -1946,7 +1946,7 @@
         "from": "PIETT",
         "text": "(surprised) As you wish, my lord. (to controller) Carry on.",
         "where": "60 INT VADER'S STAR DESTROYER - BRIDGE",
-        "number": 10
+        "number": 2
     },
     {
         "from": "HAN",
@@ -1958,7 +1958,7 @@
         "from": "CONTROLLER",
         "text": "(filtered) Shuttle Tydirium, deactivation of the shield will commence immediately. Follow your present course.",
         "where": "61 INT STOLEN IMPERIAL SHUTTLE - COCKPIT",
-        "number": 14
+        "number": 13
     },
     {
         "from": "HAN",
@@ -2000,7 +2000,7 @@
         "from": "HAN",
         "text": "(grins) Hey... it's me.",
         "where": "64 EXT FOREST CLEARING - CAMPSITE",
-        "number": 4
+        "number": 3
     },
     {
         "from": "SCOUT #1",
@@ -2012,7 +2012,7 @@
         "from": "LUKE",
         "text": "(sarcastic) Great. Come on.",
         "where": "64 EXT FOREST CLEARING - CAMPSITE",
-        "number": 4
+        "number": 3
     },
     {
         "from": "LEIA",
@@ -2030,7 +2030,7 @@
         "from": "LUKE",
         "text": "(pointing to the controls) Quick! Jam their comlink. Center switch!",
         "where": "64 EXT FOREST CLEARING - CAMPSITE",
-        "number": 10
+        "number": 6
     },
     {
         "from": "HAN",
@@ -2060,7 +2060,7 @@
         "from": "LUKE",
         "text": "(indicating the one ahead) Keep on that one! I'll take these two!",
         "where": "65 EXT FOREST - THE BIKE CHASE",
-        "number": 12
+        "number": 8
     },
     {
         "from": "THREEPIO",
@@ -2078,7 +2078,7 @@
         "from": "LUKE",
         "text": "(concerned) What? She didn't come back?",
         "where": "65 EXT FOREST - THE BIKE CHASE",
-        "number": 6
+        "number": 5
     },
     {
         "from": "HAN",
@@ -2120,7 +2120,7 @@
         "from": "THREEPIO",
         "text": "(to Artoo) And you said it was pretty here. Ugh!",
         "where": "65 EXT FOREST - THE BIKE CHASE",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LEIA",
@@ -2210,13 +2210,13 @@
         "from": "DARTH VADER",
         "text": "(raising his gloved hand to the two guards and choking them with the Force) The Emperor will see me, now!",
         "where": "68 INT DEATH STAR - CORRIDOR TO EMPEROR'S TOWER",
-        "number": 20
+        "number": 6
     },
     {
         "from": "GUARD",
         "text": "(repeating Vader's command) The Emperor will see you, now.",
         "where": "68 INT DEATH STAR - CORRIDOR TO EMPEROR'S TOWER",
-        "number": 9
+        "number": 6
     },
     {
         "from": "EMPEROR",
@@ -2234,19 +2234,19 @@
         "from": "EMPEROR",
         "text": "(no surprise) Yes, I know.",
         "where": "69 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 5
+        "number": 3
     },
     {
         "from": "DARTH VADER",
         "text": "(after a beat) My son is with them.",
         "where": "69 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 8
+        "number": 5
     },
     {
         "from": "EMPEROR",
         "text": "(very cool) Are you sure?",
         "where": "69 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 5
+        "number": 3
     },
     {
         "from": "DARTH VADER",
@@ -2276,7 +2276,7 @@
         "from": "DARTH VADER",
         "text": "(skeptical) He will come to me?",
         "where": "69 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 6
+        "number": 5
     },
     {
         "from": "EMPEROR",
@@ -2288,13 +2288,13 @@
         "from": "DARTH VADER",
         "text": "(bows) As you wish.",
         "where": "69 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 4
+        "number": 3
     },
     {
         "from": "HAN",
         "text": "(OS) Luke! Luke!",
         "where": "70 EXT FOREST CLEARING - LEIA'S CRASH SITE",
-        "number": 3
+        "number": 2
     },
     {
         "from": "THREEPIO",
@@ -2318,7 +2318,7 @@
         "from": "HAN",
         "text": "(gravely) I hope she's alright.",
         "where": "70 EXT FOREST CLEARING - LEIA'S CRASH SITE",
-        "number": 5
+        "number": 4
     },
     {
         "from": "HAN",
@@ -2336,7 +2336,7 @@
         "from": "HAN",
         "text": "(cont) Nah, it's just a dead animal, Chewie.",
         "where": "70 EXT FOREST CLEARING - LEIA'S CRASH SITE",
-        "number": 8
+        "number": 7
     },
     {
         "from": "LUKE",
@@ -2354,7 +2354,7 @@
         "from": "LUKE",
         "text": "Will you take it easy? Let's just figure out a way to get out of this thing. (trying to free an arm) Han, can you reach my lightsaber?",
         "where": "70 EXT FOREST CLEARING - LEIA'S CRASH SITE",
-        "number": 28
+        "number": 23
     },
     {
         "from": "HAN",
@@ -2534,7 +2534,7 @@
         "from": "THREEPIO",
         "text": "... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!",
         "where": "74 EXT EWOK VILLAGE SQUARE",
-        "number": 12
+        "number": 11
     },
     {
         "from": "THREEPIO",
@@ -2558,7 +2558,7 @@
         "from": "THREEPIO",
         "text": "(still shaken) I...I never knew I had it in me.",
         "where": "74 EXT EWOK VILLAGE SQUARE",
-        "number": 10
+        "number": 9
     },
     {
         "from": "THREEPIO",
@@ -2594,7 +2594,7 @@
         "from": "HAN",
         "text": "(chuckles) Well, short help is better than no help at all, Chewie. (to Wicket) Thank you. Okay.",
         "where": "74 EXT EWOK VILLAGE SQUARE",
-        "number": 17
+        "number": 3
     },
     {
         "from": "THREEPIO",
@@ -2612,7 +2612,7 @@
         "from": "HAN",
         "text": "(cont) And hurry up, will ya? I haven't got all day.",
         "where": "74 EXT EWOK VILLAGE SQUARE",
-        "number": 11
+        "number": 10
     },
     {
         "from": "LEIA",
@@ -2642,7 +2642,7 @@
         "from": "LEIA",
         "text": "Just...images, really. Feelings.",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 3
+        "number": 4
     },
     {
         "from": "LUKE",
@@ -2654,7 +2654,7 @@
         "from": "LEIA",
         "text": "(a little surprised at his insistence) She was very beautiful. Kind, but...sad. (looks up) Why are you asking me all this?",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 21
+        "number": 7
     },
     {
         "from": "LUKE",
@@ -2672,19 +2672,19 @@
         "from": "LUKE",
         "text": "Vader is here...now, on this moon.",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 6
+        "number": 7
     },
     {
         "from": "LEIA",
         "text": "(alarmed) How do you know?",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 5
+        "number": 4
     },
     {
         "from": "LUKE",
         "text": "I felt his presence. He's come for me. He can feel when I'm near. That's why I have to go. (facing her) As long as I stay, I'm endangering the group and our mission here. (beat) I have to face him.",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 41
+        "number": 25
     },
     {
         "from": "LEIA",
@@ -2720,7 +2720,7 @@
         "from": "LUKE",
         "text": "You're wrong, Leia. You have that power too. In time you'll learn to use it as I have. The Force is strong in my family. My father has it...I have it...and...my sister has it.",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 34
+        "number": 37
     },
     {
         "from": "LUKE",
@@ -2732,7 +2732,7 @@
         "from": "LEIA",
         "text": "I know. Somehow...I've always known.",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 5
+        "number": 6
     },
     {
         "from": "LUKE",
@@ -2762,7 +2762,7 @@
         "from": "LUKE",
         "text": "Because...there is good in him. I've felt it. He won't turn me over to the Emperor. I can save him. I can turn him back to the good side. I have to try.",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 33
+        "number": 34
     },
     {
         "from": "HAN",
@@ -2780,19 +2780,19 @@
         "from": "HAN",
         "text": "(angry) Nothing? Come on, tell me. What's goin' on?",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 9
+        "number": 8
     },
     {
         "from": "LEIA",
         "text": "I...I can't tell you.",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 4
+        "number": 5
     },
     {
         "from": "HAN",
         "text": "(loses his temper) Did you tell Luke? Is that who you could tell?",
         "where": "76 EXT EWOK VILLAGE - NIGHT",
-        "number": 13
+        "number": 10
     },
     {
         "from": "LEIA",
@@ -2870,7 +2870,7 @@
         "from": "DARTH VADER",
         "text": "(turning to face him) That name no longer has any meaning for me.",
         "where": "78 EXT IMPERIAL LANDING PLATFORM - LOWER DECK",
-        "number": 13
+        "number": 9
     },
     {
         "from": "LUKE",
@@ -2882,7 +2882,7 @@
         "from": "DARTH VADER",
         "text": "(indicating lightsaber) I see you have constructed a new lightsaber.",
         "where": "78 EXT IMPERIAL LANDING PLATFORM - LOWER DECK",
-        "number": 10
+        "number": 8
     },
     {
         "from": "DARTH VADER",
@@ -2912,7 +2912,7 @@
         "from": "LUKE",
         "text": "I will not turn...and you'll be forced to kill me.",
         "where": "78 EXT IMPERIAL LANDING PLATFORM - LOWER DECK",
-        "number": 10
+        "number": 11
     },
     {
         "from": "DARTH VADER",
@@ -2972,19 +2972,19 @@
         "from": "ACKBAR",
         "text": "(VO) Proceed with the countdown. All groups assume attack coordinates.",
         "where": "81 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 10
+        "number": 9
     },
     {
         "from": "LANDO",
         "text": "Don't worry, my friends are down there. They'll have that shield down on time... (to himself) or this'll be the shortest offensive of all time.",
         "where": "81 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 25
+        "number": 23
     },
     {
         "from": "ACKBAR",
         "text": "(VO) All craft, prepare to jump to hyperspace on my mark.",
         "where": "81 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 11
+        "number": 10
     },
     {
         "from": "LANDO",
@@ -3002,7 +3002,7 @@
         "from": "HAN",
         "text": "(cont) It's only a few guards. This shouldn't be too much trouble.",
         "where": "81 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 12
+        "number": 11
     },
     {
         "from": "LEIA",
@@ -3014,7 +3014,7 @@
         "from": "HAN",
         "text": "(with self-confident grin) Then we'll do it real quiet-like.",
         "where": "81 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 9
+        "number": 6
     },
     {
         "from": "THREEPIO",
@@ -3044,7 +3044,7 @@
         "from": "HAN",
         "text": "(sighs) There goes our surprise attack.",
         "where": "81 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 6
+        "number": 5
     },
     {
         "from": "HAN",
@@ -3080,7 +3080,7 @@
         "from": "EMPEROR",
         "text": "(to Luke) I'm looking forward to completing your training. In time you will call me Master.",
         "where": "90 INT DEATH STAR - EMPEROR'S THRONE ROOM",
-        "number": 16
+        "number": 14
     },
     {
         "from": "LUKE",
@@ -3092,7 +3092,7 @@
         "from": "EMPEROR",
         "text": "Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.",
         "where": "90 INT DEATH STAR - EMPEROR'S THRONE ROOM",
-        "number": 19
+        "number": 20
     },
     {
         "from": "DARTH VADER",
@@ -3110,7 +3110,7 @@
         "from": "LUKE",
         "text": "You're wrong. Soon I'll be dead...and you with me.",
         "where": "90 INT DEATH STAR - EMPEROR'S THRONE ROOM",
-        "number": 9
+        "number": 10
     },
     {
         "from": "EMPEROR",
@@ -3122,7 +3122,7 @@
         "from": "EMPEROR",
         "text": "Yes...I assure you we are quite safe from your friends here.",
         "where": "90 INT DEATH STAR - EMPEROR'S THRONE ROOM",
-        "number": 11
+        "number": 12
     },
     {
         "from": "LUKE",
@@ -3146,19 +3146,19 @@
         "from": "EMPEROR",
         "text": "(angry) Everything that has transpired has done so according to my design. (indicates Endor) Your friends up there on the Sanctuary Moon...",
         "where": "90 INT DEATH STAR - EMPEROR'S THRONE ROOM",
-        "number": 22
+        "number": 8
     },
     {
         "from": "EMPEROR",
         "text": "(cont) ...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them.",
         "where": "90 INT DEATH STAR - EMPEROR'S THRONE ROOM",
-        "number": 44
+        "number": 43
     },
     {
         "from": "EMPEROR",
         "text": "Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.",
         "where": "90 INT DEATH STAR - EMPEROR'S THRONE ROOM",
-        "number": 13
+        "number": 14
     },
     {
         "from": "HAN",
@@ -3182,7 +3182,7 @@
         "from": "THREEPIO",
         "text": "(to Wicket) Oh, my! They'll be captured!",
         "where": "91 INT BUNKER - MAIN CONTROL ROOM",
-        "number": 7
+        "number": 5
     },
     {
         "from": "THREEPIO",
@@ -3248,7 +3248,7 @@
         "from": "RED LEADER",
         "text": "(VO) I get no reading. Are you sure?",
         "where": "95 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 8
+        "number": 7
     },
     {
         "from": "LANDO",
@@ -3278,7 +3278,7 @@
         "from": "LANDO",
         "text": "(over comlink) Fighters coming in.",
         "where": "97 INT REBEL STAR CRUISER - BRIDGE",
-        "number": 5
+        "number": 3
     },
     {
         "from": "REBEL PILOT",
@@ -3392,7 +3392,7 @@
         "from": "LEIA",
         "text": "(into comlink) Artoo, where are you? We need you at the bunker right away.",
         "where": "99 EXT FOREST - GENERATOR BUNKER",
-        "number": 14
+        "number": 12
     },
     {
         "from": "THREEPIO",
@@ -3470,7 +3470,7 @@
         "from": "EMPEROR",
         "text": "As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station. (into comlink) Fire at will, Commander.",
         "where": "104 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 29
+        "number": 27
     },
     {
         "from": "JERJERROD",
@@ -3482,7 +3482,7 @@
         "from": "LANDO",
         "text": "That blast came from the Death Star! That thing's operational! (into comlink) Home One, this is Gold Leader.",
         "where": "109 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 18
+        "number": 16
     },
     {
         "from": "ACKBAR",
@@ -3548,7 +3548,7 @@
         "from": "LANDO",
         "text": "(desperately) Yes! I said closer! Move as close as you can and engage those Star Destroyers at point- blank range.",
         "where": "113 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 20
+        "number": 19
     },
     {
         "from": "ACKBAR",
@@ -3560,7 +3560,7 @@
         "from": "LANDO",
         "text": "We'll last longer then we will against that Death Star...and we might just take a few of them with us.",
         "where": "113 INT MILLENNIUM FALCON - COCKPIT",
-        "number": 20
+        "number": 21
     },
     {
         "from": "REBEL PILOT",
@@ -3578,7 +3578,7 @@
         "from": "EMPEROR",
         "text": "Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends.",
         "where": "114 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 28
+        "number": 29
     },
     {
         "from": "EMPEROR",
@@ -3626,7 +3626,7 @@
         "from": "STORMTROOPER",
         "text": "(OS) Freeze!",
         "where": "116 EXT FOREST - GENERATOR BUNKER",
-        "number": 2
+        "number": 1
     },
     {
         "from": "THREEPIO",
@@ -3662,7 +3662,7 @@
         "from": "HAN",
         "text": "(to Leia) Stay back.",
         "where": "116 EXT FOREST - GENERATOR BUNKER",
-        "number": 4
+        "number": 2
     },
     {
         "from": "HAN",
@@ -3674,7 +3674,7 @@
         "from": "EMPEROR",
         "text": "(laughing) Good. Use your aggressive feelings, boy! Let the hate flow through you.",
         "where": "117 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 13
+        "number": 12
     },
     {
         "from": "DARTH VADER",
@@ -3698,7 +3698,7 @@
         "from": "LUKE",
         "text": "Your thoughts betray you, father. I feel the good in you...the conflict.",
         "where": "117 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 12
+        "number": 13
     },
     {
         "from": "DARTH VADER",
@@ -3722,7 +3722,7 @@
         "from": "EMPEROR",
         "text": "(laughs) Good. Good.",
         "where": "117 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 3
+        "number": 2
     },
     {
         "from": "LANDO",
@@ -3746,13 +3746,13 @@
         "from": "LANDO",
         "text": "Now...come on, Han, old buddy. Don't let me down.",
         "where": "118 EXT SPACE - AIR BATTLE",
-        "number": 9
+        "number": 10
     },
     {
         "from": "HAN/PILOT",
         "text": "(VO) It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit.",
         "where": "119 INT BUNKER - CONTROL ROOM",
-        "number": 21
+        "number": 20
     },
     {
         "from": "CONTROL ROOM COMMANDER",
@@ -3794,7 +3794,7 @@
         "from": "DARTH VADER",
         "text": "Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.",
         "where": "122 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 39
+        "number": 40
     },
     {
         "from": "LUKE",
@@ -3818,7 +3818,7 @@
         "from": "EMPEROR",
         "text": "So be it...Jedi.",
         "where": "122 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 3
+        "number": 4
     },
     {
         "from": "HAN",
@@ -3836,7 +3836,7 @@
         "from": "LANDO",
         "text": "We're on our way. Red Group, Gold Group, all fighters follow me. (laughs) Told you they'd do it!",
         "where": "124 INT REBEL STAR CRUISER - BRIDGE",
-        "number": 18
+        "number": 17
     },
     {
         "from": "EMPEROR",
@@ -3848,7 +3848,7 @@
         "from": "EMPEROR",
         "text": "Young fool...only now, at the end, do you understand.",
         "where": "125 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 9
+        "number": 10
     },
     {
         "from": "EMPEROR",
@@ -3860,13 +3860,13 @@
         "from": "LUKE",
         "text": "(groans) Father, please. Help me.",
         "where": "125 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 5
+        "number": 4
     },
     {
         "from": "EMPEROR",
         "text": "Now, young Skywalker...you will die.",
         "where": "125 INT EMPEROR'S TOWER - THRONE ROOM",
-        "number": 5
+        "number": 6
     },
     {
         "from": "WEDGE",
@@ -3944,7 +3944,7 @@
         "from": "DARTH VADER",
         "text": "(a whisper) Luke, help me take this mask off.",
         "where": "130 INT DEATH STAR - MAIN DOCKING BAY",
-        "number": 9
+        "number": 7
     },
     {
         "from": "LUKE",
@@ -3962,7 +3962,7 @@
         "from": "ANAKIN",
         "text": "(very weak) Now...go, my son. Leave me.",
         "where": "130 INT DEATH STAR - MAIN DOCKING BAY",
-        "number": 7
+        "number": 6
     },
     {
         "from": "LUKE",
@@ -3974,13 +3974,13 @@
         "from": "ANAKIN",
         "text": "You already have, Luke. You were right about me. Tell your sister...you were right.",
         "where": "130 INT DEATH STAR - MAIN DOCKING BAY",
-        "number": 14
+        "number": 15
     },
     {
         "from": "LUKE",
         "text": "Father...I won't leave you.",
         "where": "130 INT DEATH STAR - MAIN DOCKING BAY",
-        "number": 4
+        "number": 5
     },
     {
         "from": "WEDGE",

@@ -194,13 +194,13 @@
         "from": "LUKE",
         "text": "The Academy didn't change you much...but you're back so soon? Hey, what happened, didn't you get your commission?",
         "where": "INT. POWER STATION - DAY",
-        "number": 18
+        "number": 19
     },
     {
         "from": "BIGGS",
         "text": "Of course I got it. Signed aboard The Rand Ecliptic last week. First mate Biggs Darklighter at your service... (he salutes) ...I just came to say good-bye to all you unfortunate landlocked simpletons.",
         "where": "INT. POWER STATION - DAY",
-        "number": 33
+        "number": 31
     },
     {
         "from": "LUKE",
@@ -398,7 +398,7 @@
         "from": "LUKE",
         "text": "(Very animated) ...so I cut off my power, shut down the afterburners and came in low on Deak's trail. I was so close I thought I was going to fry my instruments. As it was I busted up the Skyhopper pretty bad. Uncle Owen was pretty upset. He grounded me for the rest of the season. You should have been there... it was fantastic.",
         "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY",
-        "number": 64
+        "number": 62
     },
     {
         "from": "BIGGS",
@@ -440,7 +440,7 @@
         "from": "BIGGS",
         "text": "I made some friends at the Academy. (he whispers) ...when our frigate goes to one of the central systems, we're going to jump ship and join the Alliance...",
         "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY",
-        "number": 28
+        "number": 26
     },
     {
         "from": "LUKE",
@@ -458,7 +458,7 @@
         "from": "LUKE",
         "text": "I'm sorry. I'm quiet. (he whispers) Listen how quiet I am. You can barely hear me...",
         "where": "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY",
-        "number": 16
+        "number": 14
     },
     {
         "from": "BIGGS",
@@ -626,7 +626,7 @@
         "from": "THREEPIO",
         "text": "(quickly) Sir -- not in an environment such as this -- that's why I've also been programmed for over thirty secondary functions that...",
         "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON",
-        "number": 23
+        "number": 22
     },
     {
         "from": "OWEN",
@@ -656,7 +656,7 @@
         "from": "OWEN",
         "text": "All right shut up! (turning to Jawa) I'll take this one.",
         "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON",
-        "number": 11
+        "number": 8
     },
     {
         "from": "THREEPIO",
@@ -710,13 +710,13 @@
         "from": "OWEN",
         "text": "(to the head Jawa) Hey, what're you trying to push on us?",
         "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON",
-        "number": 12
+        "number": 8
     },
     {
         "from": "THREEPIO",
         "text": "(pointing to ARTOO) Excuse me, sir, but that R2 unit is in prime condition. A real bargain.",
         "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON",
-        "number": 17
+        "number": 14
     },
     {
         "from": "LUKE",
@@ -740,7 +740,7 @@
         "from": "OWEN",
         "text": "(to Jawa) What about that blue one? We'll take that one.",
         "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON",
-        "number": 11
+        "number": 9
     },
     {
         "from": "LUKE",
@@ -764,7 +764,7 @@
         "from": "THREEPIO",
         "text": "(to ARTOO) Now, don't you forget this! Why I should stick my neck out for you is quite beyond my capacity!",
         "where": "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON",
-        "number": 21
+        "number": 19
     },
     {
         "from": "THREEPIO",
@@ -824,7 +824,7 @@
         "from": "LUKE",
         "text": "(laughing) Just Luke.",
         "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON",
-        "number": 3
+        "number": 2
     },
     {
         "from": "THREEPIO",
@@ -896,7 +896,7 @@
         "from": "THREEPIO",
         "text": "What is what?!? He asked you a question... (pointing to Leia) What is that?",
         "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON",
-        "number": 14
+        "number": 11
     },
     {
         "from": "LEIA",
@@ -1034,7 +1034,7 @@
         "from": "THREEPIO",
         "text": "(to ARTOO) Just you reconsider playing that message for him.",
         "where": "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON",
-        "number": 10
+        "number": 8
     },
     {
         "from": "THREEPIO",
@@ -1292,7 +1292,7 @@
         "from": "LUKE",
         "text": "(yelling) How's that.",
         "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY",
-        "number": 3
+        "number": 2
     },
     {
         "from": "LUKE",
@@ -1310,7 +1310,7 @@
         "from": "LUKE",
         "text": "(brightening) Sure. He needs you. He'd probably only deactivate you for a day or so...",
         "where": "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - DAY",
-        "number": 15
+        "number": 14
     },
     {
         "from": "THREEPIO",
@@ -1634,7 +1634,7 @@
         "from": "LUKE",
         "text": "(laughing) Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is.",
         "where": "INT. KENOBI'S DWELLING",
-        "number": 21
+        "number": 20
     },
     {
         "from": "OBI-WAN",
@@ -1658,7 +1658,7 @@
         "from": "LUKE",
         "text": "(sighing) Oh, God, my uncle. How am I ever going to explain this?",
         "where": "INT. KENOBI'S DWELLING",
-        "number": 13
+        "number": 12
     },
     {
         "from": "OBI-WAN",
@@ -1904,7 +1904,7 @@
         "from": "OBI-WAN",
         "text": "(to Luke) Move along.",
         "where": "EXT. TATOOINE - MOS EISLEY - STREET",
-        "number": 4
+        "number": 2
     },
     {
         "from": "TROOPER",
@@ -2288,7 +2288,7 @@
         "from": "TARKIN",
         "text": "I think it is time we demonstrate the full power of this station. (to soldier) Set your course for Princess Leia's home planet of Alderaan.",
         "where": "INT. DEATH STAR - CONTROL ROOM",
-        "number": 25
+        "number": 23
     },
     {
         "from": "TROOPER",
@@ -2366,7 +2366,7 @@
         "from": "JABBA",
         "text": "(fatherly-smooth) Han, my boy, there are times when you disappoint me... why haven't you paid me? And why did you have to fry poor Greedo like that... after all we've been through together.",
         "where": "INT. DOCKING BAY 94 - DAY",
-        "number": 33
+        "number": 32
     },
     {
         "from": "HAN SOLO",
@@ -2378,7 +2378,7 @@
         "from": "JABBA",
         "text": "(mock surprise) Han, why you're the best smuggler in the business. You're too valuable to fry. He was only relaying my concern at your delays. He wasn't going to blast you.",
         "where": "INT. DOCKING BAY 94 - DAY",
-        "number": 31
+        "number": 29
     },
     {
         "from": "HAN SOLO",
@@ -2402,7 +2402,7 @@
         "from": "JABBA",
         "text": "(to his men) Put your blasters away. Han, my boy, I'm only doing this because you're the best and I need you. So, for an extra, say twenty percent I'll give you a little more time... but this is it. If you disappoint me again, I'll put a price on your head so large you won't be able to go near a civilized system for the rest of your short life.",
         "where": "INT. DOCKING BAY 94 - DAY",
-        "number": 71
+        "number": 68
     },
     {
         "from": "HAN SOLO",
@@ -2600,7 +2600,7 @@
         "from": "LEIA",
         "text": "(softly) Dantooine.",
         "where": "INT. DEATH STAR - CONTROL ROOM",
-        "number": 2
+        "number": 1
     },
     {
         "from": "LEIA",
@@ -2612,7 +2612,7 @@
         "from": "TARKIN",
         "text": "There. You see Lord Vader, she can be reasonable. (addressing Motti) Continue with the operation. You may fire when ready.",
         "where": "INT. DEATH STAR - CONTROL ROOM",
-        "number": 20
+        "number": 18
     },
     {
         "from": "LEIA",
@@ -2690,7 +2690,7 @@
         "from": "HAN SOLO",
         "text": "(interrupting) Let him have it. It's not wise to upset a Wookiee.",
         "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA",
-        "number": 12
+        "number": 11
     },
     {
         "from": "THREEPIO",
@@ -2768,7 +2768,7 @@
         "from": "LUKE",
         "text": "(laughing) With the blast shield down, I can't even see. How am I supposed to fight?",
         "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA",
-        "number": 16
+        "number": 15
     },
     {
         "from": "OBI-WAN",
@@ -2864,7 +2864,7 @@
         "from": "HAN SOLO",
         "text": "What the...? Aw, we've come out of hyperspace into a meteor shower. Some kind of asteroid collision. It's not on any of the charts.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 24
+        "number": 25
     },
     {
         "from": "LUKE",
@@ -2954,7 +2954,7 @@
         "from": "HAN SOLO",
         "text": "Not if I can help it. Chewie...jam it's transmissions.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 9
+        "number": 10
     },
     {
         "from": "OBI-WAN",
@@ -3062,7 +3062,7 @@
         "from": "OFFICER",
         "text": "To you stations! (to another officer) Come with me.",
         "where": "INT. DEATH STAR - DOCKING BAY 2037",
-        "number": 9
+        "number": 6
     },
     {
         "from": "OFFICER",
@@ -3080,7 +3080,7 @@
         "from": "VOICE",
         "text": "(over intercom) We've captured a freighter entering the remains of the Alderaan system. It's markings match those of a ship that blasted its way out of Mos Eisley.",
         "where": "INT. DEATH STAR - CONFERENCE ROOM",
-        "number": 28
+        "number": 26
     },
     {
         "from": "DARTH VADER",
@@ -3092,13 +3092,13 @@
         "from": "VOICE",
         "text": "(over intercom) Unlock one-five-seven and nine. Release charges.",
         "where": "INT. DEATH STAR - DOCKING BAY 2037",
-        "number": 8
+        "number": 6
     },
     {
         "from": "OFFICER",
         "text": "(to Vader) There's no one on board, sir. According to the log, the crew abandoned ship right after takeoff. It must be a decoy, sir. Several of the escape pods have been jettisoned.",
         "where": "INT. DEATH STAR - DOCKING BAY 2037",
-        "number": 33
+        "number": 31
     },
     {
         "from": "DARTH VADER",
@@ -3314,7 +3314,7 @@
         "from": "THREEPIO",
         "text": "I'm afraid I'm not quite sure, sir. He says \"I found her\", and keeps repeating, \"She's here.\"",
         "where": "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE",
-        "number": 17
+        "number": 18
     },
     {
         "from": "LUKE",
@@ -3596,7 +3596,7 @@
         "from": "HAN SOLO",
         "text": "(sounding official) Everything is under control. Situation normal.",
         "where": "INT. DETENTION AREA",
-        "number": 8
+        "number": 6
     },
     {
         "from": "INTERCOM VOICE",
@@ -3608,7 +3608,7 @@
         "from": "HAN SOLO",
         "text": "(getting nervous) Uh... had a slight weapons malfunction. But, uh, everything's perfectly all right now. We're fine. We're all fine here, now, thank you. How are you?",
         "where": "INT. DETENTION AREA",
-        "number": 27
+        "number": 25
     },
     {
         "from": "INTERCOM VOICE",
@@ -3632,13 +3632,13 @@
         "from": "HAN SOLO",
         "text": "Boring conversation anyway. (yelling down the hall) Luke! We're going to have company!",
         "where": "INT. DETENTION AREA",
-        "number": 13
+        "number": 9
     },
     {
         "from": "LEIA",
         "text": "(finally) Aren't you a little short to be a stormtrooper?",
         "where": "INT. DEATH STAR - CELL ROW",
-        "number": 10
+        "number": 9
     },
     {
         "from": "LUKE",
@@ -3770,7 +3770,7 @@
         "from": "HAN SOLO",
         "text": "(sarcastically) Maybe you'd like it back in your cell, Your Highness.",
         "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY",
-        "number": 11
+        "number": 10
     },
     {
         "from": "LUKE",
@@ -3782,7 +3782,7 @@
         "from": "THREEPIO",
         "text": "(over comlink) Yes sir?",
         "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY",
-        "number": 4
+        "number": 2
     },
     {
         "from": "LUKE",
@@ -3830,7 +3830,7 @@
         "from": "HAN SOLO",
         "text": "(pointing to Luke) He's the brains, sweetheart.",
         "where": "INT. DEATH STAR - DETENTION AREA - HALLWAY",
-        "number": 7
+        "number": 4
     },
     {
         "from": "LUKE",
@@ -3866,7 +3866,7 @@
         "from": "HAN SOLO",
         "text": "(sarcastically) Oh! The garbage chute was a really wonderful idea. What an incredible smell you've discovered! Let's get out of here! Get away from there...",
         "where": "INT. DEATH STAR - GARBAGE ROOM",
-        "number": 25
+        "number": 24
     },
     {
         "from": "LUKE",
@@ -4028,7 +4028,7 @@
         "from": "FIRST TROOPER",
         "text": "Take over! (pointing to the dead officer) See to him! Look there!",
         "where": "INT. DEATH STAR - GARBAGE ROOM",
-        "number": 12
+        "number": 7
     },
     {
         "from": "THREEPIO",
@@ -4040,13 +4040,13 @@
         "from": "FIRST OFFICER",
         "text": "(to his troops) Follow me! You stand guard.",
         "where": "INT. DEATH STAR - GARBAGE ROOM",
-        "number": 8
+        "number": 5
     },
     {
         "from": "THREEPIO",
         "text": "(to ARTOO) Come on!",
         "where": "INT. DEATH STAR - GARBAGE ROOM",
-        "number": 4
+        "number": 2
     },
     {
         "from": "THREEPIO",
@@ -4100,7 +4100,7 @@
         "from": "HAN SOLO",
         "text": "One thing's for sure. We're all going to be a lot thinner! (to Leia) Get on top of it!",
         "where": "INT. DEATH STAR - GARBAGE ROOM",
-        "number": 19
+        "number": 17
     },
     {
         "from": "LEIA",
@@ -4112,7 +4112,7 @@
         "from": "THREEPIO",
         "text": "(to ARTOO) Thank goodness, they haven't found them! Where could they be?",
         "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL",
-        "number": 12
+        "number": 10
     },
     {
         "from": "THREEPIO",
@@ -4142,7 +4142,7 @@
         "from": "LUKE",
         "text": "(over comlink) Will you shut up and listen to me? Shut down all garbage mashers on the detention level, will you? Do you copy?",
         "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL",
-        "number": 24
+        "number": 22
     },
     {
         "from": "LUKE",
@@ -4154,13 +4154,13 @@
         "from": "LUKE",
         "text": "(over comlink) Shut down all the garbage mashers on the detention level.",
         "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL",
-        "number": 12
+        "number": 10
     },
     {
         "from": "THREEPIO",
         "text": "(to ARTOO) No. Shut them all down! Hurry!",
         "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL",
-        "number": 8
+        "number": 6
     },
     {
         "from": "THREEPIO",
@@ -4172,7 +4172,7 @@
         "from": "LUKE",
         "text": "(over comlink) Threepio, we're all right!",
         "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
@@ -4190,7 +4190,7 @@
         "from": "HAN SOLO",
         "text": "(over comlink) Three-two-six-eight-two-seven.",
         "where": "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL",
-        "number": 3
+        "number": 1
     },
     {
         "from": "HAN SOLO",
@@ -4208,7 +4208,7 @@
         "from": "HAN SOLO",
         "text": "(to Chewie) Where are you going?",
         "where": "INT. DEATH STAR - UNUSED HALLWAY",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LEIA",
@@ -4220,7 +4220,7 @@
         "from": "HAN SOLO",
         "text": "(to Chewie) Come here, you big coward!",
         "where": "INT. DEATH STAR - UNUSED HALLWAY",
-        "number": 7
+        "number": 5
     },
     {
         "from": "HAN SOLO",
@@ -4244,7 +4244,7 @@
         "from": "LEIA",
         "text": "It's a wonder you're still alive. (looking at Chewie) Will somebody get this big walking carpet out of my way?",
         "where": "INT. DEATH STAR - UNUSED HALLWAY",
-        "number": 20
+        "number": 17
     },
     {
         "from": "HAN SOLO",
@@ -4292,7 +4292,7 @@
         "from": "HAN SOLO",
         "text": "(looking at his ship) There she is.",
         "where": "INT. DEATH STAR - HALLWAY",
-        "number": 7
+        "number": 3
     },
     {
         "from": "LUKE",
@@ -4304,7 +4304,7 @@
         "from": "THREEPIO",
         "text": "(voice) For the moment. Uh, we're in the main hangar across from the ship.",
         "where": "INT. DEATH STAR - HALLWAY",
-        "number": 14
+        "number": 13
     },
     {
         "from": "LUKE",
@@ -4334,7 +4334,7 @@
         "from": "HAN SOLO",
         "text": "(to Luke and Leia) Get back to the ship!",
         "where": "INT. DEATH STAR - HALLWAY",
-        "number": 9
+        "number": 5
     },
     {
         "from": "LUKE",
@@ -4358,7 +4358,7 @@
         "from": "LUKE",
         "text": "(gasping) I think we took a wrong turn.",
         "where": "INT. DEATH STAR - CENTRAL CORE SHAFT",
-        "number": 8
+        "number": 7
     },
     {
         "from": "LEIA",
@@ -4514,7 +4514,7 @@
         "from": "HAN SOLO",
         "text": "(to Luke) Come on!",
         "where": "INT. DEATH STAR - HALLWAY",
-        "number": 4
+        "number": 2
     },
     {
         "from": "LEIA",
@@ -4544,7 +4544,7 @@
         "from": "HAN SOLO",
         "text": "(to Chewie) We're coming up on the sentry ships. Hold 'em off! Angle the deflector shields while I charge up the main guns!",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 23
+        "number": 21
     },
     {
         "from": "LUKE",
@@ -4562,19 +4562,19 @@
         "from": "HAN SOLO",
         "text": "(to Luke) Come on, buddy, we're not out of this yet!",
         "where": "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA",
-        "number": 11
+        "number": 9
     },
     {
         "from": "HAN SOLO",
         "text": "(to Luke) You in, kid? Okay, stay sharp!",
         "where": "INT. MILLENNIUM FALCON - SOLO'S GUNPORT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "LEIA",
         "text": "(into intercom) Here they come!",
         "where": "INT. MILLENNIUM FALCON - SOLO'S GUNPORT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "LUKE",
@@ -4604,7 +4604,7 @@
         "from": "HAN SOLO",
         "text": "(to ship) You hear me, baby? Hold together!",
         "where": "INT. MILLENNIUM FALCON - MAIN PASSAGEWAY",
-        "number": 8
+        "number": 6
     },
     {
         "from": "LUKE",
@@ -4628,7 +4628,7 @@
         "from": "LUKE",
         "text": "(laughing) That's it! We did it!",
         "where": "INT. MILLENNIUM FALCON - GUNPORT",
-        "number": 6
+        "number": 5
     },
     {
         "from": "LEIA",
@@ -4640,7 +4640,7 @@
         "from": "THREEPIO",
         "text": "Help! I think I'm melting! (to ARTOO) This is all your fault.",
         "where": "INT. MILLENNIUM FALCON - PASSAGEWAY",
-        "number": 12
+        "number": 10
     },
     {
         "from": "TARKIN",
@@ -4748,7 +4748,7 @@
         "from": "LUKE",
         "text": "(under his breath) Good...",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 4
+        "number": 1
     },
     {
         "from": "HAN SOLO",
@@ -4766,7 +4766,7 @@
         "from": "WILLARD",
         "text": "(holding Leia) You're safe! We had feared the worst.",
         "where": "INT. MASSASSI - MAIN HANGAR DECK",
-        "number": 9
+        "number": 7
     },
     {
         "from": "WILLARD",
@@ -4784,7 +4784,7 @@
         "from": "LEIA",
         "text": "We don't have time for our sorrows, Commander. The battle station has surely tracked us here. (looking pointedly to Han) It's the only explanation for the ease of our escape. You must use the information in this R2 unit to plan the attack. It is our only hope.",
         "where": "INT. MASSASSI - MAIN HANGAR DECK",
-        "number": 48
+        "number": 44
     },
     {
         "from": "TARKIN",
@@ -4862,7 +4862,7 @@
         "from": "HAN SOLO",
         "text": "(over loudspeaker) All flight trooper, man your stations. All flight troops, man your stations.",
         "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK",
-        "number": 14
+        "number": 12
     },
     {
         "from": "LUKE",
@@ -4880,7 +4880,7 @@
         "from": "LUKE",
         "text": "(getting angry) Come on! Why don't you take a look around? You know what's about to happen, what they're up against. They could use a good pilot like you. You're turning your back on them.",
         "where": "INT. MASSASSI OUTPOST - MAIN HANGAR DECK",
-        "number": 35
+        "number": 33
     },
     {
         "from": "HAN SOLO",
@@ -4982,7 +4982,7 @@
         "from": "BIGGS",
         "text": "(going off) You did, all right. It's going to be like old times, Luke. We're a couple of shooting stars that'll never be stopped!",
         "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP",
-        "number": 24
+        "number": 22
     },
     {
         "from": "CHIEF",
@@ -4994,7 +4994,7 @@
         "from": "LUKE",
         "text": "Not on your life! That little droid and I have been through a lot together. (to ARTOO) You okay, ARTOO?",
         "where": "INT. MAIN HANGAR DECK - LUKE'S SHIP",
-        "number": 20
+        "number": 18
     },
     {
         "from": "CHIEF",
@@ -5042,7 +5042,7 @@
         "from": "RED SEVEN",
         "text": "(over Biggs' headset) Red Seven standing by.",
         "where": "INT. BIGGS' COCKPIT",
-        "number": 7
+        "number": 4
     },
     {
         "from": "BIGGS",
@@ -5060,7 +5060,7 @@
         "from": "RED NINE",
         "text": "(over headset) Red Nine standing by.",
         "where": "INT. PORKINS' COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "WEDGE",
@@ -5072,7 +5072,7 @@
         "from": "RED ELEVEN",
         "text": "(over headset) Red Eleven standing by.",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
@@ -5090,7 +5090,7 @@
         "from": "READ LEADER",
         "text": "(over headset) We're passing through their magnetic field.",
         "where": "INT. BIGGS' COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "RED LEADER",
@@ -5102,13 +5102,13 @@
         "from": "RED LEADER",
         "text": "(over headset) Switch your deflectors on.",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "RED LEADER",
         "text": "(over headset) Double front!",
         "where": "INT. ANOTHER COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "WEDGE",
@@ -5120,7 +5120,7 @@
         "from": "RED LEADER",
         "text": "(over headset) Cut the chatter, Red Two.",
         "where": "INT. WEDGE'S COCKPIT",
-        "number": 7
+        "number": 5
     },
     {
         "from": "RED LEADER",
@@ -5138,7 +5138,7 @@
         "from": "RED LEADER",
         "text": "(over headset) I copy, Gold Leader.",
         "where": "INT. GOLD LEADER'S COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "GOLD LEADER",
@@ -5156,13 +5156,13 @@
         "from": "WEDGE",
         "text": "(over war room speaker system) Heavy fire, boss! Twenty-degrees.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 9
+        "number": 4
     },
     {
         "from": "RED LEADER",
         "text": "(over speaker) I see it. Stay low.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 7
+        "number": 5
     },
     {
         "from": "LUKE",
@@ -5174,7 +5174,7 @@
         "from": "BIGGS",
         "text": "(over headset) Luke, pull up!",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "BIGGS",
@@ -5282,19 +5282,19 @@
         "from": "BIGGS",
         "text": "(over speaker) Pull in! Luke... pull in!",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 7
+        "number": 5
     },
     {
         "from": "WEDGE",
         "text": "(over speaker) Watch your back, Luke!",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 6
+        "number": 4
     },
     {
         "from": "WEDGE",
         "text": "(over headset) Watch your back! Fighter's above you, coming in!",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LUKE",
@@ -5312,7 +5312,7 @@
         "from": "RED LEADER",
         "text": "(over headset) Red Six...",
         "where": "INT. LUKE'S X-WING - COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "RED LEADER (over speaker) Can you see Red Five?",
@@ -5357,13 +5357,13 @@
         "from": "BIGGS",
         "text": "(over speaker) Good shooting, Wedge!",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 5
+        "number": 3
     },
     {
         "from": "GOLD LEADER",
         "text": "(over speaker) Red Leader...",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 4
+        "number": 2
     },
     {
         "from": "GOLD LEADER",
@@ -5375,7 +5375,7 @@
         "from": "RED LEADER",
         "text": "(over speaker) I copy, Gold Leader. Move into position.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 9
+        "number": 7
     },
     {
         "from": "DARTH VADER",
@@ -5387,7 +5387,7 @@
         "from": "GOLD LEADER",
         "text": "(over speaker) The exhaust post is...",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 6
+        "number": 4
     },
     {
         "from": "GOLD LEADER",
@@ -5416,7 +5416,7 @@
         "from": "MASSASSI INTERCOM VOICE",
         "text": "(over speaker) Death Star will be in range in five minutes.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 11
+        "number": 9
     },
     {
         "from": "GOLD LEADER",
@@ -5458,7 +5458,7 @@
         "from": "WINGMAN'S VOICE",
         "text": "(over speaker) Yes, sir.",
         "where": "INT. DARTH VADER'S COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "GOLD LEADER (into mike) I can't maneuver!",
@@ -5499,7 +5499,7 @@
         "from": "GOLD FIVE",
         "text": "(over headset) Lost Tiree, lost Dutch.",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "RED LEADER",
@@ -5529,7 +5529,7 @@
         "from": "VOICE",
         "text": "(over speaker) Rebel base, three minutes and closing.",
         "where": "INT. DEATH STAR - CONTROL ROOM",
-        "number": 8
+        "number": 6
     },
     {
         "from": "RED LEADER",
@@ -5541,7 +5541,7 @@
         "from": "RED LEADER",
         "text": "(over speaker) Rendezvous at mark six point one.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 8
+        "number": 6
     },
     {
         "from": "WEDGE (over speaker) This is Red Two. Flying toward you.",
@@ -5552,7 +5552,7 @@
         "from": "BIGGS",
         "text": "(over speaker) Red Three, standing by.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 6
+        "number": 4
     },
     {
         "from": "DODONNA (over headset) Red Leader, this is Base One. Keep half your group out of range for the next run.",
@@ -5563,7 +5563,7 @@
         "from": "RED LEADER",
         "text": "(over headset) Copy, Base One. Luke, take Red Two and Three. Hold up here and wait for my signal... to start your run.",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 23
+        "number": 21
     },
     {
         "from": "RED LEADER",
@@ -5605,7 +5605,7 @@
         "from": "LUKE",
         "text": "(over headset) Coming in point three five.",
         "where": "INT. RED TEN'S COCKPIT",
-        "number": 7
+        "number": 5
     },
     {
         "from": "RED TEN",
@@ -5665,13 +5665,13 @@
         "from": "RED NINE",
         "text": "(over speaker) It's a hit!",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 5
+        "number": 3
     },
     {
         "from": "RED LEADER",
         "text": "(over speaker) Negative.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 3
+        "number": 1
     },
     {
         "from": "RED LEADER",
@@ -5683,7 +5683,7 @@
         "from": "LUKE",
         "text": "(over headset) Red Leader, we're right above you. Turn to point...",
         "where": "INT. RED LEADER'S COCKPIT",
-        "number": 11
+        "number": 9
     },
     {
         "from": "LUKE",
@@ -5695,7 +5695,7 @@
         "from": "RED LEADER",
         "text": "(over headset) Stay there...",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "RED LEADER",
@@ -5707,7 +5707,7 @@
         "from": "RED LEADER",
         "text": "(over headset) Get set to make your attack run.",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPIT",
-        "number": 9
+        "number": 7
     },
     {
         "from": "DEATH STAR INTERCOM VOICE",
@@ -5719,7 +5719,7 @@
         "from": "LUKE",
         "text": "(over speaker) Biggs, Wedge, let's close it up. We're going in. We're going in full throttle.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 16
+        "number": 14
     },
     {
         "from": "WEDGE",
@@ -5749,7 +5749,7 @@
         "from": "WEDGE",
         "text": "(over headset) My scope shows the tower, but I can't see the exhaust port! Are you sure the computer can hit it?",
         "where": "INT. LUKE'S COCKPIT",
-        "number": 22
+        "number": 20
     },
     {
         "from": "LUKE",
@@ -5773,19 +5773,19 @@
         "from": "LUKE",
         "text": "(to ARTOO) ARTOO... that, that stabilizer's broken loose again! See if you can't lock it down!",
         "where": "INT. LUKE'S X-WING FIGHTER - COCKPI",
-        "number": 16
+        "number": 14
     },
     {
         "from": "WEDGE",
         "text": "(over speaker) I'm hit! I can't stay with you.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 9
+        "number": 7
     },
     {
         "from": "LUKE",
         "text": "(over speaker) Get clear, Wedge.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 5
+        "number": 3
     },
     {
         "from": "LUKE",
@@ -5821,7 +5821,7 @@
         "from": "BIGGS",
         "text": "(over headset) Hurry up, Luke!",
         "where": "INT. LUKE'S X-WING FIGHTER",
-        "number": 5
+        "number": 3
     },
     {
         "from": "BIGGS",
@@ -5875,13 +5875,13 @@
         "from": "BASE VOICE",
         "text": "(over speaker) His computer's off. Luke, you switched off your targeting computer. What's wrong?",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 14
+        "number": 12
     },
     {
         "from": "LUKE",
         "text": "(over speaker) Nothing. I'm all right.",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
@@ -5929,7 +5929,7 @@
         "from": "HAN SOLO",
         "text": "(yelling) Yahoo!",
         "where": "INT. DARTH VADER'S COCKPIT",
-        "number": 2
+        "number": 1
     },
     {
         "from": "WINGMAN",
@@ -5941,13 +5941,13 @@
         "from": "HAN SOLO",
         "text": "(into mike) You're all clear, kid.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "HAN SOLO",
         "text": "(over speaker) Now let's blow this thing and go home!",
         "where": "INT. MASSASSI OUTPOST - WAR ROOM",
-        "number": 10
+        "number": 8
     },
     {
         "from": "INTERCOM VOICE",
@@ -5983,13 +5983,13 @@
         "from": "HAN SOLO",
         "text": "(laughing) Hey! Hey!",
         "where": "INT. MASSASSI OUTPOST - MAIN HANGAR",
-        "number": 3
+        "number": 2
     },
     {
         "from": "LUKE",
         "text": "(laughing) I knew you'd come back! I just knew it!",
         "where": "INT. MASSASSI OUTPOST - MAIN HANGAR",
-        "number": 10
+        "number": 9
     },
     {
         "from": "HAN SOLO",
@@ -6001,7 +6001,7 @@
         "from": "LEIA",
         "text": "(laughing) Hey, I knew there was more to you than money.",
         "where": "INT. MASSASSI OUTPOST - MAIN HANGAR",
-        "number": 11
+        "number": 10
     },
     {
         "from": "LUKE",
@@ -6013,7 +6013,7 @@
         "from": "THREEPIO",
         "text": "Oh, my! ARTOO! Can you hear me? Say something! (to mechanic) You can repair him, can't you?",
         "where": "INT. MASSASSI OUTPOST - MAIN HANGAR",
-        "number": 17
+        "number": 15
     },
     {
         "from": "TECHNICIAN",

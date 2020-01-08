@@ -14,7 +14,7 @@
         "from": "CORDÉ",
         "text": "... I'm sorry, m'lady... I'm... not sure I...",
         "where": "EXT. CORUSCANT, LANDING PLATFORM - DAY",
-        "number": 8
+        "number": 7
     },
     {
         "from": "AMIDALA",
@@ -38,7 +38,7 @@
         "from": "CAPTAIN TYPHO",
         "text": "This vote is very important. You didyour duty and Cordé did hers. Now come. (she doesn't respond) M'Lady, please!",
         "where": "EXT. CORUSCANT, LANDING PLATFORM - DAY",
-        "number": 19
+        "number": 16
     },
     {
         "from": "MAS AMEDDA",
@@ -56,7 +56,7 @@
         "from": "PALPATINE",
         "text": "(continued) This grievous blow is especially personal to me. Before I became Chancellor, I served Amidala when she was Queen. She was a great leader who fought for justice, not only in this honourable assembly, but also on her home planet. She was so loved she could have been elected queen for life. She believed in public service, and she fervently believed in democracy. Her death is a great loss to us all. We will all mourn her as a relentless champion of freedom... and as a dear friend.",
         "where": "INT. SENATE CHAMBER - DAY",
-        "number": 89
+        "number": 88
     },
     {
         "from": "SENATOR ASK AAK",
@@ -104,7 +104,7 @@
         "from": "PADME",
         "text": "(continuing) I warn you, if you vote to create this army, war will follow. I have experienced the misery of war first-hand; I do not wish to do it again.",
         "where": "INT. SENATE CHAMBER - DAY",
-        "number": 30
+        "number": 29
     },
     {
         "from": "PADME",
@@ -176,7 +176,7 @@
         "from": "YODA",
         "text": "Impossible to see ... The Dark Side clouds everything. But this I am sure of - (opens his eyes) Do their duty the Jedi will.",
         "where": "INT. CHANCELLOR'S OFFICE - DAY",
-        "number": 25
+        "number": 21
     },
     {
         "from": "DAR WAC",
@@ -266,7 +266,7 @@
         "from": "PALPATINE",
         "text": "...\"situation is that serious.\" No, but I do, Senator.",
         "where": "INT. CHANCELLOR'S OFFICE - DAY",
-        "number": 9
+        "number": 10
     },
     {
         "from": "PADME",
@@ -344,7 +344,7 @@
         "from": "JAR JAR",
         "text": "(continuing) ...and this, I take it, is your apprentice... Nooooooooo! Annie? Noooooooo! Little Bitty Annie? (Looks at Anakin) Nooooooo! Yousa so biggen! Yiyiyiyyi! Annie!! Mesa no believen.",
         "where": "INT. SENATE BUILDING, APARTMENT CORRIDOR - EVENING",
-        "number": 27
+        "number": 9
     },
     {
         "from": "ANAKIN",
@@ -386,13 +386,13 @@
         "from": "PADME",
         "text": "Annie?? (stares) My goodness you've grown.",
         "where": "INT. SENATE BUILDING, APARTMENT - EVENING",
-        "number": 6
+        "number": 5
     },
     {
         "from": "ANAKIN",
         "text": "(trying to be smooth) So have you... grown more beautiful, I mean... and much shorter... for a Senator, I mean.",
         "where": "INT. SENATE BUILDING, APARTMENT - EVENING",
-        "number": 20
+        "number": 16
     },
     {
         "from": "PADME",
@@ -422,7 +422,7 @@
         "from": "OBI-WAN",
         "text": "(frowning) We're here to protect you Senator, not to start an investigation.",
         "where": "INT. SENATE BUILDING, APARTMENT - EVENING",
-        "number": 12
+        "number": 11
     },
     {
         "from": "ANAKIN",
@@ -794,13 +794,13 @@
         "from": "OBI-WAN",
         "text": "(continuing) Wait! Don't go in there!",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 6
+        "number": 5
     },
     {
         "from": "OBI-WAN",
         "text": "(continuing) You know I don't like it when you do that!",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 11
+        "number": 10
     },
     {
         "from": "ANAKIN",
@@ -866,7 +866,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) Yiiii, what are you doing?",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 6
+        "number": 5
     },
     {
         "from": "ANAKIN",
@@ -878,7 +878,7 @@
         "from": "OBI-WAN",
         "text": "(sarcastically) Oh, that was good...",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 5
+        "number": 4
     },
     {
         "from": "ANAKIN",
@@ -890,7 +890,7 @@
         "from": "ANAKIN",
         "text": "(continuing) Ahh, damn.",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 3
+        "number": 2
     },
     {
         "from": "OBI-WAN",
@@ -920,7 +920,7 @@
         "from": "OBI-WAN",
         "text": "(angrily) It didn't work... we've stalled! And you almost got us killed!",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 12
+        "number": 11
     },
     {
         "from": "ANAKIN",
@@ -932,19 +932,19 @@
         "from": "OBI-WAN",
         "text": "(very angrily) It was stupid!",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "ANAKIN",
         "text": "(sheepishly) I could have made it...",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 6
+        "number": 5
     },
     {
         "from": "OBI-WAN",
         "text": "(furious) But you didn't!!! And now we've lost him.",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 9
+        "number": 8
     },
     {
         "from": "ANAKIN",
@@ -980,13 +980,13 @@
         "from": "OBI-WAN",
         "text": "(sarcastic) Oh, so that’s why we’re going in the wrong direction.",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 11
+        "number": 10
     },
     {
         "from": "OBI-WAN",
         "text": "(continuing) Well, you lost him.",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 5
+        "number": 4
     },
     {
         "from": "ANAKIN",
@@ -998,7 +998,7 @@
         "from": "ANAKIN",
         "text": "(continuing) Excuse me for a moment.",
         "where": "EXT. CITYSCAPE, CORUSCANT - NIGHT",
-        "number": 6
+        "number": 5
     },
     {
         "from": "OBI-WAN",
@@ -1022,7 +1022,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) Here. Next time try not to lose it.",
         "where": "EXT. ENTERTAINMENT STREET - NIGHT",
-        "number": 9
+        "number": 8
     },
     {
         "from": "ANAKIN",
@@ -1118,7 +1118,7 @@
         "from": "OBI-WAN",
         "text": "Then be extra careful... (nods to a room) Check it out.",
         "where": "INT. NIGHTCLUB - NIGHT",
-        "number": 11
+        "number": 7
     },
     {
         "from": "ANAKIN",
@@ -1250,7 +1250,7 @@
         "from": "JAR JAR",
         "text": "(coughs, recovers) Oh, pardone-ay, Senator. I mean, I am honoured to accept this heavy burden. I take on this responsibility with deep humility tinged with an overwhelming pride. (pompously) It is not every day that I am called upon to...",
         "where": "INT. SENATE BUILDING, AMIDALA'S APARTMENT - DAY",
-        "number": 40
+        "number": 11
     },
     {
         "from": "PADME",
@@ -1280,7 +1280,7 @@
         "from": "PADME",
         "text": "(frustrated) I haven't worked for a year to defeat the \"Military Creation Act\" not to be here when its fate is decided.",
         "where": "INT. SENATE BUILDING, AMIDALA'S APARTMENT - DAY",
-        "number": 22
+        "number": 21
     },
     {
         "from": "ANAKIN",
@@ -1340,7 +1340,7 @@
         "from": "PADME",
         "text": "I'm sorry, Anakin. It's impossible to deny you've... (looks him over) ...that you've grown up.",
         "where": "INT. SENATE BUILDING, AMIDALA'S APARTMENT - DAY",
-        "number": 15
+        "number": 12
     },
     {
         "from": "ANAKIN",
@@ -1406,7 +1406,7 @@
         "from": "PADME",
         "text": "(continuing) Don't try to grow up too fast.",
         "where": "INT. SENATE BUILDING, AMIDALA'S APARTMENT - DAY",
-        "number": 8
+        "number": 7
     },
     {
         "from": "ANAKIN",
@@ -1436,7 +1436,7 @@
         "from": "ANAKIN",
         "text": "(laughing) Ahh... so, you have Jedi powers too?",
         "where": "INT. SENATE BUILDING, AMIDALA'S APARTMENT - DAY",
-        "number": 8
+        "number": 7
     },
     {
         "from": "PADME",
@@ -1484,7 +1484,7 @@
         "from": "PADME",
         "text": "(looks to Anakin) Then my Jedi protector will have to prove how grown up he is.",
         "where": "INT. CORUSCANT, SPACEPORT FREIGHTER DOCKS, TRANSPORT BUS - DAY",
-        "number": 16
+        "number": 13
     },
     {
         "from": "OBI-WAN",
@@ -1502,7 +1502,7 @@
         "from": "OBI-WAN",
         "text": "(to Padme) I will get to the bottom of this plot quickly, M'Lady. You'll be back here in no time.",
         "where": "INT. CORUSCANT, SPACEPORT FREIGHTER DOCKS, TRANSPORT BUS - DAY",
-        "number": 20
+        "number": 18
     },
     {
         "from": "PADME",
@@ -1586,7 +1586,7 @@
         "from": "PK-4",
         "text": "(continuing) As you can see on your screen, subject weapon does not exist in any known culture. Markings cannot be identified. Probablt self-made by a warrior not associated with any known society.",
         "where": "INT. JEDI TEMPLE, ANALYSIS CUBICLES - LATE DAY",
-        "number": 32
+        "number": 31
     },
     {
         "from": "OBI-WAN",
@@ -1616,7 +1616,7 @@
         "from": "FOOD SERVER",
         "text": "(continuing) Hey! No Droids!",
         "where": "INT. JEDI TEMPLE, ANALYSIS CUBICLES - LATE DAY",
-        "number": 4
+        "number": 3
     },
     {
         "from": "ANAKIN",
@@ -1628,7 +1628,7 @@
         "from": "ANAKIN",
         "text": "(continuing) What?",
         "where": "INT. JEDI TEMPLE, ANALYSIS CUBICLES - LATE DAY",
-        "number": 2
+        "number": 1
     },
     {
         "from": "PADME",
@@ -1640,7 +1640,7 @@
         "from": "PADME",
         "text": "(continuing) Are you hungry?",
         "where": "INT. JEDI TEMPLE, ANALYSIS CUBICLES - LATE DAY",
-        "number": 4
+        "number": 3
     },
     {
         "from": "ANAKIN",
@@ -1724,13 +1724,13 @@
         "from": "ANAKIN",
         "text": "(continuing) I love Naboo.",
         "where": "INT. JEDI TEMPLE, ANALYSIS CUBICLES - LATE DAY",
-        "number": 4
+        "number": 3
     },
     {
         "from": "PADME",
         "text": "(changing the subject) Were you dreaming about you mother earlier, weren't you?",
         "where": "INT. JEDI TEMPLE, ANALYSIS CUBICLES - LATE DAY",
-        "number": 12
+        "number": 9
     },
     {
         "from": "ANAKIN",
@@ -1766,7 +1766,7 @@
         "from": "HERMIONE BAGWA",
         "text": "Someone to see ya, honey (lowering her voice) A Jedi by the looks of him.",
         "where": "INT. CORUSCANT, DEX'S DINER - MORNING",
-        "number": 15
+        "number": 12
     },
     {
         "from": "DEXTER JETTSTER",
@@ -1862,7 +1862,7 @@
         "from": "OBI-WAN",
         "text": "Well, Dex, if droids could think, we wouldn't be here, would we? (laughing) Kamino... doesn't sound familiar. Is it part of the Republic?",
         "where": "INT. CORUSCANT, DEX'S DINER - MORNING",
-        "number": 23
+        "number": 22
     },
     {
         "from": "DEXTER JETTSTER",
@@ -1904,7 +1904,7 @@
         "from": "PADME",
         "text": "(laughing) I doubt that.",
         "where": "INT. CORUSCANT, DEX'S DINER - MORNING",
-        "number": 4
+        "number": 3
     },
     {
         "from": "ANAKIN",
@@ -1958,7 +1958,7 @@
         "from": "QUEEN JAMILLIA",
         "text": "We've been worried about you. (takes her hand) I'm so glad you're safe, PADME.",
         "where": "INT. NABOO PALACE, THRONE ROOM - AFTERNOON",
-        "number": 14
+        "number": 11
     },
     {
         "from": "PADME",
@@ -2072,7 +2072,7 @@
         "from": "ANAKIN",
         "text": "(nettled) Hey, hold on a minute!",
         "where": "INT. NABOO PALACE, THRONE ROOM - AFTERNOON",
-        "number": 6
+        "number": 5
     },
     {
         "from": "PADME",
@@ -2096,7 +2096,7 @@
         "from": "ANAKIN",
         "text": "(takes a deep breath) Sorry, M'Lady.",
         "where": "INT. NABOO PALACE, THRONE ROOM - AFTERNOON",
-        "number": 6
+        "number": 2
     },
     {
         "from": "SIO BIBBLE",
@@ -2126,7 +2126,7 @@
         "from": "OBI-WAN",
         "text": "(distracted in thought) Yes... yes, I did...",
         "where": "INT. JEDI TEMPLE, ARCHIVES LIBRARY - DAY",
-        "number": 7
+        "number": 4
     },
     {
         "from": "JOCASTA NU",
@@ -2162,7 +2162,7 @@
         "from": "OBI-WAN",
         "text": "(surprised) Really?",
         "where": "INT. JEDI TEMPLE, ARCHIVES LIBRARY - DAY",
-        "number": 2
+        "number": 1
     },
     {
         "from": "JOCASTA NU",
@@ -2210,7 +2210,7 @@
         "from": "OBI-WAN",
         "text": "(nodding) According to my information, it should be in this quadrant somewhere... just south of the Rishi Maze.",
         "where": "INT. JEDI TEMPLE, ARCHIVES LIBRARY - DAY",
-        "number": 18
+        "number": 17
     },
     {
         "from": "JOCASTA NU",
@@ -2258,7 +2258,7 @@
         "from": "JOCASTA NU",
         "text": "It ought to be. Unless it was very recent. (shakes her head) I hate to say it, but it looks like the system you're searching for doesn't exist.",
         "where": "INT. JEDI TEMPLE, ARCHIVES LIBRARY - DAY",
-        "number": 28
+        "number": 25
     },
     {
         "from": "OBI-WAN",
@@ -2282,13 +2282,13 @@
         "from": "PADME",
         "text": "(continuing) What? Don't say you're shy!",
         "where": "INT. JEDI TEMPLE, ARCHIVES LIBRARY - DAY",
-        "number": 6
+        "number": 5
     },
     {
         "from": "ANAKIN",
         "text": "(untruthfully) No, but I...",
         "where": "INT. JEDI TEMPLE, ARCHIVES LIBRARY - DAY",
-        "number": 4
+        "number": 3
     },
     {
         "from": "RYOO & POOJA",
@@ -2306,7 +2306,7 @@
         "from": "PADME",
         "text": "(continuing) I'm so happy to see you! This is Anakin. Anakin, this is Ryoo, and this is Pooja.",
         "where": "INT. JEDI TEMPLE, ARCHIVES LIBRARY - DAY",
-        "number": 18
+        "number": 17
     },
     {
         "from": "RYOO & POOJA",
@@ -2318,7 +2318,7 @@
         "from": "SOLA",
         "text": "(over her shoulder) They're eating over at Jev Narran's later, Mom. They just had a snack. They'll be fine.",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 19
+        "number": 16
     },
     {
         "from": "PADME",
@@ -2360,13 +2360,13 @@
         "from": "RUWEE",
         "text": "(grinning) You came to the right place at the right time. Sit down, son.",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 14
+        "number": 13
     },
     {
         "from": "JOBAL",
         "text": "(to Padme) Honey, it's so good to see you safe. We were so worried.",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 14
+        "number": 12
     },
     {
         "from": "RUWEE",
@@ -2390,7 +2390,7 @@
         "from": "PADME",
         "text": "(rolls her eyes) Sola!! He isn't my boyfriend! He's a Jedi assigned by the Senate to protect me.",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 18
+        "number": 15
     },
     {
         "from": "JOBAL",
@@ -2402,13 +2402,13 @@
         "from": "PADME",
         "text": "It's not, Mom, I promise. (glances at Jobal) Anyway, Anakin's a friend. I've known him for years. Remember that little boy who was with the Jedi during the blockade crisis?",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 30
+        "number": 27
     },
     {
         "from": "PADME",
         "text": "(continuing) He grew up.",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 4
+        "number": 3
     },
     {
         "from": "JOBAL",
@@ -2426,7 +2426,7 @@
         "from": "RUWEE",
         "text": "(to Anakin) Is she?",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 4
+        "number": 2
     },
     {
         "from": "ANAKIN",
@@ -2438,7 +2438,7 @@
         "from": "PADME",
         "text": "(quickly) But not much.",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 4
+        "number": 3
     },
     {
         "from": "RUWEE",
@@ -2456,7 +2456,7 @@
         "from": "RUWEE",
         "text": "(nodding) Yes, and before that, I was a builder. I also worked for the Refugee Relief Movement, when I was very young.",
         "where": "EXT. PADME'S PARENTS' GARDEN - AFTERNOON",
-        "number": 22
+        "number": 21
     },
     {
         "from": "SOLA",
@@ -2492,13 +2492,13 @@
         "from": "PADME",
         "text": "I'm not your baby sister, Sola. Anakin and I are friends... our relationship is strictly professional. (to Jobal) Mom, would you tell her to stop it?",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 26
+        "number": 24
     },
     {
         "from": "SOLA",
         "text": "(laughing) Well, maybe you haven't noticed the way he looks at you. I think you're afraid to.",
         "where": "INT. PADME'S PARENTS' HOUSE, MAIN ROOM - AFTERNOON",
-        "number": 17
+        "number": 16
     },
     {
         "from": "PADME",
@@ -2564,7 +2564,7 @@
         "from": "ANAKIN",
         "text": "(continuing) You still live at home.",
         "where": "INT. PADME'S PARENTS' HOUSE, PADME'S ROOM - AFTERNOON",
-        "number": 6
+        "number": 5
     },
     {
         "from": "PADME",
@@ -2582,7 +2582,7 @@
         "from": "ANAKIN",
         "text": "(continuing) Is this you?",
         "where": "INT. PADME'S PARENTS' HOUSE, PADME'S ROOM - AFTERNOON",
-        "number": 4
+        "number": 3
     },
     {
         "from": "PADME",
@@ -2594,19 +2594,19 @@
         "from": "PADME",
         "text": "(continuing) My first day as an Apprentice Legislator. Notice the difference?",
         "where": "INT. PADME'S PARENTS' HOUSE, PADME'S ROOM - AFTERNOON",
-        "number": 11
+        "number": 10
     },
     {
         "from": "YODA",
         "text": "Don't think... feel... be as one with the Force. Help you, it will. (he sees Obi-Wan) Younglings - enough! A visitor we have. Welcome him.",
         "where": "INT. JEDI TEMPLE, TRAINING VERANDA - DAY",
-        "number": 25
+        "number": 22
     },
     {
         "from": "YODA",
         "text": "(continuing) Master Obi-Wan Kenobi, meet the mighty Bear Clan.",
         "where": "INT. JEDI TEMPLE, TRAINING VERANDA - DAY",
-        "number": 9
+        "number": 8
     },
     {
         "from": "CHILDREN",
@@ -2684,7 +2684,7 @@
         "from": "YODA",
         "text": "(frowning) Much harder to answer, that question is.",
         "where": "INT. JEDI TEMPLE, TRAINING VERANDA - DAY",
-        "number": 8
+        "number": 7
     },
     {
         "from": "PADME",
@@ -2720,7 +2720,7 @@
         "from": "ANAKIN",
         "text": "(looks into her eyes) Everything here is magical.",
         "where": "EXT. NABOO LAKE RETREAT, LODGE, GARDEN TERRACEM LATE AFTERNOON",
-        "number": 8
+        "number": 4
     },
     {
         "from": "PADME",
@@ -2864,7 +2864,7 @@
         "from": "PADME",
         "text": "(continuing) Anakin!!",
         "where": "INT. NABOO LAKE RETREAT, DINING ROOM - LATE AFTERNOON",
-        "number": 2
+        "number": 1
     },
     {
         "from": "ANAKIN",
@@ -2918,7 +2918,7 @@
         "from": "ANAKIN",
         "text": "(continuing) If you are suffering as much as I am, tell me.",
         "where": "INT. NABOO LAKE RETREAT, LODGE, FIREPLACE ALCOVE - TWILIGHT",
-        "number": 12
+        "number": 11
     },
     {
         "from": "PADME",
@@ -2996,7 +2996,7 @@
         "from": "OBI-WAN",
         "text": "(warily) I'm expected?",
         "where": "INT. TIPOCA CITY, CORRIDOR ENTRANCE",
-        "number": 3
+        "number": 2
     },
     {
         "from": "TAUN WE",
@@ -3044,7 +3044,7 @@
         "from": "OBI-WAN",
         "text": "(improvising) That is... good news.",
         "where": "INT. TIPOCA CITY, PRIME MINISTER OFFICE - DAY",
-        "number": 5
+        "number": 4
     },
     {
         "from": "LAMA SU",
@@ -3074,7 +3074,7 @@
         "from": "LAMA SU",
         "text": "(rising) You must be anxious to inspect the units for yourself.",
         "where": "INT. TIPOCA CITY, PRIME MINISTER OFFICE - DAY",
-        "number": 11
+        "number": 10
     },
     {
         "from": "OBI-WAN",
@@ -3140,7 +3140,7 @@
         "from": "ANAKIN",
         "text": "I like two or three, but I'm not really sure about one of them. (smiling) I don't think the system works.",
         "where": "EXT. NABOO, MOUNTAIN MEADOW - LATER AFTERNOON",
-        "number": 21
+        "number": 20
     },
     {
         "from": "PADME",
@@ -3224,7 +3224,7 @@
         "from": "ANAKIN",
         "text": "(sarcastic) On no, I'd be much too frightened to tease a Senator.",
         "where": "EXT. NABOO, MOUNTAIN MEADOW - LATER AFTERNOON",
-        "number": 12
+        "number": 11
     },
     {
         "from": "PADME",
@@ -3242,7 +3242,7 @@
         "from": "LAMA SU",
         "text": "(beaming) Magnificent, aren't they?",
         "where": "EXT. TIPOCA CITY, PARADE GROUND (RAINSTORM) - DAY",
-        "number": 4
+        "number": 3
     },
     {
         "from": "LAMA SU",
@@ -3350,7 +3350,7 @@
         "from": "OBI-WAN",
         "text": "(carefully) Tell me, prime minister, when my Master Sido-dyas first contacted you, did he say the order was for... himself... or?",
         "where": "INT. TIPOCA CITY, CLONE CENTER, HATCHERY - DAY",
-        "number": 21
+        "number": 20
     },
     {
         "from": "LAMA SU",
@@ -3362,7 +3362,7 @@
         "from": "OBI-WAN",
         "text": "(astonished) The Repubic?",
         "where": "INT. TIPOCA CITY, CLONE CENTER, HATCHERY - DAY",
-        "number": 3
+        "number": 2
     },
     {
         "from": "LAMA SU",
@@ -3386,7 +3386,7 @@
         "from": "OBI-WAN",
         "text": "Arfour, relay this, \"scramble code five,\" to Courscant: care of \"the old folks home.\"",
         "where": "INT. TIPOCA CITY, APARTMENT - LATE DAY",
-        "number": 14
+        "number": 15
     },
     {
         "from": "OBI-WAN",
@@ -3440,13 +3440,13 @@
         "from": "ANAKIN",
         "text": "No...No...No...Mom!...Don't, no, don't!",
         "where": "INT. NABOO LAKE RETREAT, ANAKIN'S BEDROOM - NIGHT",
-        "number": 3
+        "number": 7
     },
     {
         "from": "ANAKIN",
         "text": "(eyes closed) Don't go.",
         "where": "EXT. NABOO LAKE RETREAT, LODGE, BALCONY OVERLOOKING GARDENS - MORNING",
-        "number": 4
+        "number": 2
     },
     {
         "from": "PADME",
@@ -3482,7 +3482,7 @@
         "from": "ANAKIN",
         "text": "I saw my mother. I saw her as clearly as I see you now. She's suffering, Padme. She is in pain...They're killing her! (getting up) I know I'm disobeying my mandate to protect you, Senator. I know I will be punished and possibly thrown out of the Jedi Order, but I must go. I have to help her! I'm sorry, Padme. I don't have a choice.",
         "where": "EXT. NABOO LAKE RETREAT, LODGE, BALCONY OVERLOOKING GARDENS - MORNING",
-        "number": 66
+        "number": 65
     },
     {
         "from": "PADME",
@@ -3512,7 +3512,7 @@
         "from": "TAUN WE",
         "text": "(continuing) May we see him?",
         "where": "INT. TIPOCA CITY, CORRIDOR - DAY",
-        "number": 5
+        "number": 4
     },
     {
         "from": "BOBA FETT",
@@ -3572,7 +3572,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) Ever made your way as far into the interior as Coruscant?",
         "where": "INT. TIPOCA CITY, FETT APARTMENT - DAY",
-        "number": 12
+        "number": 11
     },
     {
         "from": "JANGO FETT",
@@ -3590,7 +3590,7 @@
         "from": "JANGO FETT",
         "text": "(eyes Obi-Wan carefully) Possibly...",
         "where": "INT. TIPOCA CITY, FETT APARTMENT - DAY",
-        "number": 4
+        "number": 1
     },
     {
         "from": "OBI-WAN",
@@ -3608,7 +3608,7 @@
         "from": "JANGO FETT",
         "text": "(continuing) Master who?",
         "where": "INT. TIPOCA CITY, FETT APARTMENT - DAY",
-        "number": 3
+        "number": 2
     },
     {
         "from": "OBI-WAN",
@@ -3656,7 +3656,7 @@
         "from": "JANGO FETT",
         "text": "(grinning) They'll do their job well, I'll guarantee that.",
         "where": "INT. TIPOCA CITY, FETT APARTMENT - DAY",
-        "number": 9
+        "number": 8
     },
     {
         "from": "OBI-WAN",
@@ -3680,43 +3680,43 @@
         "from": "ANAKIN",
         "text": "(to the droid driver) Wait, please.",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 6
+        "number": 2
     },
     {
         "from": "WATTO",
         "text": "(yelling, in Huttese) No, not that one - that one!",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 10
+        "number": 7
     },
     {
         "from": "ANAKIN",
         "text": "(arriving) Excuse me, Watto.",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 4
+        "number": 3
     },
     {
         "from": "WATTO",
         "text": "(in Huttese) What?",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 3
+        "number": 1
     },
     {
         "from": "ANAKIN",
         "text": "(in Huttese) I said excuse me.",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 6
+        "number": 4
     },
     {
         "from": "WATTO",
         "text": "(in Huttese) Shut down.",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 4
+        "number": 2
     },
     {
         "from": "WATTO",
         "text": "(continuing, in Huttese) What? I don't know you... What can I do for you? You look like a Jedi. Whatever it is... I didn't do it.",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 26
+        "number": 23
     },
     {
         "from": "ANAKIN",
@@ -3728,7 +3728,7 @@
         "from": "ANAKIN",
         "text": "(continuing) I'm looking for Shmi Skywalker.",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 6
+        "number": 5
     },
     {
         "from": "WATTO",
@@ -3740,13 +3740,13 @@
         "from": "WATTO",
         "text": "(continuing; in English) You are Annie! It is you! You little womp rat.",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 13
+        "number": 10
     },
     {
         "from": "WATTO",
         "text": "(continuing) You sure sprouted Weehoo! A Jedi! Waddya know? Hey, maybe you couldda help wit some daedbeats who owe...",
         "where": "EXT. TATOOINE, MOS ESPA STREETS AND WATTO'S SHIP - DAY",
-        "number": 19
+        "number": 18
     },
     {
         "from": "ANAKIN",
@@ -3884,7 +3884,7 @@
         "from": "OWEN",
         "text": "Owen Lars... I guess I'm your step-brother. (they shake hands) This is my girlfriend, Beru.",
         "where": "EXT. TATOOINE, HOMESTEAD, COURTYARD - LATE DAY",
-        "number": 15
+        "number": 12
     },
     {
         "from": "BERU",
@@ -3920,7 +3920,7 @@
         "from": "CLIEGG",
         "text": "(continuing) Cliegg Lars. Shmi is my wife... Come on inside. We have a lot to talk about.",
         "where": "EXT. TATOOINE, HOMESTEAD, COURTYARD - LATE DAY",
-        "number": 17
+        "number": 16
     },
     {
         "from": "CLIEGG",
@@ -3938,7 +3938,7 @@
         "from": "CLIEGG",
         "text": "(continuing) This isn't the way I wanted to meet you, son. This isn't how your mother and I planned it. I don't want to give up on her, but she's been gone a month. There's little hope she's lasted this long.",
         "where": "INT. TATOOINE, HOMESTEAD, DINING AREA - LATE DAY",
-        "number": 41
+        "number": 40
     },
     {
         "from": "OWEN",
@@ -4076,7 +4076,7 @@
         "from": "C-3PO",
         "text": "Do you really think so..? I suppose I shouldn't expect...",
         "where": "INT. TATOOINE, HOMESTEAD - GARAGE (FULL MOON) - NIGHT",
-        "number": 10
+        "number": 11
     },
     {
         "from": "PADME",
@@ -4166,7 +4166,7 @@
         "from": "SHMI",
         "text": "Annie...? Is it you?",
         "where": "INT. TUSKEN RAIDER HUTT - NIGHT",
-        "number": 4
+        "number": 5
     },
     {
         "from": "ANAKIN",
@@ -4196,7 +4196,7 @@
         "from": "OBI-WAN",
         "text": "\"Guiding light\" to \"old folks home.\"",
         "where": "EXT. GEONOSIS, LANDING AREA - NIGHT",
-        "number": 6
+        "number": 7
     },
     {
         "from": "OBI-WAN",
@@ -4382,25 +4382,25 @@
         "from": "C-3PO",
         "text": "Perfect? Oh, Miss Padme, I'm so happy! (extending his hand to shake hers) Oh, pardon me.",
         "where": "INT. TATOOINE, HOMESTEAD, GARAGE - DAY",
-        "number": 16
+        "number": 10
     },
     {
         "from": "THREEPIO",
         "text": "(continuing) Thank you.",
         "where": "INT. TATOOINE, HOMESTEAD, GARAGE - DAY",
-        "number": 3
+        "number": 2
     },
     {
         "from": "C-3PO",
         "text": "(continuing) Thank you! Thank you! Thank you!",
         "where": "INT. TATOOINE, HOMESTEAD, GARAGE - DAY",
-        "number": 7
+        "number": 6
     },
     {
         "from": "OWEN",
         "text": "(grinning) Well, Padme, I think he should be yours from now on... I know that is what my Mom would want.",
         "where": "INT. TATOOINE, HOMESTEAD, GARAGE - DAY",
-        "number": 21
+        "number": 20
     },
     {
         "from": "C-3PO",
@@ -4484,7 +4484,7 @@
         "from": "PADME",
         "text": "(continuing) ...and I'm going to save Obi-Wan. So if you plan to protect me, you will have to come along.",
         "where": "INT. TATOOINE, HOMESTEAD, GARAGE - DAY",
-        "number": 20
+        "number": 19
     },
     {
         "from": "MACE WINDU",
@@ -4532,7 +4532,7 @@
         "from": "JAR JAR",
         "text": "(continuing) Who can deny these are exceptional times? Exceptional times demand exceptional measures! Exceptional measures demand exceptional men!",
         "where": "INT. CORUSCANT, MAIN SENATE CHAMBER - DAY",
-        "number": 18
+        "number": 17
     },
     {
         "from": "ORN FREE TAA",
@@ -4604,7 +4604,7 @@
         "from": "PADME",
         "text": "Don't you give me orders, Annie! I'm a Senator of the Galactic Republic. You have no authority to contain me, restrain me, or direct me! You remember your place, young man. (standing up) Now you can come along and protect me or stay here. It's up to you.",
         "where": "INT. CORUSCANT, MAIN SENATE CHAMBER - DAY",
-        "number": 48
+        "number": 46
     },
     {
         "from": "C-3PO",
@@ -4616,7 +4616,7 @@
         "from": "PADME",
         "text": "(in a low voice) It's empty!",
         "where": "INT. GEONOSIS, CORRIDORS - DAY",
-        "number": 6
+        "number": 2
     },
     {
         "from": "PADME",
@@ -4746,7 +4746,7 @@
     },
     {
         "from": "PADME",
-        "texsst": "Anakin...",
+        "text": "Anakin...",
         "where": "INT. CONFERENCE ROOM (GEONOSIS) - DAY",
         "number": 1
     },
@@ -4898,7 +4898,7 @@
         "from": "PADME",
         "text": "(nods, gasping) Sure! Well, sort of.",
         "where": "INT. GEONOSIS, EXECUTION ARENA - DAY",
-        "number": 6
+        "number": 4
     },
     {
         "from": "ANAKIN",
@@ -4916,7 +4916,7 @@
         "from": "COUNT DOOKU",
         "text": "(smiling enigmatically) Patiece, Viceroy... she will die. Maybe this is the way it's supposed to end.",
         "where": "INT. GEONOSIS, EXECUTION ARENA - DAY",
-        "number": 16
+        "number": 14
     },
     {
         "from": "C-3PO",
@@ -4928,7 +4928,7 @@
         "from": "C-3PO",
         "text": "(continuing) Danger? Oh no, I shouldn't think so. It looks a very dull planet to me. They should be back shortly. Just stop worrying, ARTOO.",
         "where": "INT. GEONOSIS, EXECUTION ARENA - DAY",
-        "number": 25
+        "number": 24
     },
     {
         "from": "COUNT DOOKU",
@@ -4946,7 +4946,7 @@
         "from": "COUNT DOOKU",
         "text": "(to Mace Windu) Brave, but stupid, my old Jedi friend. You're impossibly outnumbered.",
         "where": "EXT. GEONOSIS, EXECUTION ARENA - DAY",
-        "number": 13
+        "number": 10
     },
     {
         "from": "MACE WINDU",
@@ -4964,7 +4964,7 @@
         "from": "C-3PO",
         "text": "I don't hear anything. (ARTOO beeps) You're scaring me! Stop imagining things!",
         "where": "EXT. GEONOSIS, EXECUTION ARENA - DAY",
-        "number": 12
+        "number": 10
     },
     {
         "from": "OBI-WAN",
@@ -5000,7 +5000,7 @@
         "from": "COUNT DOOKU",
         "text": "(continuing) You have fought gallantly. Worthy of recognition in the history archives of the Jedi Order. Now it is finished. (pauses briefly) Surrender - and your lives will be spared.",
         "where": "EXT. GEONOSIS, EXECUTION ARENA - DAY",
-        "number": 30
+        "number": 8
     },
     {
         "from": "MACE WINDU",
@@ -5054,13 +5054,13 @@
         "from": "ANAKIN",
         "text": "(continuing) Padme!!!",
         "where": "INT. GUNSHIP NUMBER TWO - DAY",
-        "number": 2
+        "number": 1
     },
     {
         "from": "ANAKIN",
         "text": "(continuing; to pilot) Put the ship down! Down!",
         "where": "INT. GUNSHIP NUMBER TWO - DAY",
-        "number": 8
+        "number": 5
     },
     {
         "from": "OBI-WAN",
@@ -5096,7 +5096,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) Follow that speeder!",
         "where": "INT. GUNSHIP NUMBER TWO - DAY",
-        "number": 4
+        "number": 3
     },
     {
         "from": "DROID CAPTAIN",
@@ -5114,7 +5114,7 @@
         "from": "OBI-WAN",
         "text": "(to Anakin) We move in together - you slowly on the...",
         "where": "INT. GEONOSIS, SECRET HANGER TOWER - LATE DAY",
-        "number": 11
+        "number": 9
     },
     {
         "from": "ANAKIN",
@@ -5156,7 +5156,7 @@
         "from": "COUNT DOOKU",
         "text": "(continuing) I have spent the last ten years learning to use the power of the Dark Side. It gives me infinitely greater power.",
         "where": "INT. GEONOSIS, SECRET HANGER TOWER - LATE DAY",
-        "number": 23
+        "number": 22
     },
     {
         "from": "OBI-WAN",
@@ -5174,19 +5174,19 @@
         "from": "COUNT DOOKU",
         "text": "(continuing) Surely you can do better...? (parries) No, I'm surprised. Has Jedi swordsmanship degenerated so quickly, or are you trying to make fun of me? (cuts) Which is it?",
         "where": "INT. GEONOSIS, SECRET HANGER TOWER - LATE DAY",
-        "number": 29
+        "number": 3
     },
     {
         "from": "COUNT DOOKU",
         "text": "(continuing) come, come, Master Kenobi. Put me out of my misery.",
         "where": "INT. GEONOSIS, SECRET HANGER TOWER - LATE DAY",
-        "number": 11
+        "number": 10
     },
     {
         "from": "COUNT DOOKU",
         "text": "(continuing) That's brave of you, boy - but foolish. I would have thought you'd have learnt your lesson.",
         "where": "INT. GEONOSIS, SECRET HANGER TOWER - LATE DAY",
-        "number": 18
+        "number": 17
     },
     {
         "from": "ANAKIN",
@@ -5228,7 +5228,7 @@
         "from": "YODA",
         "text": "(continuing) The end for you, Count, this is.",
         "where": "INT. GEONOSIS, SECRET HANGER TOWER - LATE DAY",
-        "number": 8
+        "number": 7
     },
     {
         "from": "COUNT DOOKU",
@@ -5270,7 +5270,7 @@
         "from": "DARTH SIDIOUS",
         "text": "Excellent. (smiling) Everything is going as planned.",
         "where": "INT. CORUSCANT, SECRET LANDING PLATFORM - DAY",
-        "number": 7
+        "number": 6
     },
     {
         "from": "MACE WINDU",
@@ -5288,7 +5288,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) I must admit without the clones, it would not have been a victory.",
         "where": "INT. JEDI TEMPLE, COUNCIL CHAMBER - SUNSET",
-        "number": 14
+        "number": 13
     },
     {
         "from": "YODA",
@@ -5300,6 +5300,6 @@
         "from": "YODA",
         "text": "(continuing) Not victory, a defeat, it was... Master Obi-Wan. Begun, the Clone War has!",
         "where": "INT. JEDI TEMPLE, COUNCIL CHAMBER - SUNSET",
-        "number": 14
+        "number": 13
     }
 ]

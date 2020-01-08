@@ -50,7 +50,7 @@
         "from": "ANAKIN",
         "text": "(continuing, laughs) We got him, ARTOO!",
         "where": "5 INT. OBI-WAN'S STARFIGHTER COCKPIT-SPACE",
-        "number": 6
+        "number": 4
     },
     {
         "from": "ANAKIN",
@@ -74,7 +74,7 @@
         "from": "ANAKIN",
         "text": "(continuing) Cut right. Do you hear me?! Cut right. Don't let him get a handle on you. Come on, ARTOO, lock on! Lock on!",
         "where": "5 INT. OBI-WAN'S STARFIGHTER COCKPIT-SPACE",
-        "number": 24
+        "number": 23
     },
     {
         "from": "OBI-WAN",
@@ -86,13 +86,13 @@
         "from": "OBI-WAN",
         "text": "(continuing) Ouch!",
         "where": "5 INT. OBI-WAN'S STARFIGHTER COCKPIT-SPACE",
-        "number": 2
+        "number": 1
     },
     {
         "from": "OBI-WAN",
         "text": "(continuing) Don't even try to fix it, Arfour. I've shut it down.",
         "where": "5 INT. OBI-WAN'S STARFIGHTER COCKPIT-SPACE",
-        "number": 12
+        "number": 11
     },
     {
         "from": "ANAKIN",
@@ -104,7 +104,7 @@
         "from": "ANAKIN",
         "text": "(continuing) Yeah! We got him... good going, ARTOO.",
         "where": "5 INT. OBI-WAN'S STARFIGHTER COCKPIT-SPACE",
-        "number": 8
+        "number": 7
     },
     {
         "from": "OBI-WAN",
@@ -122,7 +122,7 @@
         "from": "ANAKIN",
         "text": "(continuing) The one crawling with vulture droids.",
         "where": "5 INT. OBI-WAN'S STARFIGHTER COCKPIT-SPACE",
-        "number": 7
+        "number": 6
     },
     {
         "from": "OBI-WAN",
@@ -146,7 +146,7 @@
         "from": "ODD BALL",
         "text": "(OS) Copy, Red Leader.",
         "where": "6 INT. OBI-WAN'S STARFIGHTER COCKPIT-SPACE",
-        "number": 4
+        "number": 3
     },
     {
         "from": "OBI-WAN",
@@ -252,7 +252,7 @@
         "from": "ANAKIN",
         "text": "How many back there. ARTOO? Three... (continuing) Four... that's not good.",
         "where": "8 INT. ANAKIN'S FIGHTER COCKPIT-SPACE",
-        "number": 11
+        "number": 10
     },
     {
         "from": "OBI-WAN",
@@ -294,7 +294,7 @@
         "from": "OBI-WAN",
         "text": "(to himself) He still has much to learn.",
         "where": "8 INT. ANAKIN'S FIGHTER COCKPIT-SPACE",
-        "number": 8
+        "number": 6
     },
     {
         "from": "ANAKIN",
@@ -306,7 +306,7 @@
         "from": "OBI-WAN",
         "text": "Too dangerous. First Jedi rule: \"Survive.\"",
         "where": "8 INT. ANAKIN'S FIGHTER COCKPIT-SPACE",
-        "number": 6
+        "number": 7
     },
     {
         "from": "ANAKIN",
@@ -324,7 +324,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) You'll never get through there, Anakin. It's too tight.",
         "where": "8 INT. ANAKIN'S FIGHTER COCKPIT-SPACE",
-        "number": 10
+        "number": 9
     },
     {
         "from": "ANAKIN",
@@ -348,7 +348,7 @@
         "from": "ANAKIN",
         "text": "(continuing) I'm through.",
         "where": "8 INT. ANAKIN'S FIGHTER COCKPIT-SPACE",
-        "number": 3
+        "number": 2
     },
     {
         "from": "ODD BALL",
@@ -420,7 +420,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) I'm hit! Anakin?",
         "where": "8 INT. ANAKIN'S FIGHTER COCKPIT-SPACE",
-        "number": 4
+        "number": 3
     },
     {
         "from": "ANAKIN",
@@ -456,7 +456,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) In the name of...",
         "where": "8 INT. ANAKIN'S FIGHTER COCKPIT-SPACE",
-        "number": 5
+        "number": 4
     },
     {
         "from": "ANAKIN",
@@ -785,7 +785,7 @@
         "from": "OBI-WAN",
         "text": "We don't want to get out, we want to get moving. ARTOO... ARTOO. Do you copy? Activate elevator... (looks at control panel)... 31174...",
         "where": "22 INT. ELEVATOR-TRADE FEDERATION CRUISER",
-        "number": 23
+        "number": 19
     },
     {
         "from": "SUPER BATTLE DROID 1",
@@ -809,13 +809,13 @@
         "from": "OBI-WAN",
         "text": "(continuing) Always on the move.",
         "where": "24 INT. ELEVATOR-TRADE FEDERATION CRUISER",
-        "number": 5
+        "number": 4
     },
     {
         "from": "OBI-WAN",
         "text": "(OS) ARTOO, switch on the comlink. ARTOO, do you hear me? ARTOO, we gave you a job to do! ARTOO.",
         "where": "24 INT. ELEVATOR-TRADE FEDERATION CRUISER",
-        "number": 20
+        "number": 19
     },
     {
         "from": "OBI-WAN",
@@ -843,7 +843,7 @@
         "from": "OBI-WAN",
         "text": "(OS) ARTOO, do you copy? ARTOO, do you hear me? ARTOO, we need to be going up, not down.",
         "where": "28 INT. ELEVATOR SHAFT-TRADE FEDERATION CRUISER",
-        "number": 19
+        "number": 18
     },
     {
         "from": "OBI-WAN",
@@ -915,7 +915,7 @@
         "from": "OBI-WAN",
         "text": "(bows) Chancellor.",
         "where": "38 INT. GENERAL'S QUARTER'S-TRADE FEDERATION CRUISER",
-        "number": 2
+        "number": 1
     },
     {
         "from": "ANAKIN",
@@ -927,13 +927,13 @@
         "from": "PALPATINE",
         "text": "(quietly) Count Dooku.",
         "where": "38 INT. GENERAL'S QUARTER'S-TRADE FEDERATION CRUISER",
-        "number": 3
+        "number": 2
     },
     {
         "from": "OBI-WAN",
         "text": "(quietly to Anakin) This time we will do it together.",
         "where": "38 INT. GENERAL'S QUARTER'S-TRADE FEDERATION CRUISER",
-        "number": 10
+        "number": 7
     },
     {
         "from": "ANAKIN",
@@ -987,13 +987,13 @@
         "from": "COUNT DOOKU",
         "text": "(continuing) Your moves are clumsy, Kenobi... too predictable. You'll have to do better.",
         "where": "38 INT. GENERAL'S QUARTER'S-TRADE FEDERATION CRUISER",
-        "number": 13
+        "number": 12
     },
     {
         "from": "COUNT DOOKU",
         "text": "(continuing) I sense great fear in you, Skywalker. You have hate, you have anger, but you don’t use them.",
         "where": "38 INT. GENERAL'S QUARTER'S-TRADE FEDERATION CRUISER",
-        "number": 19
+        "number": 18
     },
     {
         "from": "PALPATINE",
@@ -1034,7 +1034,7 @@
         "from": "ANAKIN",
         "text": "(continuing) I shouldn't have done that, Chancellor. It's not the Jedi way.",
         "where": "39 INT. GENERAL'S QUARTERS-TRADE FEDERATION CRUISER",
-        "number": 12
+        "number": 11
     },
     {
         "from": "PALPATINE",
@@ -1046,7 +1046,7 @@
         "from": "PALPATINE",
         "text": "(continuing) Anakin, there is no time. We must get off the ship before it's too late.",
         "where": "39 INT. GENERAL'S QUARTERS-TRADE FEDERATION CRUISER",
-        "number": 16
+        "number": 15
     },
     {
         "from": "ANAKIN",
@@ -1082,19 +1082,19 @@
         "from": "ANAKIN",
         "text": "The elevator's not working, (into his comlink) ARTOO...",
         "where": "42 INT. ELEVATOR LOBBY-GENERAL'S QUARTERS-TRADE FEDERATION CRUISER",
-        "number": 8
+        "number": 5
     },
     {
         "from": "ANAKIN",
         "text": "(continuing)... Activate Elevator 3224.",
         "where": "42 INT. ELEVATOR LOBBY-GENERAL'S QUARTERS-TRADE FEDERATION CRUISER",
-        "number": 4
+        "number": 3
     },
     {
         "from": "ANAKIN",
         "text": "(continuing) ARTOO... do you copy? ARTOO, come in!",
         "where": "42 INT. ELEVATOR LOBBY-GENERAL'S QUARTERS-TRADE FEDERATION CRUISER",
-        "number": 8
+        "number": 7
     },
     {
         "from": "PILOT",
@@ -1130,7 +1130,7 @@
         "from": "ANAKIN",
         "text": "Easy... . We're in a bit of a situation.",
         "where": "53 INT. ELEVATOR SHAFT, VERTICAL-TRADE FEDERATION CRUISER",
-        "number": 9
+        "number": 8
     },
     {
         "from": "OBI-WAN",
@@ -1153,7 +1153,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) Oops.",
         "where": "53 INT. ELEVATOR SHAFT, VERTICAL-TRADE FEDERATION CRUISER",
-        "number": 2
+        "number": 1
     },
     {
         "from": "ANAKIN",
@@ -1303,7 +1303,7 @@
         "from": "ANAKIN",
         "text": "(continuing) See! No problem.",
         "where": "61 INT. HALLWAY-TRADE FEDERATION CRUISER",
-        "number": 4
+        "number": 3
     },
     {
         "from": "SUPER BATTLE DROID",
@@ -1567,7 +1567,7 @@
         "from": "ANAKIN",
         "text": "(to Obi-Wan) Are you coming, Master?",
         "where": "68 EXT. CORUSCANT-INDUSTRIAL LANDING PLATFORM-AFTERNOON",
-        "number": 6
+        "number": 4
     },
     {
         "from": "OBI-WAN",
@@ -1662,7 +1662,7 @@
         "from": "C-3PO",
         "text": "(continuing) Well, there, I agree with you. In fact, I could do with a tune-up myself.",
         "where": "68 EXT. CORUSCANT-INDUSTRIAL LANDING PLATFORM-AFTERNOON",
-        "number": 16
+        "number": 15
     },
     {
         "from": "BAIL ORGANA",
@@ -1746,7 +1746,7 @@
         "from": "PADME",
         "text": "(playfully) I wouldn't like that. I wouldn't like that one bit. Patience, my handsome Jedi... Come to me later.",
         "where": "68 EXT. CORUSCANT-INDUSTRIAL LANDING PLATFORM-AFTERNOON",
-        "number": 19
+        "number": 18
     },
     {
         "from": "ANAKIN",
@@ -1776,7 +1776,7 @@
         "from": "ANAKIN",
         "text": "You're frightened. (a little angry) Tell me what's going on!",
         "where": "68 EXT. CORUSCANT-INDUSTRIAL LANDING PLATFORM-AFTERNOON",
-        "number": 10
+        "number": 7
     },
     {
         "from": "PADME",
@@ -1793,13 +1793,13 @@
         "from": "PADME",
         "text": "(peeved, angry) No! Why do you think that? Your jealousy upsets me so much, Anakin. I do nothing to betray you, yet you still don't trust me. Nothing has changed.",
         "where": "68 EXT. CORUSCANT-INDUSTRIAL LANDING PLATFORM-AFTERNOON",
-        "number": 30
+        "number": 28
     },
     {
         "from": "ANAKIN",
         "text": "(sheepish) I'm afraid of losing you, Padme... that's all.",
         "where": "68 EXT. CORUSCANT-INDUSTRIAL LANDING PLATFORM-AFTERNOON",
-        "number": 9
+        "number": 8
     },
     {
         "from": "PADME",
@@ -1823,7 +1823,7 @@
         "from": "PADME",
         "text": "(continuing) I'm... Annie, I'm pregnant.",
         "where": "68 EXT. CORUSCANT-INDUSTRIAL LANDING PLATFORM-AFTERNOON",
-        "number": 5
+        "number": 4
     },
     {
         "from": "ANAKIN",
@@ -1984,7 +1984,7 @@
         "from": "ANAKIN",
         "text": "(continuing) I remember when I gave this to you.",
         "where": "76 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-NIGHT",
-        "number": 9
+        "number": 8
     },
     {
         "from": "PADME",
@@ -2038,7 +2038,7 @@
         "from": "ANAKIN",
         "text": "(continuing) You die in childbirth...",
         "where": "76 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-NIGHT",
-        "number": 5
+        "number": 4
     },
     {
         "from": "PADME",
@@ -2085,7 +2085,7 @@
         "from": "ANAKIN",
         "text": "(suspicious) Have you told him anything?",
         "where": "76 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-NIGHT",
-        "number": 6
+        "number": 5
     },
     {
         "from": "PADME",
@@ -2372,7 +2372,7 @@
         "from": "PALPATINE",
         "text": "(continuing) Anakin... I'm appointing you to be my personal representative on the Jedi Council.",
         "where": "80 INT. CORUSCANT-CHANCELLOR'S OFFICE-DAY",
-        "number": 14
+        "number": 13
     },
     {
         "from": "ANAKIN",
@@ -2732,7 +2732,7 @@
         "from": "OBI-WAN",
         "text": "(takes a deep breath) The Council wants you to report on all of the Chancellor's dealings. They want to know what he's up to.",
         "where": "84 INT. CORUSCANT-JEDI TEMPLE-MASSIVE MAIN HALLWAY AND ALCOVE-LATE AFTERNOON",
-        "number": 24
+        "number": 20
     },
     {
         "from": "ANAKIN",
@@ -2923,7 +2923,7 @@
         "from": "PADME",
         "text": "(laughs) My motherly intuition.",
         "where": "87 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-SUNSET",
-        "number": 4
+        "number": 3
     },
     {
         "from": "ANAKIN",
@@ -2977,7 +2977,7 @@
         "from": "ANAKIN",
         "text": "(suspicious) What do you mean?",
         "where": "87 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-SUNSET",
-        "number": 5
+        "number": 4
     },
     {
         "from": "PADME",
@@ -3001,7 +3001,7 @@
         "from": "ANAKIN",
         "text": "(growing angry) Don't ask me to do that, Padme. Make a motion in the Senate, where that kind of a request belongs. I'm not your errand boy. I'm not anyone's errand boy!",
         "where": "87 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-SUNSET",
-        "number": 32
+        "number": 30
     },
     {
         "from": "PADME",
@@ -3031,7 +3031,7 @@
         "from": "ANAKIN",
         "text": "(continuing) I sense... there are things you are not telling me.",
         "where": "87 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-SUNSET",
-        "number": 11
+        "number": 10
     },
     {
         "from": "PADME",
@@ -3043,7 +3043,7 @@
         "from": "PADME",
         "text": "(continuing) Hold me... like you did by the lake on Naboo, so long ago... when there was nothing but our love... No politics, no plotting... no war.",
         "where": "87 EXT. CORUSCANT-PADME'S APARTMENT-VERANDA-SUNSET",
-        "number": 27
+        "number": 26
     },
     {
         "from": "ANAKIN",
@@ -3079,13 +3079,13 @@
         "from": "PALPATINE",
         "text": "Sit down, (to his aides) Leave us.",
         "where": "88 INT. CORUSCANT-GALAXIES OPERA HOUSE-NIGHT",
-        "number": 7
+        "number": 4
     },
     {
         "from": "PALPATINE",
         "text": "(continuing) Anakin, you know I'm not able to rely on the Jedi Council. If they haven't included you in their plot, they soon will.",
         "where": "88 INT. CORUSCANT-GALAXIES OPERA HOUSE-NIGHT",
-        "number": 24
+        "number": 23
     },
     {
         "from": "ANAKIN",
@@ -3139,7 +3139,7 @@
         "from": "PALPATINE",
         "text": "(continuing) They asked you to spy on me, didn't they?",
         "where": "88 INT. CORUSCANT-GALAXIES OPERA HOUSE-NIGHT",
-        "number": 10
+        "number": 9
     },
     {
         "from": "ANAKIN",
@@ -3151,7 +3151,7 @@
         "from": "PALPATINE",
         "text": "Remember back to your early teachings. Anakin. \"All those who gain power are afraid to lose it.\" Even the Jedi.",
         "where": "88 INT. CORUSCANT-GALAXIES OPERA HOUSE-NIGHT",
-        "number": 20
+        "number": 21
     },
     {
         "from": "ANAKIN",
@@ -3215,7 +3215,7 @@
         "from": "PALPATINE",
         "text": "(continuing) Did you ever hear the tragedy of Darth Plagueis \"the wise\"?",
         "where": "88 INT. CORUSCANT-GALAXIES OPERA HOUSE-NIGHT",
-        "number": 12
+        "number": 11
     },
     {
         "from": "ANAKIN",
@@ -3251,7 +3251,7 @@
         "from": "PALPATINE",
         "text": "He became so powerful... the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. (smiles) Plagueis never saw it coming. It's ironic he could save others from death, but not himself.",
         "where": "88 INT. CORUSCANT-GALAXIES OPERA HOUSE-NIGHT",
-        "number": 54
+        "number": 53
     },
     {
         "from": "ANAKIN",
@@ -3269,13 +3269,13 @@
         "from": "Kl-ADI-MUNDI",
         "text": "(holo) Palpatine thinks General Grievous is on Utapau. We have had no reports of this from our agents.",
         "where": "90 INT. KASHYYYK-HOLOGRAM AREA-DAY",
-        "number": 18
+        "number": 17
     },
     {
         "from": "MACE WINDU",
         "text": "(holo) How could the Chancellor have come by this information and we know nothing about it? We have had contact with Baron Papanoida and he said no one was there.",
         "where": "90 INT. KASHYYYK-HOLOGRAM AREA-DAY",
-        "number": 30
+        "number": 29
     },
     {
         "from": "ANAKIN",
@@ -3305,7 +3305,7 @@
         "from": "MACE WINDU",
         "text": "(a little peeved) The Council will make up its own mind who is to go, not the Chancellor.",
         "where": "90 INT. KASHYYYK-HOLOGRAM AREA-DAY",
-        "number": 18
+        "number": 15
     },
     {
         "from": "Kl-ADI-MUNDI",
@@ -3335,7 +3335,7 @@
         "from": "ANAKIN",
         "text": "(continuing) No offense, my Master, but I'm only stating a fact.",
         "where": "90 INT. KASHYYYK-HOLOGRAM AREA-DAY",
-        "number": 11
+        "number": 10
     },
     {
         "from": "OBI-WAN",
@@ -3371,7 +3371,7 @@
         "from": "MACE WINDU",
         "text": "(continuing) Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle droids he may have with him.",
         "where": "90 INT. KASHYYYK-HOLOGRAM AREA-DAY",
-        "number": 28
+        "number": 27
     },
     {
         "from": "CLONE COMMANDER GREE",
@@ -3461,7 +3461,7 @@
         "from": "PADME",
         "text": "(nervous) What did he say?",
         "where": "94 INT. CORUSCANT-PADME'S APARTMENT-LIVING ROOM-EARLY MORNING",
-        "number": 5
+        "number": 4
     },
     {
         "from": "OBI-WAN",
@@ -3485,13 +3485,13 @@
         "from": "OBI-WAN",
         "text": "(continuing) I fear your relationship has confused him. He's changed considerably since we returned...",
         "where": "94 INT. CORUSCANT-PADME'S APARTMENT-LIVING ROOM-EARLY MORNING",
-        "number": 14
+        "number": 13
     },
     {
         "from": "OBI-WAN",
         "text": "(continuing) Padme, I'm not telling the Council about any of this. I... I hope I didn't upset you. We're all friends, I care about both of you...",
         "where": "94 INT. CORUSCANT-PADME'S APARTMENT-LIVING ROOM-EARLY MORNING",
-        "number": 27
+        "number": 26
     },
     {
         "from": "PADME",
@@ -3605,7 +3605,7 @@
         "from": "ANAKIN",
         "text": "(continuing) Master, I've disappointed you. I have not been very appreciative of your training... I have been arrogant and I apologize... I've just been so frustrated with the Council. Your friendship means everything to me.",
         "where": "96 EXT. CORUSCANT-CLONE LANDING PLATFORM-DAY",
-        "number": 35
+        "number": 34
     },
     {
         "from": "OBI-WAN",
@@ -3617,7 +3617,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) Don't worry. I have enough clones with me to take three systems the size of Utapau. I think I'll be able to handle the situation... even without your help.",
         "where": "96 EXT. CORUSCANT-CLONE LANDING PLATFORM-DAY",
-        "number": 30
+        "number": 29
     },
     {
         "from": "ANAKIN",
@@ -3659,7 +3659,7 @@
         "from": "OBI-WAN",
         "text": "(laughing) Cato Nemoidia... for starters.",
         "where": "98 INT. REPUBLIC BATTLE CRUISER-HANGAR-SPACE",
-        "number": 5
+        "number": 4
     },
     {
         "from": "CLONE COMMANDER CODY",
@@ -3749,7 +3749,7 @@
         "from": "PALPATINE",
         "text": "(slyly) No one knows who she is... only that she is a Senator.",
         "where": "101 INT. CORUSCANT-SENATE OFFICE BUILDING-MAIN HALLWAY-DAY",
-        "number": 13
+        "number": 12
     },
     {
         "from": "ANAKIN",
@@ -3767,7 +3767,7 @@
         "from": "PALPATINE",
         "text": "(continuing) Idle Senate gossip is rarely true and never accurate. I'm sure your Master will do fine.",
         "where": "101 INT. CORUSCANT-SENATE OFFICE BUILDING-MAIN HALLWAY-DAY",
-        "number": 17
+        "number": 16
     },
     {
         "from": "OBI-WAN",
@@ -3983,7 +3983,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) Geenine, take the Fighter back to the ship. I'm staying here. Tell Cody I've made contact.",
         "where": "105 INT. UTAPAU-LANDING PLATFORM-DAY",
-        "number": 17
+        "number": 16
     },
     {
         "from": "TlON MEDON",
@@ -4013,7 +4013,7 @@
         "from": "WRANGLER",
         "text": "(subtitled, in native tongue) You need transportation.",
         "where": "109 INT. UTAPAU-CITY-DRAGON CORRAL-DAY",
-        "number": 7
+        "number": 3
     },
     {
         "from": "OBI-WAN",
@@ -4025,7 +4025,7 @@
         "from": "WRANGLER",
         "text": "(subtitled, in native tongue) I will get it for you.",
         "where": "109 INT. UTAPAU-CITY-DRAGON CORRAL-DAY",
-        "number": 10
+        "number": 6
     },
     {
         "from": "OBI-WAN",
@@ -4073,7 +4073,7 @@
         "from": "GENERAL GRIEVOUS",
         "text": "General Kenobi, you are a bold one. I find your behavior bewildering... Surely you realize you're doomed, (to droids) Kill him!",
         "where": "112 INT. UTAPAU-TENTH LEVEL-CONTROL CENTER-DAY",
-        "number": 21
+        "number": 19
     },
     {
         "from": "GENERAL GRIEVOUS",
@@ -4181,7 +4181,7 @@
         "from": "PALPATINE",
         "text": "(continuing) Their sincerity is to be admired, although I sense there is more to their request than they are telling us.",
         "where": "116 INT. CORUSCANT-CHANCELLOR'S OFFICE-SUNSET",
-        "number": 21
+        "number": 20
     },
     {
         "from": "ANAKIN",
@@ -4276,7 +4276,7 @@
         "from": "YODA",
         "text": "To a dark place this line of thought will carry us. Hmmmmm... . great care we must take.",
         "where": "117 INT. CORUSCANT-JEDI WAR ROOM-EARLY EVENING",
-        "number": 18
+        "number": 17
     },
     {
         "from": "ANAKIN",
@@ -4336,7 +4336,7 @@
         "from": "PALPATINE",
         "text": "Anakin, if one is to understand the great mystery, one must study all its aspects, not just the dogmatic, narrow view of the Jedi. If you wish to become a complete and wise leader, you must embrace a larger view of the Force. Be careful of the Jedi, Anakin. (pausing) They fear you. In time they will destroy you. Let me train you.",
         "where": "118 INT. CORUSCANT-CHANCELLOR'S OFFICE-EARLY EVENING",
-        "number": 63
+        "number": 62
     },
     {
         "from": "ANAKIN",
@@ -4426,7 +4426,7 @@
         "from": "PALPATINE",
         "text": "(continuing) I am not going anywhere. You have time to decide my fate. Perhaps you'll reconsider and help me rule the galaxy for the good of all...",
         "where": "118 INT. CORUSCANT-CHANCELLOR'S OFFICE-EARLY EVENING",
-        "number": 27
+        "number": 26
     },
     {
         "from": "GENERAL GRIEVOUS",
@@ -4546,7 +4546,7 @@
         "from": "PALPATINE",
         "text": "(V.O.) You do know, don't you, if the Jedi destroy me, any chance of saving her will be lost.",
         "where": "125 INT. CORUSCANT-JEDI COUNCIL/PADME'S APARTMENT-EARLY EVENING",
-        "number": 19
+        "number": 18
     },
     {
         "from": "PADME",
@@ -4558,7 +4558,7 @@
         "from": "C-3PO",
         "text": "My Lady, are you... . Are you all right?",
         "where": "125 INT. CORUSCANT-JEDI COUNCIL/PADME'S APARTMENT-EARLY EVENING",
-        "number": 9
+        "number": 8
     },
     {
         "from": "ANAKIN",
@@ -4594,7 +4594,7 @@
         "from": "PALPATINE",
         "text": "(burst of anger) I am the Senate!",
         "where": "128 INT. CORUSCANT-CHANCELLOR’S OFFICE-EARLY EVENING",
-        "number": 7
+        "number": 4
     },
     {
         "from": "MACE WINDU",
@@ -4726,7 +4726,7 @@
         "from": "ANAKIN",
         "text": "(continuing) He must live...",
         "where": "128 INT. CORUSCANT-CHANCELLOR’S OFFICE-EARLY EVENING",
-        "number": 4
+        "number": 3
     },
     {
         "from": "PALPATINE",
@@ -4876,13 +4876,13 @@
         "from": "CLONE COMMANDER CODY",
         "text": "(continuing) Oh, by the way, I think you'll be needing this.",
         "where": "132 EXT. UTAPAU-TENTH LEVEL-LANDIXG PLATFORM-DAY",
-        "number": 11
+        "number": 10
     },
     {
         "from": "OBI-WAN",
         "text": "Thank you, Cody, (smiling) Now let's get a move on. We've got a battle to win here.",
         "where": "132 EXT. UTAPAU-TENTH LEVEL-LANDIXG PLATFORM-DAY",
-        "number": 17
+        "number": 16
     },
     {
         "from": "CLONE COMMANDER CODY",
@@ -4936,13 +4936,13 @@
         "from": "AAYLA",
         "text": "Steady... . steady...",
         "where": "134 EXT. FELUCIA-FOREST-DAY",
-        "number": 3
+        "number": 2
     },
     {
         "from": "AAYLA",
         "text": "(continuing) Bly, do you think they're Droids?",
         "where": "134 EXT. FELUCIA-FOREST-DAY",
-        "number": 7
+        "number": 6
     },
     {
         "from": "BLY",
@@ -5014,13 +5014,13 @@
         "from": "CLONE SERGEANT",
         "text": "(continuing) I'm sorry, sir. No one is allowed entry.",
         "where": "148 EXT. CORUSCANT-JEDI TEMPLE-LANDING PLATFORM-PRE-DAWN",
-        "number": 9
+        "number": 8
     },
     {
         "from": "CLONE SERGEANT",
         "text": "(continuing) It's time for you to leave, sir.",
         "where": "148 EXT. CORUSCANT-JEDI TEMPLE-LANDING PLATFORM-PRE-DAWN",
-        "number": 8
+        "number": 7
     },
     {
         "from": "BAIL ORGANA",
@@ -5044,7 +5044,7 @@
         "from": "CREATURE",
         "text": "Wookiee good... eat Wookiee. (crazy little laugh)",
         "where": "152 EXT. KASHYYYK-LAKE ON VILLAGE EDGE-DUSK",
-        "number": 7
+        "number": 4
     },
     {
         "from": "CLONE SERGEANT",
@@ -5056,7 +5056,7 @@
         "from": "CREATURE",
         "text": "It's nothing, nothing. (laughs)",
         "where": "152 EXT. KASHYYYK-LAKE ON VILLAGE EDGE-DUSK",
-        "number": 4
+        "number": 3
     },
     {
         "from": "CLONE SERGEANT",
@@ -5086,7 +5086,7 @@
         "from": "YODA",
         "text": "(continuing) Not far, are we, from the emergency ship. Quickly...",
         "where": "152 EXT. KASHYYYK-LAKE ON VILLAGE EDGE-DUSK",
-        "number": 10
+        "number": 9
     },
     {
         "from": "YODA",
@@ -5158,13 +5158,13 @@
         "from": "BAIL ORGANA",
         "text": "(hologram)... Kenobi...",
         "where": "160 INT. GENERAL GRIEVOUS'S STARFIGHTER-SPACE",
-        "number": 2
+        "number": 1
     },
     {
         "from": "OBI-WAN",
         "text": "(continuing) I've locked on. Repeat.",
         "where": "160 INT. GENERAL GRIEVOUS'S STARFIGHTER-SPACE",
-        "number": 5
+        "number": 4
     },
     {
         "from": "BAIL ORGANA",
@@ -5224,7 +5224,7 @@
         "from": "C-3PO",
         "text": "(continuing) You can't be anymore confused than I am.",
         "where": "161 INT. CORUSCANT-PADME’SAPARTMENT-PRE-DAWN",
-        "number": 9
+        "number": 8
     },
     {
         "from": "ANAKIN",
@@ -5254,13 +5254,13 @@
         "from": "C-3PO",
         "text": "(continuing) Shhhhhh... not so loud.",
         "where": "161 INT. CORUSCANT-PADME’SAPARTMENT-PRE-DAWN",
-        "number": 5
+        "number": 4
     },
     {
         "from": "C-3PO",
         "text": "(continuing) Whatever it is, we'll be the last to know.",
         "where": "161 INT. CORUSCANT-PADME’SAPARTMENT-PRE-DAWN",
-        "number": 10
+        "number": 9
     },
     {
         "from": "PADME",
@@ -5338,7 +5338,7 @@
         "from": "ANAKIN",
         "text": "(continuing) Please, wait for me.",
         "where": "161 INT. CORUSCANT-PADME’SAPARTMENT-PRE-DAWN",
-        "number": 5
+        "number": 4
     },
     {
         "from": "PADME",
@@ -5350,19 +5350,19 @@
         "from": "C-3PO",
         "text": "(to ARTOO) Well, he is under a lot of stress, ARTOO.",
         "where": "161 INT. CORUSCANT-PADME’SAPARTMENT-PRE-DAWN",
-        "number": 11
+        "number": 9
     },
     {
         "from": "C-3PO",
         "text": "(continuing) Take care, my little friend.",
         "where": "161 INT. CORUSCANT-PADME’SAPARTMENT-PRE-DAWN",
-        "number": 6
+        "number": 5
     },
     {
         "from": "C-3PO",
         "text": "(continuing) My Lady, is there anything I might do?",
         "where": "161 INT. CORUSCANT-PADME’SAPARTMENT-PRE-DAWN",
-        "number": 9
+        "number": 8
     },
     {
         "from": "PADME",
@@ -5637,7 +5637,7 @@
         "from": "PALPATINE",
         "text": "The remaining Jedi will be hunted down and defeated. (applause) Any collaborators will suffer the same fate. (applause) These have been trying times, but we have passed the test.",
         "where": "176 INT. CORUSCANT-SENATE CHAMBER-SUNSET",
-        "number": 29
+        "number": 20
     },
     {
         "from": "OBI-WAN",
@@ -5666,7 +5666,7 @@
         "from": "PALPATINE",
         "text": "The war is over. (applause) The Separatists have been defeated, (applause) and the Jedi rebellion has been foiled. We stand on the threshold of a new beginning.",
         "where": "181 INT. CORUSCANT-SENATE CHAMBER-SUNSET",
-        "number": 27
+        "number": 20
     },
     {
         "from": "PADME",
@@ -5684,13 +5684,13 @@
         "from": "PALPATINE",
         "text": "(continuing) An empire that will continue to be ruled by this august body, and a sovereign ruler chosen for life...",
         "where": "181 INT. CORUSCANT-SENATE CHAMBER-SUNSET",
-        "number": 20
+        "number": 19
     },
     {
         "from": "PALPATINE",
         "text": "(continuing) An empire ruled by the majority... Ruled by a new constitution...",
         "where": "181 INT. CORUSCANT-SENATE CHAMBER-SUNSET",
-        "number": 12
+        "number": 11
     },
     {
         "from": "PADME",
@@ -5750,7 +5750,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) It can't be... It can't be...",
         "where": "185 INT. CORUSCANT-JEDI TEMPLE-CONTROL CENTER-NIGHT",
-        "number": 7
+        "number": 6
     },
     {
         "from": "ANAKIN",
@@ -5870,7 +5870,7 @@
         "from": "PADME",
         "text": "(continuing) Oh, Obi-Wan, thank goodness... you're alive.",
         "where": "187 EXT. CORUSCANT -PADME'S APARTMENT-VERANDA-AFTERNOON",
-        "number": 7
+        "number": 6
     },
     {
         "from": "OBI-WAN",
@@ -5930,7 +5930,7 @@
         "from": "PADME",
         "text": "(looks down) No.",
         "where": "187 EXT. CORUSCANT -PADME'S APARTMENT-VERANDA-AFTERNOON",
-        "number": 3
+        "number": 1
     },
     {
         "from": "OBI-WAN",
@@ -6014,7 +6014,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) I'm so sorry.",
         "where": "187 EXT. CORUSCANT -PADME'S APARTMENT-VERANDA-AFTERNOON",
-        "number": 4
+        "number": 3
     },
     {
         "from": "CAPTAIN TYPHO",
@@ -6044,7 +6044,7 @@
         "from": "PADME",
         "text": "(continuing) This is something I must do myself. Besides, Threepio will look after me.",
         "where": "191 EXT. CORUSCANT-LANDING PLATFORM-SUNSET",
-        "number": 14
+        "number": 13
     },
     {
         "from": "C-3PO",
@@ -6224,7 +6224,7 @@
         "from": "ANAKIN",
         "text": "(seeing Obi-Wan) Liar!",
         "where": "195 EXT. MUSTAFAR-LANDING PLATFORM-DAY",
-        "number": 3
+        "number": 1
     },
     {
         "from": "PADME",
@@ -6290,7 +6290,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) You have allowed this Dark Lord to twist your mind until now... until now you have become the very thing you swore to destroy.",
         "where": "195 EXT. MUSTAFAR-LANDING PLATFORM-DAY",
-        "number": 25
+        "number": 24
     },
     {
         "from": "ANAKIN",
@@ -6380,13 +6380,13 @@
         "from": "YODA",
         "text": "(continuing) At an end your rule is and not short enough it was, I must say.",
         "where": "199 INT. CORRIDOR-SENATE ARENA-CHANCELLOR'S HOLDING OFFICE-NIGHT",
-        "number": 16
+        "number": 15
     },
     {
         "from": "YODA",
         "text": "(continuing) If so powerful you are, why leave??",
         "where": "199 INT. CORRIDOR-SENATE ARENA-CHANCELLOR'S HOLDING OFFICE-NIGHT",
-        "number": 8
+        "number": 7
     },
     {
         "from": "DARTH SlDIOUS",
@@ -6416,7 +6416,7 @@
         "from": "OBI-WAN",
         "text": "(continuing) The flaw of power is arrogance.",
         "where": "202 INT. MUSTAFAR-MAIN CONTROL CENTER-DAY",
-        "number": 7
+        "number": 6
     },
     {
         "from": "ANAKIN",
@@ -6440,7 +6440,7 @@
         "from": "BAIL ORGANA",
         "text": "(in speeder) There aren't many troops on this side. Activate your homing beacon when you're ready.",
         "where": "207 INT. CORUSCANT-SENATE OFFICE BUILDING-WIRING CHUTE-NIGHT",
-        "number": 16
+        "number": 14
     },
     {
         "from": "CLONE COMMANDER THIRE",
@@ -6470,7 +6470,7 @@
         "from": "PALPATINE",
         "text": "(to Mas Amedda) Tell Captain Kagi to prepare my shuttle for immediate takeoff.",
         "where": "208 INT. CORUSCANT-SENATE CHAMBER-MAIN ARENA-NIGHT",
-        "number": 13
+        "number": 10
     },
     {
         "from": "MAS AMEDDA",
@@ -6554,7 +6554,7 @@
         "from": "OBI-WAN",
         "text": "(continuing)... You were the Chosen One! It was said that you would, destroy the Sith, not join them. It was you who would bring balance to the Force, not leave it in Darkness.",
         "where": "214 EXT. MUSTAFAR-COLLECTION PANELS-DAY",
-        "number": 33
+        "number": 32
     },
     {
         "from": "ANAKIN",
@@ -6602,7 +6602,7 @@
         "from": "QUI-GON",
         "text": "(V.O.) Patience. You will have time. I did not. When I became one with the Force I made a great discovery. With my training, you will be able to merge with the Force at will. Your physical self will fade away, but you will still retain your consciousness. You will become more powerful than any Sith.",
         "where": "222 INT. POLIS MASSA-OBSERVATION DOME-NIGHT",
-        "number": 56
+        "number": 55
     },
     {
         "from": "YODA",
@@ -6614,7 +6614,7 @@
         "from": "QUI-GON",
         "text": "(V.O.) The ability to defy oblivion can be achieved, but only for oneself. It was accomplished by a Shaman of the Whills. It is a state acquired through compassion, not greed.",
         "where": "222 INT. POLIS MASSA-OBSERVATION DOME-NIGHT",
-        "number": 31
+        "number": 30
     },
     {
         "from": "YODA :... to become one with the Force, and influence still have... A power greater than all, it is.",
@@ -6625,7 +6625,7 @@
         "from": "QUI-GON",
         "text": "(V.O.) You will learn to let go of everything. No attachment, no thought of self. No physical self.",
         "where": "222 INT. POLIS MASSA-OBSERVATION DOME-NIGHT",
-        "number": 18
+        "number": 17
     },
     {
         "from": "YODA",
@@ -6755,7 +6755,7 @@
         "from": "DARTH SIDIOUS",
         "text": "(continuing) Lord Vader, can you hear me?",
         "where": "231 INT. CORUSCANT-IMPERIAL REHAB CENTER-DAY",
-        "number": 7
+        "number": 6
     },
     {
         "from": "DARTH VADER",
@@ -6767,7 +6767,7 @@
         "from": "DARTH VADER",
         "text": "(continuing) Where is Padme? Is she safe, is she all right?",
         "where": "231 INT. CORUSCANT-IMPERIAL REHAB CENTER-DAY",
-        "number": 11
+        "number": 10
     },
     {
         "from": "DARTH SIDIOUS",
@@ -6833,7 +6833,7 @@
         "from": "YODA",
         "text": "(continuing) Master Kenobi, wait a moment. In your solitude on Tatooine, training I have for you.",
         "where": "233 INT. ALDERAAN CRUISER-CONFERENCE ROOM",
-        "number": 16
+        "number": 15
     },
     {
         "from": "OBI-WAN",

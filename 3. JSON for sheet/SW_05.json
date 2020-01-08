@@ -2,31 +2,31 @@
         "from": "LUKE",
         "text": "(into comlink) Echo Three to Echo Seven. Han, old buddy, do you read me?",
         "where": "EXT. PLAIN OF HOTH - DAY",
-        "number": 14
+        "number": 12
     },
     {
         "from": "HAN",
         "text": "(over comlink) Loud and clear, kid. What's up?",
         "where": "EXT. PLAIN OF HOTH - DAY",
-        "number": 8
+        "number": 6
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Well, I finished my circle. I don't pick up any life readings.",
         "where": "EXT. PLAIN OF HOTH - DAY",
-        "number": 14
+        "number": 12
     },
     {
         "from": "HAN",
         "text": "(over comlink) There isn't enough life on this ice cube to fill a space cruiser. The sensors are placed, I'm going back.",
         "where": "EXT. PLAIN OF HOTH - DAY",
-        "number": 22
+        "number": 20
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Right. I'll see you shortly. There's a meteorite that hit the ground near here. I want to check it out. It won't take long.",
         "where": "EXT. PLAIN OF HOTH - DAY",
-        "number": 26
+        "number": 24
     },
     {
         "from": "LUKE",
@@ -80,7 +80,7 @@
         "from": "RIEEKAN",
         "text": "(indicates radar screen) With all the meteor activity in this system, it's going to be difficult to spot approaching ships.",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 20
+        "number": 17
     },
     {
         "from": "HAN",
@@ -116,7 +116,7 @@
         "from": "HAN",
         "text": "(with feeling) Well, Your Highness, I guess this is it.",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LEIA",
@@ -128,7 +128,7 @@
         "from": "HAN",
         "text": "(cooly) Well, don't get all mushy on me. So long, Princess.",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 11
+        "number": 10
     },
     {
         "from": "LEIA",
@@ -182,13 +182,13 @@
         "from": "LEIA",
         "text": "(mystified) I need? I don't know what you're talking about.",
         "where": "INT. HOTH - REBEL BASE - ICE CORRIDOR",
-        "number": 10
+        "number": 9
     },
     {
         "from": "HAN",
         "text": "(shakes his head, fed up) You probably don't.",
         "where": "INT. HOTH - REBEL BASE - ICE CORRIDOR",
-        "number": 8
+        "number": 3
     },
     {
         "from": "LEIA",
@@ -254,7 +254,7 @@
         "from": "HAN",
         "text": "(to Chewie) Why do you take this apart now? I'm trying to get us out of here and you pull both of these.",
         "where": "INT. HOTH - REBEL BASE - MAIN HANGAR DECK",
-        "number": 23
+        "number": 21
     },
     {
         "from": "THREEPIO",
@@ -266,7 +266,7 @@
         "from": "HAN",
         "text": "(to Chewie) Put them back together right now.",
         "where": "INT. HOTH - REBEL BASE - MAIN HANGAR DECK",
-        "number": 8
+        "number": 6
     },
     {
         "from": "THREEPIO",
@@ -446,7 +446,7 @@
         "from": "THREEPIO",
         "text": "Don't say thing like that! Of course we'll see Master Luke again. He'll be quite all right, you'll see. (to himself) Stupid little short-circuit. He'll be quite all right.",
         "where": "INT. HOTH - REBEL BASE - MAIN ICE TUNNEL",
-        "number": 29
+        "number": 27
     },
     {
         "from": "LIEUTENANT",
@@ -482,7 +482,7 @@
         "from": "THREEPIO",
         "text": "ARTOO says the chances of survival are seven hundred seventy-five...to one.",
         "where": "INT. HOTH - REBEL BASE - MAIN ICE TUNNEL",
-        "number": 11
+        "number": 12
     },
     {
         "from": "THREEPIO",
@@ -500,7 +500,7 @@
         "from": "LUKE",
         "text": "(weakly) Ben?",
         "where": "EXT. HOTH - SNOW DRIFT - DUSK",
-        "number": 2
+        "number": 1
     },
     {
         "from": "OBI-WAN",
@@ -524,7 +524,7 @@
         "from": "LUKE",
         "text": "(groaning faintly) Ben... Ben.",
         "where": "EXT. HOTH - SNOW DRIFT - DUSK",
-        "number": 4
+        "number": 2
     },
     {
         "from": "HAN",
@@ -542,7 +542,7 @@
         "from": "LUKE",
         "text": "(moaning) Ben... Ben...",
         "where": "EXT. HOTH - SNOW DRIFT - DUSK",
-        "number": 3
+        "number": 2
     },
     {
         "from": "HAN",
@@ -560,7 +560,7 @@
         "from": "HAN",
         "text": "(reeling from the odor) Whew...",
         "where": "EXT. HOTH - SNOW DRIFT - DUSK",
-        "number": 5
+        "number": 1
     },
     {
         "from": "LUKE",
@@ -578,37 +578,37 @@
         "from": "LUKE",
         "text": "(moaning) Yoda...",
         "where": "EXT. HOTH - SNOW DRIFT - DUSK",
-        "number": 2
+        "number": 1
     },
     {
         "from": "HAN",
         "text": "...but it will keep you warm... til I get the shelter built. (struggling to get Luke inside the carcass) Ooh... I thought they smelled bad on the outside!",
         "where": "EXT. HOTH - SNOW DRIFT - DUSK",
-        "number": 28
+        "number": 21
     },
     {
         "from": "ZEV",
         "text": "(into transmitter) Echo Base... I've got something! Not much, but it could be a life form.",
         "where": "INT. SNOWSPEEDER COCKPIT",
-        "number": 16
+        "number": 14
     },
     {
         "from": "ZEV",
         "text": "(into transmitter) This is Rogue Two. this is Rogue Two. Captain Solo, so you copy? Commander Skywalker, do you copy? This is Rogue Two.",
         "where": "INT. SNOWSPEEDER - COCKPIT",
-        "number": 24
+        "number": 22
     },
     {
         "from": "HAN",
         "text": "(filtered over Zev's receiver) Good morning. Nice of you guys to drop by.",
         "where": "INT. SNOWSPEEDER - COCKPIT",
-        "number": 13
+        "number": 9
     },
     {
         "from": "ZEV",
         "text": "(switching transmitters) Echo Base... this is Rogue Two. I found them. Repeat, I found them.",
         "where": "INT. SNOWSPEEDER - COCKPIT",
-        "number": 15
+        "number": 13
     },
     {
         "from": "THREEPIO",
@@ -650,7 +650,7 @@
         "from": "LEIA",
         "text": "(haughtily) I had nothing to do with it. General Rieekan thinks it's dangerous for any ships to leave the system until we've activated the energy shield.",
         "where": "INT. SNOWSPEEDER - COCKPIT",
-        "number": 26
+        "number": 25
     },
     {
         "from": "HAN",
@@ -680,13 +680,13 @@
         "from": "LEIA",
         "text": "My...! Why, you stuck up,... half- witted... scruffy-looking ...nerf-herder!",
         "where": "INT. SNOWSPEEDER - COCKPIT",
-        "number": 9
+        "number": 10
     },
     {
         "from": "HAN",
         "text": "Who's scruffy-looking? (to Luke) I must have hit pretty close to the mark to get her all riled up like that, huh, kid?",
         "where": "INT. SNOWSPEEDER - COCKPIT",
-        "number": 23
+        "number": 21
     },
     {
         "from": "LEIA",
@@ -698,7 +698,7 @@
         "from": "ANNOUNCER",
         "text": "(over loudspeaker) Headquarters personnel, report to command center.",
         "where": "INT. SNOWSPEEDER - COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "HAN",
@@ -770,31 +770,31 @@
         "from": "HAN",
         "text": "(over comlink) Afraid there's not much left.",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 7
+        "number": 5
     },
     {
         "from": "LEIA",
         "text": "(into comlink) What was it?",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 5
+        "number": 3
     },
     {
         "from": "HAN",
         "text": "(over comlink) Droid of some kind. I didn't hit it that hard. It must have had a self-destruct.",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 18
+        "number": 16
     },
     {
         "from": "LEIA",
         "text": "(into comlink) An Imperial probe droid.",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 6
+        "number": 4
     },
     {
         "from": "HAN",
         "text": "(over comlink) It's a good bet the Empire knows we're here.",
         "where": "INT. HOTH - REBEL BASE - COMMAND CENTER",
-        "number": 11
+        "number": 9
     },
     {
         "from": "RIEEKAN",
@@ -824,7 +824,7 @@
         "from": "OZZEL",
         "text": "(irritated) We have thousands of probe droids searching the galaxy. I want proof, not leads!",
         "where": "INT. DARTH VADER'S STAR DESTROYER - BRIDGE - MAIN CONTROL DECK",
-        "number": 15
+        "number": 14
     },
     {
         "from": "PIETT",
@@ -860,7 +860,7 @@
         "from": "DARTH VADER",
         "text": "(studying the image on the console screen) That's it. The Rebels are there.",
         "where": "INT. DARTH VADER'S STAR DESTROYER - BRIDGE - MAIN CONTROL DECK",
-        "number": 13
+        "number": 6
     },
     {
         "from": "OZZEL",
@@ -890,7 +890,7 @@
         "from": "HAN",
         "text": "(into comlink, to Chewie) Okay, that's it. Try it... Off! Turn it off! Turn it off! Off!",
         "where": "INT. HOTH - REBEL BASE - MAIN HANGAR DECK",
-        "number": 17
+        "number": 13
     },
     {
         "from": "MEDICAL DROID",
@@ -926,7 +926,7 @@
         "from": "HAN",
         "text": "Hi, kid. (to droid) There's got to be a reason for it. Check it at the other end. Wait a second. (to Luke) You all right?",
         "where": "INT. REBEL BASE - MAIN HANGAR DECK",
-        "number": 26
+        "number": 5
     },
     {
         "from": "LUKE",
@@ -974,7 +974,7 @@
         "from": "DARTH VADER",
         "text": "(angrily) The Rebels are alerted to our presence. Admiral Ozzel came out of light-speed too close to the system.",
         "where": "INT. VADER'S STAR DESTROYER - VADER'S CHAMBER - MEDITATION CUBICLE",
-        "number": 19
+        "number": 18
     },
     {
         "from": "VEERS",
@@ -1046,7 +1046,7 @@
         "from": "PILOTS",
         "text": "(in unison) Right. Okay.",
         "where": "INT. REBEL BASE - MAIN HANGAR DECK",
-        "number": 4
+        "number": 2
     },
     {
         "from": "LEIA",
@@ -1088,7 +1088,7 @@
         "from": "ANNOUNCER",
         "text": "(over loudspeaker) The first transport is away.",
         "where": "INT. REBEL BASE - MAIN HANGAR DECK",
-        "number": 7
+        "number": 5
     },
     {
         "from": "DACK",
@@ -1112,7 +1112,7 @@
         "from": "LUKE",
         "text": "(quietly, strapping in) I know what you mean.",
         "where": "INT. REBEL BASE - MAIN HANGAR DECK",
-        "number": 8
+        "number": 5
     },
     {
         "from": "TRENCH OFFICER",
@@ -1124,7 +1124,7 @@
         "from": "TRENCH OFFICER",
         "text": "(over comlink) We have spotted Imperial walkers!",
         "where": "INT. REBEL BASE - CORRIDOR",
-        "number": 7
+        "number": 5
     },
     {
         "from": "CONTROLLER",
@@ -1136,13 +1136,13 @@
         "from": "LUKE",
         "text": "(into comlink) Echo station Five-Seven. We're on our way",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 9
+        "number": 7
     },
     {
         "from": "LUKE",
         "text": "(into comlink) All right, boys, keep tight now.",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "DACK",
@@ -1166,7 +1166,7 @@
         "from": "LUKE",
         "text": "(into comlink) Hobbie, you still with me",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 7
+        "number": 5
     },
     {
         "from": "LUKE",
@@ -1178,7 +1178,7 @@
         "from": "LUKE",
         "text": "(into comlink) Rogue Group, use your harpoons and tow cables. Go for the legs. It might be our only chance of stopping them. (to Dack) All right, stand by, Dack.",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 30
+        "number": 5
     },
     {
         "from": "DACK",
@@ -1208,43 +1208,43 @@
         "from": "LUKE",
         "text": "(into comlink) Rogue Three.",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "WEDGE",
         "text": "(into comlink) Copy, Rogue Leader",
         "where": "INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "LUKE",
         "text": "(over comlink) Wedge, I've lost my gunner. You'll have to make this shot. I'll cover for you. Set your harpoon. Follow me on the next pass.",
         "where": "INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT",
-        "number": 26
+        "number": 24
     },
     {
         "from": "WEDGE",
         "text": "(into comlink) Coming around, Rogue Leader.",
         "where": "INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Steady, Rogue Two",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "WEDGE",
         "text": "(to gunner) Activate harpoon.",
         "where": "INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "WEDGE",
         "text": "(to gunner) Good shot, Janson.",
         "where": "INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "WEDGE",
@@ -1292,13 +1292,13 @@
         "from": "WEDGE",
         "text": "(into comlink) Whooha! That got him!",
         "where": "INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
         "text": "(into comlink) I see it, Wedge. Good work.",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "RIEEKAN",
@@ -1316,13 +1316,13 @@
         "from": "RIEEKAN",
         "text": "(into comlink) Launch patrols.",
         "where": "INT. REBEL BASE - COMMAND CENTER",
-        "number": 4
+        "number": 2
     },
     {
         "from": "LEIA",
         "text": "(to an aide) Evacuate remaining ground staff.",
         "where": "INT. REBEL BASE - COMMAND CENTER",
-        "number": 7
+        "number": 4
     },
     {
         "from": "HAN",
@@ -1346,49 +1346,49 @@
         "from": "LUKE",
         "text": "(into comlink) Rogue Two, are you all right?",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "ZEV",
         "text": "(into comlink) Yeah. I'm with you, Rogue Leader.",
         "where": "INT. ZEV'S SNOWSPEEDER, ROGUE TWO - COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "LUKE",
         "text": "(into comlink) We'll set harpoon. I'll cover for you.",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 9
+        "number": 7
     },
     {
         "from": "ZEV",
         "text": "(into comlink) Coming around.",
         "where": "INT. ZEV'S SNOWSPEEDER, ROGUE TWO - COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Watch that cross fire, boys.",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 7
+        "number": 5
     },
     {
         "from": "ZEV",
         "text": "(into comlink) Set for position three. (to gunner) Steady.",
         "where": "INT. ZEV'S SNOWSPEEDER, ROGUE TWO - COCKPIT",
-        "number": 9
+        "number": 1
     },
     {
         "from": "LUKE",
         "text": "(over comlink) Stay tight and low.",
         "where": "INT. ZEV'S SNOWSPEEDER, ROGUE TWO - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Hobbie, I've been hit!",
         "where": "INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "HAN",
@@ -1430,13 +1430,13 @@
         "from": "LEIA",
         "text": "(to controller) Send all troops in sector twelve to the south slope to protect the fighters.",
         "where": "INT. REBEL BASE - COMMAND CENTER",
-        "number": 16
+        "number": 14
     },
     {
         "from": "ANNOUNCER",
         "text": "(over loudspeaker) Imperial troops have entered the base.",
         "where": "INT. REBEL BASE - COMMAND CENTER",
-        "number": 8
+        "number": 6
     },
     {
         "from": "HAN",
@@ -1448,7 +1448,7 @@
         "from": "LEIA",
         "text": "(to head controller) Give the evacuation code signal. And get to your transports!",
         "where": "INT. REBEL BASE - COMMAND CENTER",
-        "number": 13
+        "number": 10
     },
     {
         "from": "HEAD CONTROLLER",
@@ -1460,7 +1460,7 @@
         "from": "THREEPIO",
         "text": "(to Han and Leia) Oh! Wait for me!",
         "where": "INT. REBEL BASE - COMMAND CENTER",
-        "number": 8
+        "number": 4
     },
     {
         "from": "OFFICER",
@@ -1496,7 +1496,7 @@
         "from": "HAN",
         "text": "(into comlink) Transport, this is Solo. Better take off - I can't get to you. I'll get the princess out on the Falcon.",
         "where": "INT. HOTH - REBEL BASE - ICE CORRIDORS",
-        "number": 23
+        "number": 21
     },
     {
         "from": "THREEPIO",
@@ -1514,7 +1514,7 @@
         "from": "THREEPIO",
         "text": "(exasperated) How typical.",
         "where": "INT. HOTH - REBEL BASE - ICE CORRIDOR",
-        "number": 3
+        "number": 2
     },
     {
         "from": "HAN",
@@ -1538,7 +1538,7 @@
         "from": "HAN",
         "text": "(to Chewie) How's this?",
         "where": "INT. MAIN HANGAR - MILLENNIUM FALCON - MAIN HOLD",
-        "number": 4
+        "number": 2
     },
     {
         "from": "LEIA",
@@ -1622,37 +1622,37 @@
         "from": "LUKE",
         "text": "(into comlink) There's nothing wrong, ARTOO. I'm just setting a new course.",
         "where": "INT. MAIN HANGAR - MILLENNIUM FALCON - COCKPIT",
-        "number": 12
+        "number": 10
     },
     {
         "from": "LUKE",
         "text": "(into comlink) We're not going to regroup with the others.",
         "where": "INT. MAIN HANGAR - MILLENNIUM FALCON - COCKPIT",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LUKE",
         "text": "(into comlink) We're going to the Dagobah system.",
         "where": "INT. MAIN HANGAR - MILLENNIUM FALCON - COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Yes, ARTOO?",
         "where": "INT. MAIN HANGAR - MILLENNIUM FALCON - COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "LUKE",
         "text": "(into comlink, chuckling) That's all right. I'd like to keep it on manual control for a while.",
         "where": "INT. MAIN HANGAR - MILLENNIUM FALCON - COCKPIT",
-        "number": 17
+        "number": 14
     },
     {
         "from": "HAN",
         "text": "(harried) I saw them! I saw them!",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 7
+        "number": 6
     },
     {
         "from": "LEIA",
@@ -1676,7 +1676,7 @@
         "from": "HAN",
         "text": "(to Leia) Shut him up or shut him down! (to Chewie) Check the deflector shield!",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 15
+        "number": 4
     },
     {
         "from": "HAN",
@@ -1712,7 +1712,7 @@
         "from": "HAN",
         "text": "(with a gleam in his eye) Oh yeah? Watch this.",
         "where": "INT. STAR DESTROYER - BRIDGE",
-        "number": 10
+        "number": 4
     },
     {
         "from": "LEIA",
@@ -1742,13 +1742,13 @@
         "from": "HAN",
         "text": "Horizontal boosters...!",
         "where": "INT. MILLENNIUM FALCON - HOLD",
-        "number": 2
+        "number": 3
     },
     {
         "from": "HAN",
         "text": "Alluvial dampers...! Well that's not it.",
         "where": "INT. MILLENNIUM FALCON - HOLD",
-        "number": 6
+        "number": 7
     },
     {
         "from": "HAN",
@@ -1778,7 +1778,7 @@
         "from": "LEIA",
         "text": "(over comlink) Han, get up here!",
         "where": "INT. MILLENNIUM FALCON - HOLD",
-        "number": 6
+        "number": 4
     },
     {
         "from": "HAN",
@@ -1898,7 +1898,7 @@
         "from": "THREEPIO",
         "text": "(to Leia) Excuse me, ma'am, but where are we going?",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LEIA",
@@ -1916,25 +1916,25 @@
         "from": "LUKE",
         "text": "(into comlink) Yes, that's it. Dagobah.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
         "text": "(into comlink) No, I'm not going to change my mind about this. (getting a little nervous) I'm not picking up any cities or technology. Massive life-form readings, though. There's something alive down there...",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 33
+        "number": 17
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Yes, I'm sure it's perfectly safe for droids.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LUKE",
         "text": "(into comlink) I know, I know! All the scopes are dead. I can't see a thing! Just hang on, I'm going to start the landing cycle...",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 26
+        "number": 24
     },
     {
         "from": "LUKE",
@@ -2000,7 +2000,7 @@
         "from": "DARTH VADER",
         "text": "(interrupting) Asteroids do not concern me, Admiral. I want that ship and not excuses.",
         "where": "EXT. VADER'S STAR DESTROYER - VADER'S CHAMBER",
-        "number": 14
+        "number": 13
     },
     {
         "from": "PIETT",
@@ -2090,7 +2090,7 @@
         "from": "LUKE",
         "text": "(sighs) Now all I have to do is find this Yoda... if he even exists.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 15
+        "number": 14
     },
     {
         "from": "LUKE",
@@ -2108,7 +2108,7 @@
         "from": "LUKE",
         "text": "(looking at the creature) Like we're being watched!",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 8
+        "number": 4
     },
     {
         "from": "YODA",
@@ -2138,7 +2138,7 @@
         "from": "LUKE",
         "text": "(Trying to keep from smiling) Right.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 6
+        "number": 1
     },
     {
         "from": "YODA",
@@ -2156,7 +2156,7 @@
         "from": "YODA",
         "text": "Ahhh! A great warrior. (laughs and shakes his head) Wars not make one great.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 14
+        "number": 9
     },
     {
         "from": "LUKE",
@@ -2180,7 +2180,7 @@
         "from": "YODA",
         "text": "(teasing) Aww, cannot get your ship out?",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 7
+        "number": 6
     },
     {
         "from": "LUKE",
@@ -2192,7 +2192,7 @@
         "from": "YODA",
         "text": "(retreating with the lamp) Mine! Or I will help you not.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 11
+        "number": 7
     },
     {
         "from": "LUKE",
@@ -2246,13 +2246,13 @@
         "from": "LUKE",
         "text": "(fed up) Now will you move along, little fella? We're got a lot of work to do.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 17
+        "number": 15
     },
     {
         "from": "YODA",
         "text": "No! No, no! Stay and help you, I will. (laughs) Find your friend, hmm?",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 14
+        "number": 13
     },
     {
         "from": "LUKE",
@@ -2276,13 +2276,13 @@
         "from": "YODA",
         "text": "Mmm. Take you to him, I will. (laughs) Yes, yes. But now, we must eat. Come. Good food. Come.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 19
+        "number": 18
     },
     {
         "from": "YODA",
         "text": "(in the distance) Come, come.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 5
+        "number": 2
     },
     {
         "from": "LUKE",
@@ -2318,7 +2318,7 @@
         "from": "HAN",
         "text": "(continuing) ... I think we'd better replace the negative power coupling.",
         "where": "INT. MILLENNIUM FALCON - MAIN HOLD AREA",
-        "number": 11
+        "number": 9
     },
     {
         "from": "HAN",
@@ -2330,7 +2330,7 @@
         "from": "LEIA",
         "text": "(still struggling) Would you please stop calling me that?",
         "where": "INT. MILLENNIUM FALCON - MAIN HOLD AREA",
-        "number": 9
+        "number": 7
     },
     {
         "from": "HAN",
@@ -2348,19 +2348,19 @@
         "from": "HAN",
         "text": "I do, I really do. You could be a little nicer, though. (he watches her reaction) Come on, admit it. Sometimes you think I'm all right.",
         "where": "INT. MILLENNIUM FALCON - MAIN HOLD AREA",
-        "number": 26
+        "number": 22
     },
     {
         "from": "LEIA",
         "text": "Occasionally... (a little smile, haltingly) ... when you aren't acting like a scoundrel.",
         "where": "INT. MILLENNIUM FALCON - MAIN HOLD AREA",
-        "number": 13
+        "number": 8
     },
     {
         "from": "HAN",
         "text": "(laughs) Scoundrel? Scoundrel? I like the sound of that.",
         "where": "INT. MILLENNIUM FALCON - MAIN HOLD AREA",
-        "number": 9
+        "number": 8
     },
     {
         "from": "LEIA",
@@ -2390,7 +2390,7 @@
         "from": "LEIA",
         "text": "(looking right into his eyes) Afraid?",
         "where": "INT. MILLENNIUM FALCON - MAIN HOLD AREA",
-        "number": 6
+        "number": 1
     },
     {
         "from": "HAN",
@@ -2450,7 +2450,7 @@
         "from": "NEEDA",
         "text": "(in hologram) ... and that, Lord Vader, was the last time they appeared in any of our scopes. Considering the amount of damage we've sustained, they must have been destroyed.",
         "where": "INT. VADER'S STAR DESTROYER - BRIDGE",
-        "number": 30
+        "number": 27
     },
     {
         "from": "DARTH VADER",
@@ -2576,7 +2576,7 @@
         "from": "YODA",
         "text": "Not far. Yoda not far. Patience. Soon you will be with him. (tasting food from the pot) Rootleaf, I cook. Why wish you become Jedi? Hm?",
         "where": "INT. VADER'S STAR DESTROYER - VADER'S CHAMBER",
-        "number": 26
+        "number": 21
     },
     {
         "from": "LUKE",
@@ -2594,13 +2594,13 @@
         "from": "LUKE",
         "text": "(a little angry) Oh, come on. How could you know my father? You don't even know who I am. (fed up) Oh, I don't know what I'm doing here. We're wasting our time.",
         "where": "INT. VADER'S STAR DESTROYER - VADER'S CHAMBER",
-        "number": 33
+        "number": 12
     },
     {
         "from": "YODA",
         "text": "(irritated) I cannot teach him. The boy has no patience.",
         "where": "INT. VADER'S STAR DESTROYER - VADER'S CHAMBER",
-        "number": 10
+        "number": 9
     },
     {
         "from": "OBI-WAN",
@@ -2636,7 +2636,7 @@
         "from": "YODA",
         "text": "Ready, are you? What know you of ready? For eight hundred years have I trained Jedi. My own counsel will I keep on who is to be trained! A Jedi must have the deepest commitment, the most serious mind. (to the invisible Ben, indicating Luke) This one a long time have I watched. All his life has he looked away... to the future, to the horizon. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. (turning to Luke) You are reckless!",
         "where": "INT. VADER'S STAR DESTROYER - VADER'S CHAMBER",
-        "number": 95
+        "number": 42
     },
     {
         "from": "OBI-WAN",
@@ -2660,7 +2660,7 @@
         "from": "YODA",
         "text": "(sighs) Will he finished what he begins?",
         "where": "INT. VADER'S STAR DESTROYER - VADER'S CHAMBER",
-        "number": 7
+        "number": 6
     },
     {
         "from": "LUKE",
@@ -2672,7 +2672,7 @@
         "from": "YODA",
         "text": "(turns slowly toward him) Oh, you will be. You will be.",
         "where": "INT. VADER'S STAR DESTROYER - VADER'S CHAMBER",
-        "number": 11
+        "number": 7
     },
     {
         "from": "THREEPIO",
@@ -2690,7 +2690,7 @@
         "from": "LEIA",
         "text": "(out of breath) There's something out there.",
         "where": "INT. ASTEROID CAVE - MILLENNIUM FALCON - HOLD AREA",
-        "number": 7
+        "number": 4
     },
     {
         "from": "HAN",
@@ -2738,7 +2738,7 @@
         "from": "THREEPIO",
         "text": "I think it might be better if I stay here and guard the ship. (hears another mysterious noise) Oh, no.",
         "where": "INT. ASTEROID CAVE - MILLENNIUM FALCON - HOLD AREA",
-        "number": 20
+        "number": 16
     },
     {
         "from": "LEIA",
@@ -2768,7 +2768,7 @@
         "from": "HAN",
         "text": "(to Leia) Watch out!",
         "where": "EXT. ASTEROID CAVE - MILLENNIUM FALCON",
-        "number": 4
+        "number": 2
     },
     {
         "from": "HAN",
@@ -2816,13 +2816,13 @@
         "from": "HAN",
         "text": "(interrupting) No time to discuss this in committee.",
         "where": "INT. ASTEROID CAVE - MILLENNIUM FALCON - ENTRY AREA",
-        "number": 8
+        "number": 7
     },
     {
         "from": "LEIA",
         "text": "(angry) I am not a committee!",
         "where": "INT. ASTEROID CAVE - MILLENNIUM FALCON - ENTRY AREA",
-        "number": 6
+        "number": 5
     },
     {
         "from": "LEIA",
@@ -2912,7 +2912,7 @@
         "from": "YODA",
         "text": "(interrupting) No, no, there is no why. Nothing more will I teach you today. Clear your mind of questions. Mmm. Mmmmmmmm.",
         "where": "EXT. DAGOBAH - DAY",
-        "number": 21
+        "number": 20
     },
     {
         "from": "LUKE",
@@ -2984,7 +2984,7 @@
         "from": "DARTH VADER",
         "text": "... there will be a substantial reward for the one who finds the Millennium Falcon. You are free to use any methods necessary, but I want them alive. No disintegrations.",
         "where": "INT. VADER'S STAR DESTROYER - BRIDGE - CONTROL DECK",
-        "number": 30
+        "number": 29
     },
     {
         "from": "BOBA FETT",
@@ -3014,7 +3014,7 @@
         "from": "HAN",
         "text": "(frantic) It's not fair!",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 4
+        "number": 3
     },
     {
         "from": "HAN",
@@ -3026,7 +3026,7 @@
         "from": "LEIA",
         "text": "(almost expecting it) No light-speed?",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 5
+        "number": 2
     },
     {
         "from": "HAN",
@@ -3110,7 +3110,7 @@
         "from": "NEEDA",
         "text": "(drawing a breath) Get a shuttle ready. I shall assume full responsibility for losing them, and apologize to Lord Vader. Meanwhile, continue to scan the area.",
         "where": "INT. STAR DESTROYER, AVENGER - BRIDGE",
-        "number": 26
+        "number": 23
     },
     {
         "from": "COMMUNICATIONS OFFICER",
@@ -3164,7 +3164,7 @@
         "from": "LUKE",
         "text": "(focusing, quietly) All right, I'll give it a try.",
         "where": "EXT. DAGOBAH - BOG - DAY",
-        "number": 9
+        "number": 7
     },
     {
         "from": "YODA",
@@ -3176,7 +3176,7 @@
         "from": "LUKE",
         "text": "(panting heavily) I can't. It's too big.",
         "where": "EXT. DAGOBAH - BOG - DAY",
-        "number": 7
+        "number": 5
     },
     {
         "from": "YODA",
@@ -3188,13 +3188,13 @@
         "from": "YODA",
         "text": "And well you should not. For my ally in the Force. And a powerful ally it is. Life creates it, makes it grow. Its energy surrounds us and binds us. Luminous beings are we... (Yoda pinches Luke's shoulder) ... not this crude matter. (a sweeping gesture) You must feel the Force around you. (gesturing) Here, between you... me... the tree... the rock... everywhere! Yes, even between this land and that ship!",
         "where": "EXT. DAGOBAH - BOG - DAY",
-        "number": 71
+        "number": 51
     },
     {
         "from": "LUKE",
         "text": "(discouraged) You want the impossible",
         "where": "EXT. DAGOBAH - BOG - DAY",
-        "number": 5
+        "number": 4
     },
     {
         "from": "LUKE",
@@ -3248,13 +3248,13 @@
         "from": "THREEPIO",
         "text": "Captain Solo, this time you have gone too far. (Chewie growls) No, I will not be quiet, Chewbacca. Why doesn't anyone listen to me?",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 24
+        "number": 22
     },
     {
         "from": "HAN",
         "text": "(to Chewie) The fleet is beginning to break up. Go back and stand by the manual release for the landing claw.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 21
+        "number": 19
     },
     {
         "from": "THREEPIO",
@@ -3344,7 +3344,7 @@
         "from": "LEIA",
         "text": "(reading from the computer) A mining colony?",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 7
+        "number": 3
     },
     {
         "from": "HAN",
@@ -3368,7 +3368,7 @@
         "from": "HAN",
         "text": "(into intercom) Here we go, Chewie. Stand by. Detach!",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 9
+        "number": 7
     },
     {
         "from": "LEIA",
@@ -3392,7 +3392,7 @@
         "from": "YODA",
         "text": "(shaking his head) Hmm. Control, control. You must learn control.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 10
+        "number": 7
     },
     {
         "from": "LUKE",
@@ -3446,13 +3446,13 @@
         "from": "HAN",
         "text": "(into transmitter) No, I don't have a landing permit. I'm trying to reach Lando Calrissian.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 15
+        "number": 13
     },
     {
         "from": "HAN",
         "text": "(into transmitter) Whoa! Wait a minute! Let me explain.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 9
+        "number": 7
     },
     {
         "from": "INTERCOM VOICE",
@@ -3476,7 +3476,7 @@
         "from": "HAN",
         "text": "(to Chewie) Well, that was a long time ago. I'm sure he's forgotten about that.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 15
+        "number": 13
     },
     {
         "from": "INTERCOM VOICE",
@@ -3488,7 +3488,7 @@
         "from": "HAN",
         "text": "(into transmitter) Thank you.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 4
+        "number": 2
     },
     {
         "from": "HAN",
@@ -3536,7 +3536,7 @@
         "from": "HAN",
         "text": "See? My friend. (to Chewie) Keep your eyes open, okay?",
         "where": "EXT. LANDING PLATFORM - DOOR OF MILLENNIUM FALCON",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LANDO",
@@ -3548,7 +3548,7 @@
         "from": "LANDO",
         "text": "(laughs) How you doing, you old pirate? So good to see you! I never thought I'd catch up with you again. Where you been?",
         "where": "EXT. CLOUD CITY - LANDING PLATFORM",
-        "number": 24
+        "number": 23
     },
     {
         "from": "THREEPIO",
@@ -3560,7 +3560,7 @@
         "from": "LEIA",
         "text": "(wary) Yes... very friendly.",
         "where": "EXT. LANDING PLATFORM - DOOR OF MILLENNIUM FALCON",
-        "number": 4
+        "number": 3
     },
     {
         "from": "LANDO",
@@ -3572,13 +3572,13 @@
         "from": "HAN",
         "text": "(gestures toward the Falcon) Ahh... repairs. I thought you could help me out.",
         "where": "EXT. CLOUD CITY - LANDING PLATFORM",
-        "number": 13
+        "number": 9
     },
     {
         "from": "LANDO",
         "text": "(in mock panic) What have you done to my ship?",
         "where": "EXT. CLOUD CITY - LANDING PLATFORM",
-        "number": 10
+        "number": 7
     },
     {
         "from": "HAN",
@@ -3662,7 +3662,7 @@
         "from": "LANDO",
         "text": "Oh, not as well as I'd like. We're a small outpost and not very self-sufficient. And I've had supply problems of every kind. I've had labor difficulties... (catches Han grinning at him) What's so funny?",
         "where": "INT. CLOUD CITY - CORRIDOR",
-        "number": 35
+        "number": 30
     },
     {
         "from": "HAN",
@@ -3686,7 +3686,7 @@
         "from": "LANDO",
         "text": "(shakes his head) Yeah. I'm responsible these days. It's the price you pay for being successful.",
         "where": "INT. CLOUD CITY - CORRIDOR",
-        "number": 16
+        "number": 13
     },
     {
         "from": "THREEPIO",
@@ -3698,7 +3698,7 @@
         "from": "SECOND THREEPIO",
         "text": "(mumbles) E chu ta!",
         "where": "INT. CLOUD CITY - CORRIDOR",
-        "number": 4
+        "number": 3
     },
     {
         "from": "THREEPIO",
@@ -3722,7 +3722,7 @@
         "from": "MAN'S VOICE",
         "text": "(from within) Who are you?",
         "where": "INT. CLOUD CITY - ANTEROOM",
-        "number": 5
+        "number": 3
     },
     {
         "from": "THREEPIO",
@@ -3836,7 +3836,7 @@
         "from": "YODA",
         "text": "If you honor what they fight for...yes!",
         "where": "INT. CLOUD CITY - ANTEROOM",
-        "number": 7
+        "number": 8
     },
     {
         "from": "OBI-WAN",
@@ -3848,7 +3848,7 @@
         "from": "LUKE",
         "text": "I understand. (he moves to his X-wing) ARTOO, fire up the converters.",
         "where": "INT. CLOUD CITY - ANTEROOM",
-        "number": 12
+        "number": 7
     },
     {
         "from": "OBI-WAN",
@@ -3872,7 +3872,7 @@
         "from": "YODA",
         "text": "(sighs) Told you, I did. Reckless is he. Now matters are worse.",
         "where": "INT. CLOUD CITY - ANTEROOM",
-        "number": 12
+        "number": 11
     },
     {
         "from": "OBI-WAN",
@@ -3884,7 +3884,7 @@
         "from": "YODA",
         "text": "(looks up) No. There is another.",
         "where": "INT. CLOUD CITY - ANTEROOM",
-        "number": 6
+        "number": 4
     },
     {
         "from": "HAN",
@@ -3974,7 +3974,7 @@
         "from": "LEIA",
         "text": "(coolly) Thank you.",
         "where": "INT. CLOUD CITY - LIVING QUARTERS - DAY",
-        "number": 3
+        "number": 2
     },
     {
         "from": "LANDO",
@@ -4052,13 +4052,13 @@
         "from": "LUKE",
         "text": "(into comlink) No, Threepio's with them.",
         "where": "INT. CLOUD CITY - DINING ROOM",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Just hang on. We're almost there.",
         "where": "INT. CLOUD CITY - DINING ROOM",
-        "number": 8
+        "number": 6
     },
     {
         "from": "THREEPIO",
@@ -4082,7 +4082,7 @@
         "from": "DARTH VADER",
         "text": "(to Fett) You may take Captain Solo to Jabba the Hut after I have Skywalker.",
         "where": "INT. CLOUD CITY - HOLDING CHAMBER",
-        "number": 15
+        "number": 13
     },
     {
         "from": "BOBA FETT",
@@ -4244,7 +4244,7 @@
         "from": "HAN",
         "text": "Perfect. You fixed us all pretty good, didn't you? (spits it out) My friend!",
         "where": "INT. CLOUD CITY - HOLDING CHAMBER",
-        "number": 14
+        "number": 11
     },
     {
         "from": "LANDO",
@@ -4262,7 +4262,7 @@
         "from": "LEIA",
         "text": "(dabs at his wound) You certainly have a way with people.",
         "where": "INT. CLOUD CITY - HOLDING CHAMBER",
-        "number": 11
+        "number": 7
     },
     {
         "from": "DARTH VADER",
@@ -4304,7 +4304,7 @@
         "from": "HAN",
         "text": "(to Lando) What's going on... buddy?",
         "where": "INT. CLOUD CITY - CARBON-FREEZING CHAMBER",
-        "number": 6
+        "number": 4
     },
     {
         "from": "LANDO",
@@ -4328,7 +4328,7 @@
         "from": "THREEPIO",
         "text": "Oh, no! No, no, no! Stop, Chewbacca, stop...!",
         "where": "INT. CLOUD CITY - CARBON-FREEZING CHAMBER",
-        "number": 8
+        "number": 9
     },
     {
         "from": "HAN",
@@ -4460,13 +4460,13 @@
         "from": "LANDO",
         "text": "(choking) I had no choice...",
         "where": "INT. CLOUD CITY - CORRIDOR",
-        "number": 5
+        "number": 4
     },
     {
         "from": "THREEPIO",
         "text": "(to Chewie) What are you doing? Trust him, trust him!",
         "where": "INT. CLOUD CITY - CORRIDOR",
-        "number": 10
+        "number": 8
     },
     {
         "from": "LEIA",
@@ -4490,7 +4490,7 @@
         "from": "LANDO",
         "text": "(choking) H-a-a-a...",
         "where": "INT. CLOUD CITY - CORRIDOR",
-        "number": 2
+        "number": 1
     },
     {
         "from": "LEIA",
@@ -4520,7 +4520,7 @@
         "from": "THREEPIO",
         "text": "(to Lando) I'm terribly sorry about all this. After all, he's only a Wookiee.",
         "where": "INT. CLOUD CITY - CORRIDOR",
-        "number": 14
+        "number": 12
     },
     {
         "from": "BOBA FETT",
@@ -4538,7 +4538,7 @@
         "from": "THREEPIO",
         "text": "Turn around, you wooly...! (to ARTOO) Hurry, hurry! We're trying to save Han from the bounty hunter!",
         "where": "EXT. CLOUD CITY - EAST LANDING PLATFORM - BOBA FETT'S SHIP",
-        "number": 17
+        "number": 16
     },
     {
         "from": "THREEPIO",
@@ -4640,7 +4640,7 @@
         "from": "THREEPIO",
         "text": "(to ARTOO) I never doubted you for a second. Wonderful!",
         "where": "INT. CLOUD CITY - CORRIDOR LEADING TO LANDING PLATFORM",
-        "number": 10
+        "number": 8
     },
     {
         "from": "THREEPIO",
@@ -4790,7 +4790,7 @@
         "from": "LANDO",
         "text": "(pointing out the cockpit window) Look, someone's up there.",
         "where": "INT. MILLENNIUM FALCON",
-        "number": 9
+        "number": 4
     },
     {
         "from": "LEIA",
@@ -4808,13 +4808,13 @@
         "from": "LEIA",
         "text": "(into intercom) Lando?",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 3
+        "number": 1
     },
     {
         "from": "LANDO",
         "text": "(over intercom) Okay, let's go.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "LUKE",
@@ -4940,13 +4940,13 @@
         "from": "LUKE",
         "text": "(moaning) Ben, why didn't you tell me?",
         "where": "INT. MILLENNIUM FALCON - SLEEPING QUARTERS",
-        "number": 7
+        "number": 6
     },
     {
         "from": "LANDO",
         "text": "(into intercom) Chewie!",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 3
+        "number": 1
     },
     {
         "from": "LUKE",
@@ -4988,43 +4988,43 @@
         "from": "LANDO",
         "text": "(into comlink) Luke, we're ready for takeoff.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 7
+        "number": 5
     },
     {
         "from": "LUKE",
         "text": "(over comlink) Good luck, Lando",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 5
+        "number": 3
     },
     {
         "from": "LANDO",
         "text": "(into comlink) When we find Jabba the Hut and that bounty hunter, we'll contact you.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 15
+        "number": 13
     },
     {
         "from": "LUKE",
         "text": "(into comlink) I'll meet you at the rendezvous point on Tatooine.",
         "where": "INT. STAR CRUISER - MEDICAL CENTER",
-        "number": 11
+        "number": 9
     },
     {
         "from": "LANDO",
         "text": "(into comlink) Princess, we'll find Han. I promise.",
         "where": "INT. MILLENNIUM FALCON - COCKPIT",
-        "number": 8
+        "number": 6
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Chewie, I'll be waiting for your signal.",
         "where": "INT. STAR CRUISER - MEDICAL CENTER",
-        "number": 9
+        "number": 7
     },
     {
         "from": "LUKE",
         "text": "(into comlink) Take care, you two. May the Force be with you.",
         "where": "INT. STAR CRUISER - MEDICAL CENTER",
-        "number": 12
+        "number": 10
     },
     {
         "from": "LUKE",
