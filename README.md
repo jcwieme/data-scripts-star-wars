@@ -19,6 +19,8 @@ Likewise, you will find the **images** of each of the **characters** who had an 
 
 In the folder ***data*** , are the CSV files of each film with information on the dialogues such as: the **number of words** per interaction, the **types of words**, the **duration** of the **interaction**, **who** speaks to **whom** and the **location**.
 
+If you like the work then do not hesitate to visit my [site](https://www.jeanchristophewieme.be/).
+
 ## Why this repo
 
 This project was initially a **personal project** but with the work accomplished, I find it important to share with the community.
@@ -113,8 +115,8 @@ uls.forEach(ul => {
 | ----------- | ----------- |
 | [IMSDB](https://www.imsdb.com/) | Scripts from movies |
 | [YIFY](https://yts-subs.com/) | Subtitles files |
-| [MarkdownToHtml](https://markdowntohtml.com/) | Convert markdown to html |
-| [JSON Parser](http://json.parser.online.fr/) | Parser the JSON |
+| [MARKDOWN TO HTML](https://markdowntohtml.com/) | Convert markdown to html |
+| [JSON PARSER](http://json.parser.online.fr/) | Parser the JSON |
 | [CSV-JSON](https://www.csvjson.com/json2csv) | Convert JSON to CSV |
 | [WORDCOUNTER](https://wordcounter.net/) | Count word if needed |
 | [REGEXR](https://regexr.com/) | For Regular Expressions |
