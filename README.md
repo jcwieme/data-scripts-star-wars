@@ -111,8 +111,11 @@ uls.forEach(ul => {
 
 ## Credits
 
+> The storyline, characters and images represented in this site belong to the respective
+
 | Links      | Description |
 | ----------- | ----------- |
+| [DISNEY](https://www.disney.com/) | All content belong to Disney |
 | [IMSDB](https://www.imsdb.com/) | Scripts from movies |
 | [YIFY](https://yts-subs.com/) | Subtitles files |
 | [MARKDOWN TO HTML](https://markdowntohtml.com/) | Convert markdown to html |
