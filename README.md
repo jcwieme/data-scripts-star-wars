@@ -59,7 +59,7 @@ In this repo, you can find several files about the Star Wars univers.
 
 ## Credits
 
-| Link      | Description |
+| Links      | Description |
 | ----------- | ----------- |
 | [IMSDB](https://www.imsdb.com/) | Scripts from movies |
 | [YIFY](https://yts-subs.com/) | Subtitles files |
