@@ -1,21 +1,24 @@
 # Scripts from Star Wars movies
 
+## Table Of Contents
+
+- [Scripts from Star Wars movies](#scripts-from-star-wars-movies)
+  - [Table Of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Why this repo](#why-this-repo)
+  - [Progression in the project](#progression-in-the-project)
+  - [What can you find here](#what-can-you-find-here)
+  - [Credits](#credits)
+
+## Overview
+
 All the complete scripts of the first 6 **Star Wars** movies, as well as a light version of each containing only the dialogues and the places where they took place.
 
 Likewise, you will find the **images** of each of the **characters** who had an interaction in the films.
 
 In the folder ***data*** , are the CSV files of each film with information on the dialogues such as: the **number of words** per interaction, the **types of words**, the **duration** of the **interaction**, **who** speaks to **whom** and the **location**.
 
-## Table Of Contents
-
-- [Scripts from Star Wars movies](#scripts-from-star-wars-movies)
-  - [Table Of Contents](#table-of-contents)
-  - [Why this repo {#why-this-repo}](#why-this-repo-why-this-repo)
-  - [Progression in the project {#progression-in-the-project}](#progression-in-the-project-progression-in-the-project)
-  - [What can you find here {#what-can-you-find-here}](#what-can-you-find-here-what-can-you-find-here)
-  - [Credits {#credits}](#credits-credits)
-
-## Why this repo {#why-this-repo}
+## Why this repo
 
 This project was initially a **personal project** but with the work accomplished, I find it important to share with the community.
 
@@ -29,7 +32,7 @@ The second part of my work consisted of watching all the films and checking that
 
 This done, I encoded each film in a **numbers file** with several data including among others : the **speaker**, the **interlocutor**, the **content**, the **duration**, the **place**, the **number of words**, the **type of words**, etc. Thanks to the subtitle files, I was able to recover the duration of the talks and check all the data a second time.
 
-## Progression in the project {#progression-in-the-project}
+## Progression in the project
 
 A small overview of the progress of the project.
 
@@ -42,11 +45,11 @@ A small overview of the progress of the project.
 - [ ] Creating CSV files for each movie
 - [ ] Creating JSON files for each movie
 
-## What can you find here {#what-can-you-find-here}
+## What can you find here
 
 In this repo, you can find several files about the Star Wars univers.
 
-## Credits {#credits}
+## Credits
 
 * [IMSDB](https://www.imsdb.com/) : scipts from movies
 * [YIFY](https://yts-subs.com/) : subtitles files
