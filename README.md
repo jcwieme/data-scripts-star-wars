@@ -80,14 +80,17 @@ function countWords(s){
 ```javascript
 const uls = document.querySelectorAll('ul')
 var global = []
+var wordsGlobal = []
 let where = null
+
+let timePerWords = Math.round(83672 / 9595);
 
 uls.forEach(ul => {
     let previousEl = ul.previousElementSibling
     let lis = [...ul.getElementsByTagName('li')]
 
     if (previousEl !== null) {
-        if (previousEl.nodeName === "H2" || previousEl.nodeName === "P") {
+        if (previousEl.nodeName === "P") {
             where = previousEl.innerText
         }
     }
@@ -95,18 +98,65 @@ uls.forEach(ul => {
     lis.forEach(li => {
         let content = li.innerText.split(" : ")
         let number = 0
-        if (content[1]) {
-            number = countWords(content[1])
+        let text = content[1]
+        let textFormat = null
+        let peoples = content[0].split(' to ')
+
+        if (typeof text !== 'undefined') {
+            textFormat = formatSentence(text)
+            number = countWords(textFormat)
         }
 
         global.push({
-            "from": content[0],
-            "text": content[1],
+            "from": peoples[0],
+            "to": peoples[1],
+            "text": text,
             "where": where,
-            "number": number
+            "number": number,
+            "time": number * timePerWords
         })
     })
 })
+
+let data = JSON.stringify(global)
+```
+
+> My PHP file to get the total speech time on screen based on the SRT
+
+```php
+  $data = file_get_contents('./srt.txt', false);
+  $res = preg_replace("/\*([0-9])\*/", "", $data);
+  $res2 = preg_replace("/[^0-9:,>]/", " ", $res);
+  $res3 = preg_replace('!\s+!', ' ', $res2);
+  $res4 = preg_replace('/ , /', ' ', $res3);
+  $res5 = preg_replace('/ > /', '>', $res4);
+  $res6 = preg_replace('!\s+!', ' ', $res5);
+  $res7 = explode(" ", $res6);
+
+  $minutesGlobal = 0;
+  $msGlobal = 0;
+
+  foreach($res7 as $part) {
+    $explode = explode('>', $part);
+
+    if (sizeof($explode) == 2) {
+
+      $explode[0] = preg_replace("/,/", ":", $explode[0]);
+      $explodeNumbers = explode(':',$explode[0]);
+      $explode[1] = preg_replace("/,/", ":", $explode[1]);
+      $explodeNumbers2 = explode(':',$explode[1]);
+
+      $ms = (int)$explodeNumbers2[3] - (int)$explodeNumbers[3];
+      $secondes = (int)$explodeNumbers2[2] - (int)$explodeNumbers[2];
+      $minutes = (int)$explodeNumbers2[1] - (int)$explodeNumbers[1];
+      $hours = (int)$explodeNumbers2[0] - (int)$explodeNumbers[0];
+
+      $minutesGlobal += $minutes;
+      $msGlobal += $ms;
+    }
+  }
+
+  echo $minutesGlobal . ' ' . $msGlobal;
 ```
 
 ## Credits
