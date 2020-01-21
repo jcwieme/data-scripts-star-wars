@@ -40,7 +40,8 @@ This way, please.
 
 10
 00:02:53,591 --> 00:02:56,676
-We are greatly honored by your visit, Ambassadors.
+We are greatly honored
+by your visit, Ambassadors.
 
 11
 00:02:56,761 --> 00:02:58,678
