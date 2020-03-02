@@ -1,13 +1,13 @@
 [{
         "from": "QUI-GON",
-        "to": "CAPTAIN",
+        "to": "CAPTAIN-PILOT",
         "text": "Captain.",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
         "number": 1,
         "time": 9
     },
     {
-        "from": "CAPTAIN",
+        "from": "CAPTAIN-PILOT",
         "to": "QUI-GON",
         "text": "Yes, sir?",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -16,14 +16,14 @@
     },
     {
         "from": "QUI-GON",
-        "to": "CAPTAIN",
+        "to": "CAPTAIN-PILOT",
         "text": "Tell them we wish to board at once.",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
         "number": 8,
         "time": 72
     },
     {
-        "from": "CAPTAIN",
+        "from": "CAPTAIN-PILOT",
         "to": "QUI-GON",
         "text": "Yes, sir.",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -31,7 +31,7 @@
         "time": 18
     },
     {
-        "from": "CAPTAIN",
+        "from": "CAPTAIN-PILOT",
         "to": "NUTE",
         "text": "With all due respect the ambassadors for the supreme chancellor wish to board immediately.",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -40,7 +40,7 @@
     },
     {
         "from": "NUTE",
-        "to": "CAPTAIN",
+        "to": "CAPTAIN-PILOT",
         "text": "Yes, yes, of course as you know, our blockade is perfectly legal, and we'd be happy to receive the Ambassador. Happy to.",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
         "number": 22,
@@ -248,14 +248,14 @@
     },
     {
         "from": "PILOT",
-        "to": "CAPTAIN",
+        "to": "CAPTAIN-PILOT",
         "text": "Captain, look!",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
         "number": 2,
         "time": 18
     },
     {
-        "from": "CAPTAIN",
+        "from": "CAPTAIN-PILOT",
         "to": "QUI-GON",
         "text": "Shields up!",
         "where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -295,14 +295,14 @@
     },
     {
         "from": "OWO-1",
-        "to": "CAPORAL",
+        "to": "OOM-9",
         "text": "Check it out, Corporal. We'll cover you.",
         "where": "INT. FEDERATION BATTLESHIP - HALLWAY",
         "number": 7,
         "time": 63
     },
     {
-        "from": "CAPORAL",
+        "from": "OOM-9",
         "to": "OWO-1",
         "text": "Roger, roger.",
         "where": "INT. FEDERATION BATTLESHIP - HALLWAY",
@@ -311,7 +311,7 @@
     },
     {
         "from": "OWO-1",
-        "to": "CAPORAL",
+        "to": "OOM-9",
         "text": "Blast them.",
         "where": "INT. FEDERATION BATTLESHIP - HALLWAY",
         "number": 2,
@@ -1430,7 +1430,7 @@
     },
     {
         "from": "OOM-9",
-        "to": "OOM-CAPTAIN",
+        "to": "OWO-1",
         "text": "Yes, sir! Take them to Camp Four.",
         "where": "INT. THEED - PALACE THRONE ROOM - DAY",
         "number": 7,
@@ -1619,7 +1619,7 @@
         "time": 36
     },
     {
-        "from": "GUARD DROID",
+        "from": "OOM-9",
         "to": "QUI-GON",
         "text": "Halt.",
         "where": "INT. CENTRAL HANGER - DAY",
@@ -1627,14 +1627,14 @@
         "time": 9
     },
     {
-        "from": "QUI-GON GUARD DROID",
+        "from": "QUI-GON OOM-9",
         "text": "I'm Ambassador for the Supreme Chancellor, and I'm taking those people to Coruscant.",
         "where": "INT. CENTRAL HANGER - DAY",
         "number": 13,
         "time": 117
     },
     {
-        "from": "GUARD DROID",
+        "from": "OOM-9",
         "to": "QUI-GON",
         "text": "Where are you taking them?",
         "where": "INT. CENTRAL HANGER - DAY",
@@ -1642,14 +1642,14 @@
         "time": 45
     },
     {
-        "from": "QUI-GON GUARD DROID",
+        "from": "QUI-GON OOM-9",
         "text": "To Coruscant.",
         "where": "INT. CENTRAL HANGER - DAY",
         "number": 2,
         "time": 18
     },
     {
-        "from": "GUARD DROID",
+        "from": "OOM-9",
         "to": "QUI-GON",
         "text": "Coruscant? U h, that doesn't compute. Uh, wait. U h, you're under arrest.",
         "where": "INT. CENTRAL HANGER - DAY",
@@ -2017,7 +2017,7 @@
     },
     {
         "from": "QUI-GON",
-        "to": "X_X",
+        "to": "OBI-WAN",
         "text": "That'll complicate things. Be wary. I sense a disturbance in the Force.",
         "where": "EXT. NABOO SPACECRAFT - MAIN AREA",
         "number": 12,
@@ -2025,7 +2025,7 @@
     },
     {
         "from": "OBI-WAN",
-        "to": "X_X",
+        "to": "QUI-GON",
         "text": "I fell it also, Master.",
         "where": "EXT. NABOO SPACECRAFT - MAIN AREA",
         "number": 5,
@@ -2033,7 +2033,7 @@
     },
     {
         "from": "QUI-GON",
-        "to": "X_X",
+        "to": "OBI-WAN",
         "text": "Don't let them send any transmissions.",
         "where": "EXT. NABOO SPACECRAFT - MAIN AREA",
         "number": 6,
@@ -3921,7 +3921,7 @@
     },
     {
         "from": "WATTO",
-        "to": "X_X",
+        "to": "QUI-GON",
         "text": "No Pod's worth two slaves not by a long shot one slave or nothing.",
         "where": "INT. MOS ESPA - ARENA - MAIN HANGER - DAY",
         "number": 14,
@@ -3993,7 +3993,7 @@
     },
     {
         "from": "THREEPIO",
-        "to": "X_X",
+        "to": "ARTOO",
         "text": "I can assure you they will never get me onto one of those dreadful starships!",
         "where": "INT. MOS ESPA - ARENA - MAIN HANGER - DAY",
         "number": 15,
@@ -4433,7 +4433,7 @@
     },
     {
         "from": "ODY",
-        "to": "X_X",
+        "to": "ARTOO",
         "text": "Droids!",
         "where": "EXT. MOS ESPA - RACETRACK - DAY",
         "number": 1,
@@ -5121,7 +5121,7 @@
     },
     {
         "from": "OOM-9",
-        "to": "X_X",
+        "to": "NUTE",
         "text": "My troops are in position to begin searching the swamps for these rumored underwater villages. They will not stay hidden for long.",
         "where": "INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT",
         "number": 22,
@@ -5401,7 +5401,7 @@
     },
     {
         "from": "KI-ADI",
-        "to": "X_X",
+        "to": "QUI-GON",
         "text": "I sense he will reveal himself again.",
         "where": "INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY",
         "number": 7,
@@ -5585,7 +5585,7 @@
     },
     {
         "from": "PALPATINE",
-        "to": "X_X",
+        "to": "AMIDALA",
         "text": "If the Federation moves to defer the motion Your Majesty, Ibeg of you to ask for a resolution to end this congressional session.",
         "where": "INT. MAIN ROTUNDA - GALACTIC SENATE - DAY",
         "number": 23,
@@ -5593,7 +5593,7 @@
     },
     {
         "from": "AMIDALA",
-        "to": "X_X",
+        "to": "PALPATINE",
         "text": "I wish I had your confidence in this, Senator.",
         "where": "INT. MAIN ROTUNDA - GALACTIC SENATE - DAY",
         "number": 9,
@@ -5601,7 +5601,7 @@
     },
     {
         "from": "PALPATINE",
-        "to": "X_X",
+        "to": "AMIDALA",
         "text": "You must force a new election for Supreme Chancellor I promise you there are many who will support us it is our best chance Your Majesty, our only, chance.",
         "where": "INT. MAIN ROTUNDA - GALACTIC SENATE - DAY",
         "number": 29,
@@ -5609,18 +5609,11 @@
     },
     {
         "from": "AMIDALA",
-        "to": "X_X",
+        "to": "PALPATINE",
         "text": "You truely believe Chancellor Valorum will not bring our motion to a vote?",
         "where": "INT. MAIN ROTUNDA - GALACTIC SENATE - DAY",
         "number": 13,
         "time": 117
-    },
-    {
-        "from": "c",
-        "text": "He is distracted he is afraid. He will be of no help.",
-        "where": "INT. MAIN ROTUNDA - GALACTIC SENATE - DAY",
-        "number": 12,
-        "time": 108
     },
     {
         "from": "VALORUM",
@@ -7143,7 +7136,7 @@
     },
     {
         "from": "ANAKIN",
-        "to": "X_X",
+        "to": "ARTOO",
         "text": "Yes I've got control. You did it, ARTOO!",
         "where": "INT. NABOO STARFIGHTER - COCKPIT - SPACE",
         "number": 8,
@@ -7279,7 +7272,7 @@
     },
     {
         "from": "JAR JAR",
-        "to": "X_X",
+        "to": "GENERAL CEEL",
         "text": "Dissa bad, berry bombad.",
         "where": "EXT. NABOO GRASS PLAINS - DAY",
         "number": 4,
@@ -7287,7 +7280,7 @@
     },
     {
         "from": "GENERAL CEEL",
-        "to": "X_X",
+        "to": "JAR JAR",
         "text": "Mesa hopen dissa working for da Queen.",
         "where": "EXT. NABOO GRASS PLAINS - DAY",
         "number": 7,
