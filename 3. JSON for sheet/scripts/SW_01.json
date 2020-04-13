@@ -1,14 +1,14 @@
 [
 	{
 		"from": "QUI-GON",
-		"to": "CAPTAIN-PILOT",
+		"to": "REPUBLIC PILOT",
 		"text": "Captain.",
 		"where": "INT. REPUBLIC CRUISER - COCKPIT",
 		"number": 1,
 		"time": 9
 	},
 	{
-		"from": "CAPTAIN-PILOT",
+		"from": "REPUBLIC PILOT",
 		"to": "QUI-GON",
 		"text": "Yes, sir?",
 		"where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -17,14 +17,14 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "CAPTAIN-PILOT",
+		"to": "REPUBLIC PILOT",
 		"text": "Tell them we wish to board at once.",
 		"where": "INT. REPUBLIC CRUISER - COCKPIT",
 		"number": 8,
 		"time": 72
 	},
 	{
-		"from": "CAPTAIN-PILOT",
+		"from": "REPUBLIC PILOT",
 		"to": "QUI-GON",
 		"text": "Yes, sir.",
 		"where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -32,7 +32,7 @@
 		"time": 18
 	},
 	{
-		"from": "CAPTAIN-PILOT",
+		"from": "REPUBLIC PILOT",
 		"to": "NUTE",
 		"text": "With all due respect the ambassadors for the supreme chancellor wish to board immediately.",
 		"where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -41,7 +41,7 @@
 	},
 	{
 		"from": "NUTE",
-		"to": "CAPTAIN-PILOT",
+		"to": "REPUBLIC PILOT",
 		"text": "Yes, yes, of course as you know, our blockade is perfectly legal, and we'd be happy to receive the Ambassador. Happy to.",
 		"where": "INT. REPUBLIC CRUISER - COCKPIT",
 		"number": 22,
@@ -248,15 +248,7 @@
 		"time": 54
 	},
 	{
-		"from": "PILOT",
-		"to": "CAPTAIN-PILOT",
-		"text": "Captain, look!",
-		"where": "INT. REPUBLIC CRUISER - COCKPIT",
-		"number": 2,
-		"time": 18
-	},
-	{
-		"from": "CAPTAIN-PILOT",
+		"from": "REPUBLIC PILOT",
 		"to": "QUI-GON",
 		"text": "Shields up!",
 		"where": "INT. REPUBLIC CRUISER - COCKPIT",
@@ -281,39 +273,38 @@
 	},
 	{
 		"from": "NUTE",
-		"to": "OWO-1",
+		"to": "CAPTAIN DROID",
 		"text": "They must be dead by now. Blast, what's left of them.",
 		"where": "INT. FEDERATION BATTLESHIP - HALLWAY",
 		"number": 11,
 		"time": 99
 	},
 	{
-		"from": "TC-14",
-		"to": "OWO-1",
+		"from": "TC14",
 		"text": "Oh, excuse me, so sorry.",
 		"where": "INT. FEDERATION BATTLESHIP - HALLWAY",
 		"number": 5,
 		"time": 45
 	},
 	{
-		"from": "OWO-1",
-		"to": "OOM-9",
+		"from": "CAPTAIN DROID",
+		"to": "CAPORAL DROID",
 		"text": "Check it out, Corporal. We'll cover you.",
 		"where": "INT. FEDERATION BATTLESHIP - HALLWAY",
 		"number": 7,
 		"time": 63
 	},
 	{
-		"from": "OOM-9",
-		"to": "OWO-1",
+		"from": "CAPORAL DROID",
+		"to": "CAPTAIN DROID",
 		"text": "Roger, roger.",
 		"where": "INT. FEDERATION BATTLESHIP - HALLWAY",
 		"number": 2,
 		"time": 18
 	},
 	{
-		"from": "OWO-1",
-		"to": "OOM-9",
+		"from": "CAPTAIN DROID",
+		"to": "CAPORAL DROID",
 		"text": "Blast them.",
 		"where": "INT. FEDERATION BATTLESHIP - HALLWAY",
 		"number": 2,
@@ -624,14 +615,6 @@
 		"time": 36
 	},
 	{
-		"from": "CAPT. PANAKA",
-		"to": "CONTROLLER",
-		"text": "Check the transmission generators",
-		"where": "INT. NABOO PALACE - THRONE ROOM",
-		"number": 4,
-		"time": 36
-	},
-	{
 		"from": "BIBBLE",
 		"to": "AMIDALA",
 		"text": "A communications disruption can mean only one thing: invasion.",
@@ -640,7 +623,7 @@
 		"time": 81
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "It could be the Federation jamming us. Your Highness.",
 		"where": "INT. NABOO PALACE - THRONE ROOM",
@@ -664,7 +647,7 @@
 		"time": 72
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "The Senate would revoke their trade franchise, and they'd be finished.",
 		"where": "INT. NABOO PALACE - THRONE ROOM",
@@ -688,7 +671,7 @@
 		"time": 99
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army.",
 		"where": "INT. NABOO PALACE - THRONE ROOM",
@@ -697,14 +680,14 @@
 	},
 	{
 		"from": "AMIDALA",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "I will not condone a course of action that will lead us to war.",
 		"where": "INT. NABOO PALACE - THRONE ROOM",
 		"number": 14,
 		"time": 126
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "NUTE",
 		"text": "Yes, Viceroy ?",
 		"where": "EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX)",
@@ -713,14 +696,14 @@
 	},
 	{
 		"from": "RUNE",
-		"to": "OOM-9",
+		"to": "CAPORAL DROID",
 		"text": "Captain, we've searched the ship and there is no trace of the Jedi. They may have gotten on one of your landing craft.",
 		"where": "EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX)",
 		"number": 23,
 		"time": 207
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "NUTE",
 		"text": "If they are down here, sir, we'll find them.",
 		"where": "EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX)",
@@ -729,7 +712,7 @@
 	},
 	{
 		"from": "NUTE",
-		"to": "OOM-9",
+		"to": "CAPORAL DROID",
 		"text": "Use caution. These Jedi are not to be underestimated.",
 		"where": "EXT. NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT (FX)",
 		"number": 9,
@@ -944,7 +927,7 @@
 		"time": 45
 	},
 	{
-		"from": "CAPT. TARPALS",
+		"from": "TARPALS",
 		"to": "JAR JAR",
 		"text": "Hey, yousa. Stopa dare.",
 		"where": "INT. OTOH GUNGA - CITY SQUARE",
@@ -953,14 +936,14 @@
 	},
 	{
 		"from": "JAR JAR",
-		"to": "CAPT. TARPALS",
+		"to": "TARPALS",
 		"text": "Heyo-dales, Cap'n Tarpals. Mesa back.",
 		"where": "INT. OTOH GUNGA - CITY SQUARE",
 		"number": 5,
 		"time": 45
 	},
 	{
-		"from": "CAPT. TARPALS",
+		"from": "TARPALS",
 		"to": "JAR JAR",
 		"text": "Noah gain, Jar Jar. Yousa goen tada Bosses. Yousa in big dudu this time.",
 		"where": "INT. OTOH GUNGA - CITY SQUARE",
@@ -969,7 +952,7 @@
 	},
 	{
 		"from": "JAR JAR",
-		"to": "CAPT. TARPALS",
+		"to": "TARPALS",
 		"text": "How wude.",
 		"where": "INT. OTOH GUNGA - CITY SQUARE",
 		"number": 2,
@@ -1297,7 +1280,6 @@
 	},
 	{
 		"from": "OBI-WAN",
-		"to": "QUI-GON",
 		"text": "we're losing power.",
 		"where": "INT. SUB COCKPIT - UNDERWATER",
 		"number": 3,
@@ -1376,7 +1358,7 @@
 		"time": 45
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "NUTE",
 		"text": "Viceroy, we have captured the queen.",
 		"where": "EXT. THEED PLAZA - DAY",
@@ -1432,8 +1414,8 @@
 		"time": 306
 	},
 	{
-		"from": "OOM-9",
-		"to": "OWO-1",
+		"from": "CAPORAL DROID",
+		"to": "CAPTAIN DROID",
 		"text": "Yes, sir! Take them to Camp Four.",
 		"where": "INT. THEED - PALACE THRONE ROOM - DAY",
 		"number": 7,
@@ -1448,8 +1430,8 @@
 		"time": 63
 	},
 	{
-		"from": "CAPT. PANAKA",
-		"to": "SOLDATS",
+		"from": "PANAKA",
+		"to": "SOLDIER",
 		"text": "Get their weapons.",
 		"where": "EXT. PALACE - PLAZA - DAY",
 		"number": 3,
@@ -1473,8 +1455,7 @@
 	},
 	{
 		"from": "BIBBLE",
-		"to": "QUI-GON",
-		"text": "Your negotiations seem",
+		"to": "QUI-GON :Your negotiations seem",
 		"where": "EXT. PALACE - PLAZA - DAY",
 		"number": 0,
 		"time": 0
@@ -1488,7 +1469,7 @@
 		"time": 126
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "They've knocked out all our communications.",
 		"where": "EXT. PALACE - PLAZA - DAY",
@@ -1497,14 +1478,14 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "Do you have transports?",
 		"where": "EXT. PALACE - PLAZA - DAY",
 		"number": 4,
 		"time": 36
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "In the main hanger. This way.",
 		"where": "EXT. PALACE - PLAZA - DAY",
@@ -1512,7 +1493,7 @@
 		"time": 54
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "There are too many of them.",
 		"where": "INT. CENTRAL HANGER - HALLWAY - DAY",
@@ -1545,14 +1526,13 @@
 	},
 	{
 		"from": "BIBBLE",
-		"to": "QUI-GON",
-		"text": "They wouldn't dare.",
+		"to": "QUI-GON :They wouldn't dare.",
 		"where": "INT. CENTRAL HANGER - HALLWAY - DAY",
 		"number": 0,
 		"time": 0
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "They need her to sign a treaty to make this invasion of theirs legal. They can't afford to kill her.",
 		"where": "INT. CENTRAL HANGER - HALLWAY - DAY",
@@ -1608,7 +1588,7 @@
 		"time": 108
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "We need to free those pilots.",
 		"where": "INT. CENTRAL HANGER - DAY",
@@ -1617,14 +1597,14 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "Ill deal with that.",
 		"where": "INT. CENTRAL HANGER - DAY",
 		"number": 4,
 		"time": 36
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "QUI-GON",
 		"text": "Halt.",
 		"where": "INT. CENTRAL HANGER - DAY",
@@ -1632,15 +1612,14 @@
 		"time": 9
 	},
 	{
-		"from": "QUI-GON",
-		"to": "OOM-9",
+		"from": "QUI-GON CAPORAL DROID",
 		"text": "I'm Ambassador for the Supreme Chancellor, and I'm taking those people to Coruscant.",
 		"where": "INT. CENTRAL HANGER - DAY",
 		"number": 13,
 		"time": 117
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "QUI-GON",
 		"text": "Where are you taking them?",
 		"where": "INT. CENTRAL HANGER - DAY",
@@ -1648,15 +1627,14 @@
 		"time": 45
 	},
 	{
-		"from": "QUI-GON",
-		"to": "OOM-9",
+		"from": "QUI-GON CAPORAL DROID",
 		"text": "To Coruscant.",
 		"where": "INT. CENTRAL HANGER - DAY",
 		"number": 2,
 		"time": 18
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "QUI-GON",
 		"text": "Coruscant? U h, that doesn't compute. Uh, wait. U h, you're under arrest.",
 		"where": "INT. CENTRAL HANGER - DAY",
@@ -1664,7 +1642,7 @@
 		"time": 117
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "PADME",
 		"text": "Come on. Move!",
 		"where": "INT. CENTRAL HANGER - DAY",
@@ -1681,7 +1659,6 @@
 	},
 	{
 		"from": "RIC OLIE",
-		"to": "OBI-WAN",
 		"text": "our communications are still jammed.",
 		"where": "INT. NABOO SPACECRAFT - COCKPIT",
 		"number": 5,
@@ -1776,7 +1753,7 @@
 		"time": 153
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "OBI-WAN",
 		"text": "How can you be sure?",
 		"where": "INT. NABOO SPACECRAFT - DROID HOLD",
@@ -1785,14 +1762,14 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "It's controlled by the Hutts",
 		"where": "INT. NABOO SPACECRAFT - DROID HOLD",
 		"number": 5,
 		"time": 45
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "You can't take Her Royal Highness there! The Hutts are gangsters If they discovered her",
 		"where": "INT. NABOO SPACECRAFT - DROID HOLD",
@@ -1801,7 +1778,7 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "It would be no different than if we landed on a system controlled by the Federation except the Hutts aren't looking for her, which gives us an advantage.",
 		"where": "INT. NABOO SPACECRAFT - DROID HOLD",
 		"number": 28,
@@ -1864,7 +1841,7 @@
 		"time": 63
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "An extremely well put together little droid. Without a doubt, it saved the ship, as well as our lives.",
 		"where": "INT. NABOO SPACECRAFT - QUEENS CHAMBERS",
@@ -1873,14 +1850,14 @@
 	},
 	{
 		"from": "AMIDALA",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "It is to be commended what is its number?",
 		"where": "INT. NABOO SPACECRAFT - QUEENS CHAMBERS",
 		"number": 9,
 		"time": 81
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "R2-D2, Your Highness.",
 		"where": "INT. NABOO SPACECRAFT - QUEENS CHAMBERS",
@@ -1913,7 +1890,7 @@
 	},
 	{
 		"from": "AMIDALA",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "Continue, Captain.",
 		"where": "INT. NABOO SPACECRAFT - QUEENS CHAMBERS",
 		"number": 2,
@@ -1928,7 +1905,7 @@
 		"time": 207
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "I do not agree with the Jedi on this.",
 		"where": "INT. NABOO SPACECRAFT - QUEENS CHAMBERS",
@@ -2056,7 +2033,7 @@
 		"time": 54
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "Wait ! Her Highness commands you to take her handmaiden with you. She wishes for her to observe the local",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
@@ -2065,14 +2042,14 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "No more commands from Her Highness today, Captain. This spaceport is not going to be pleasant",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 16,
 		"time": 144
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "The Queen wishes it. She is curious about this planet.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
@@ -2081,7 +2058,7 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "This is not a good idea. Stay close to me.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 10,
@@ -2585,14 +2562,14 @@
 	},
 	{
 		"from": "OBI-WAN",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "This storm's going to slow them down.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 7,
 		"time": 63
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "OBI-WAN",
 		"text": "It looks pretty bad. We'd better seal the ship.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
@@ -2600,31 +2577,31 @@
 		"time": 81
 	},
 	{
-		"from": "CAPT. PANAKA",
-		"to": "CONTROLLER",
+		"from": "PANAKA",
+		"to": "CONTROLER",
 		"text": "Yes?",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 1,
 		"time": 9
 	},
 	{
-		"from": "CONTROLLER",
-		"to": "CAPT. PANAKA",
+		"from": "CONTROLER",
+		"to": "PANAKA",
 		"text": "Receiving a message from home.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 5,
 		"time": 45
 	},
 	{
-		"from": "CAPT. PANAKA",
-		"to": "CONTROLLER",
+		"from": "PANAKA",
+		"to": "CONTROLER",
 		"text": "We'll be right there.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 4,
 		"time": 36
 	},
 	{
-		"from": "ANAKIN",
+		"from": "ANAKAIN",
 		"to": "QUI-GON",
 		"text": "Here, you'll like these pallies. Here.",
 		"where": "EXT. MOS ESPA - STREET - FRUIT STAND - DAY",
@@ -5032,7 +5009,7 @@
 		"time": 81
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "OBI-WAN",
 		"text": "Qui-Gon's in trouble.",
 		"where": "INT. NABOO SPACECRAFT - HALLWAY",
@@ -5121,14 +5098,14 @@
 	},
 	{
 		"from": "NUTE",
-		"to": "OOM-9",
+		"to": "CAPORAL DROID",
 		"text": "Take him away.",
 		"where": "INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT",
 		"number": 3,
 		"time": 27
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "NUTE",
 		"text": "My troops are in position to begin searching the swamps for these rumored underwater villages. They will not stay hidden for long.",
 		"where": "INT. NABOO PALACE - THRONE ROOM - THEED - NIGHT",
@@ -5305,7 +5282,7 @@
 	},
 	{
 		"from": "AMIDALA",
-		"to": "PALPATINE",
+		"to": "PALAPATINE",
 		"text": "Chancellor Valorum seems to think there is hope.",
 		"where": "INT. PALPATINE'S QUARTERS - LIVING AREA - DAY",
 		"number": 8,
@@ -5313,7 +5290,7 @@
 	},
 	{
 		"from": "PALPATINE",
-		"to": "AMIDALA",
+		"to": "AMADILA",
 		"text": "If I may say so, Your Majesty, the Chancellor has little real power he is mired down by baseless accusations of corruption. A manufactured scandal surrounds him. The bureaucrats are in charge now.",
 		"where": "INT. PALPATINE'S QUARTERS - LIVING AREA - DAY",
 		"number": 33,
@@ -5518,22 +5495,6 @@
 		"where": "INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - DAY",
 		"number": 5,
 		"time": 45
-	},
-	{
-		"from": "GUARD",
-		"to": "RABE",
-		"text": "The boy is here to see Padme.",
-		"where": "INT. QUEENS QUARTERS - CORUSCANT - DAY",
-		"number": 7,
-		"time": 63
-	},
-	{
-		"from": "RABE",
-		"to": "GUARD",
-		"text": "Send him in.",
-		"where": "INT. QUEENS QUARTERS - CORUSCANT - DAY",
-		"number": 3,
-		"time": 27
 	},
 	{
 		"from": "RABE",
@@ -5920,7 +5881,7 @@
 		"time": 171
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "Your Highness, Senator Palpatine has been nominated to succeed Valorum as Supreme Chancellor.",
 		"where": "INT. PALPATINES QUARTERS - SUNSET",
@@ -5937,14 +5898,14 @@
 	},
 	{
 		"from": "AMIDALA",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "Who else can be nominated?",
 		"where": "INT. PALPATINES QUARTERS - SUNSET",
 		"number": 5,
 		"time": 45
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "Bail Antilles of Alderaan and Ainlee Teem of Malastare.",
 		"where": "INT. PALPATINES QUARTERS - SUNSET",
@@ -6000,7 +5961,7 @@
 		"time": 162
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "Yes, Your Highness?",
 		"where": "INT. PALPATINES QUARTERS - SUNSET",
@@ -6009,7 +5970,7 @@
 	},
 	{
 		"from": "AMIDALA",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "Ready my ship!",
 		"where": "INT. PALPATINES QUARTERS - SUNSET",
 		"number": 3,
@@ -6113,7 +6074,7 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "MACE WINDU",
+		"to": "MACE IWNDU",
 		"text": "Obi-Wan is ready",
 		"where": "INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT",
 		"number": 3,
@@ -6393,8 +6354,7 @@
 	},
 	{
 		"from": "RIC OLIE",
-		"to": "ANAKIN",
-		"text": "The forward stabalizer.",
+		"to": "ANAKIN: The forward stabalizer.",
 		"where": "INT. SPACE - NABOO SPACECRAFT COCKPIT",
 		"number": 0,
 		"time": 0
@@ -6416,7 +6376,7 @@
 		"time": 45
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "The moment we land the Federation will arrest you, and force you to sign the treaty.",
 		"where": "INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS",
@@ -6440,7 +6400,7 @@
 		"time": 63
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "AMIDALA",
 		"text": "There are only twelve of us, Your Highness we have no army.",
 		"where": "INT. NABOO SPACECRAFT - QUEEN'S CHAMBERS",
@@ -6481,7 +6441,7 @@
 	},
 	{
 		"from": "RIC OLIE",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "I have one battleship on my scope.",
 		"where": "INT. NABOO CRUISER COCKPIT - DAY",
 		"number": 7,
@@ -6489,14 +6449,14 @@
 	},
 	{
 		"from": "OBI-WAN",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "A droid control ship.",
 		"where": "INT. NABOO CRUISER COCKPIT - DAY",
 		"number": 4,
 		"time": 36
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "OBI-WAN",
 		"text": "They've probably spotted us.",
 		"where": "INT. NABOO CRUISER COCKPIT - DAY",
@@ -6505,7 +6465,7 @@
 	},
 	{
 		"from": "OBI-WAN",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "We haven't much time.",
 		"where": "INT. NABOO CRUISER COCKPIT - DAY",
 		"number": 4,
@@ -6576,7 +6536,7 @@
 		"time": 81
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "QUI-GON",
 		"text": "More likely they were wiped out.",
 		"where": "EXT. NABOO SWAMP LAKE - DAY",
@@ -6704,14 +6664,6 @@
 		"time": 27
 	},
 	{
-		"from": "GUNGAN LOOKOUT",
-		"to": "ANAKIN",
-		"text": "Daza comen!",
-		"where": "EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY",
-		"number": 2,
-		"time": 18
-	},
-	{
 		"from": "ANAKIN",
 		"to": "PADME",
 		"text": "All right. They're here!",
@@ -6753,14 +6705,14 @@
 	},
 	{
 		"from": "PADME",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "What is the situation?",
 		"where": "EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY",
 		"number": 4,
 		"time": 36
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "PADME",
 		"text": "Almost everyone's in camps. A few hundred police and guards have formed an underground movement. I brought as many of the keaders as I could. The Federation Army's also much larger than we thought, and much stronger. Your Highness, this is a battle I do not think we can win.",
 		"where": "EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY",
@@ -6769,11 +6721,11 @@
 	},
 	{
 		"from": "PADME",
-		"to": "CAPT. PANAKA",
-		"text": "The battle is a diversion. The Gungans must draw the Droid Army away from the cities. We can enter the city using the secret passages on the waterfall side. Once we get to the main entrance, Captain Panaka will create a diversion, so that we can enter the palace and capture the Viceroy. Without the Viceroy, they will be lost and confused. What do you think, Master Jedi?",
+		"to": "CAPR. PANAKA",
+		"text": "The battle is a diversion. The Gungans must draw the Droid Army away from the cities. We can enter the city using the secret passages on the waterfall side. Once we get to the main entrance, PANAKA will create a diversion, so that we can enter the palace and capture the Viceroy. Without the Viceroy, they will be lost and confused. What do you think, Master Jedi?",
 		"where": "EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY",
-		"number": 68,
-		"time": 612
+		"number": 67,
+		"time": 603
 	},
 	{
 		"from": "QUI-GON",
@@ -6784,7 +6736,7 @@
 		"time": 54
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "PADME",
 		"text": "The difficulty's getting into the throne room. Once we're inside, we shouldn't have a problem.",
 		"where": "EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY",
@@ -6880,14 +6832,6 @@
 		"time": 63
 	},
 	{
-		"from": "GENERAL CEEL",
-		"to": "SOLDATS",
-		"text": "Halt! Energize the shields.",
-		"where": "INT. NABOO SWAMP LAKE - DAY",
-		"number": 4,
-		"time": 36
-	},
-	{
 		"from": "QUI-GON",
 		"to": "ANAKIN",
 		"text": "Once we get inside, Annie, you find a safe placeto hide and stay there.",
@@ -6921,14 +6865,14 @@
 	},
 	{
 		"from": "NUTE",
-		"to": "OOM-9",
+		"to": "CAPORAL DROID",
 		"text": "Activate the droids",
 		"where": "INT. THEED - PALACE THRONE ROOM - DAY",
 		"number": 3,
 		"time": 27
 	},
 	{
-		"from": "OOM-9",
+		"from": "CAPORAL DROID",
 		"to": "NUTE",
 		"text": "Yes, sir.",
 		"where": "INT. THEED - PALACE THRONE ROOM - DAY",
@@ -6977,19 +6921,11 @@
 	},
 	{
 		"from": "PADME",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "My guess is the Viceroy is in the throne room.",
 		"where": "INT. THEED - CENTRAL HANGER - DAY",
 		"number": 10,
 		"time": 90
-	},
-	{
-		"from": "CAPT. PANAKA",
-		"to": "SOLDATS",
-		"text": "Red group! Blue group! Everybody, this way!",
-		"where": "INT. THEED - CENTRAL HANGER - DAY",
-		"number": 7,
-		"time": 63
 	},
 	{
 		"from": "ANAKIN",
@@ -7097,15 +7033,15 @@
 	},
 	{
 		"from": "PADME",
-		"to": "CAPT. PANAKA",
+		"to": "CATP. PANAKA",
 		"text": "We don't have time for this, Captain.",
 		"where": "INT. THEED - PALACE - HALLWAY - DAY",
 		"number": 7,
 		"time": 63
 	},
 	{
-		"from": "CAPT. PANAKA",
-		"to": "PADME",
+		"from": "PANAKA",
+		"to": "APDME",
 		"text": "GO! Ascension guns!",
 		"where": "INT. THEED - PALACE - HALLWAY - DAY",
 		"number": 3,
@@ -7217,7 +7153,7 @@
 	},
 	{
 		"from": "PADME",
-		"to": "CAPT. PANAKA",
+		"to": "PANAKA",
 		"text": "Throw down your weapons. They win this round.",
 		"where": "INT. THEED - PALACE - HALLWAY TO THRONE ROOM",
 		"number": 8,
@@ -7313,19 +7249,11 @@
 	},
 	{
 		"from": "NUTE",
-		"to": "DROIDS",
+		"to": "CAPTAIN DROID",
 		"text": "After her! This one is a decoy!",
 		"where": "INT. THED - PALACE THRONE ROOM - DAY",
 		"number": 7,
 		"time": 63
-	},
-	{
-		"from": "CAPT. PANAKA",
-		"to": "SOLDATS",
-		"text": "Jam the doors.",
-		"where": "INT. THED - PALACE THRONE ROOM - DAY",
-		"number": 3,
-		"time": 27
 	},
 	{
 		"from": "PADME",
@@ -7440,7 +7368,7 @@
 		"time": 63
 	},
 	{
-		"from": "BRAVO TWO",
+		"from": "REPUBLIC PILOT",
 		"to": "RIC OLIE",
 		"text": "What's that? It's blowing up from the inside.",
 		"where": "INT. NABOO FIGHTER - COCKPIT - SPACE",
@@ -7449,14 +7377,14 @@
 	},
 	{
 		"from": "RIC OLIE",
-		"to": "BRAVO TWO",
+		"to": "REPUBLIC PILOT",
 		"text": "I don't know, we didn't hit it.",
 		"where": "INT. NABOO FIGHTER - COCKPIT - SPACE",
 		"number": 7,
 		"time": 63
 	},
 	{
-		"from": "BRAVO THREE",
+		"from": "REPUBLIC PILOT",
 		"to": "RIC OLIE",
 		"text": "Look! One of ours! Outta the main hold!",
 		"where": "INT. NABOO FIGHTER - COCKPIT - SPACE",
@@ -7496,7 +7424,7 @@
 		"time": 153
 	},
 	{
-		"from": "CAPT. PANAKA",
+		"from": "PANAKA",
 		"to": "NUTE",
 		"text": "I think you can kiss your Trade franchise goodbye.",
 		"where": "INT. MAIN HANGER - COURTYARD - DAY",

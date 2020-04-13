@@ -1,4 +1,5 @@
-[{
+[
+    {
         "from": "LIEUTENANT",
         "to": "CORDÉ",
         "text": "Senator, we're making our final approach into Coruscant.",
@@ -183,7 +184,7 @@
         "time": 171
     },
     {
-        "from": "KI-ADI-MUNDI",
+        "from": "KI-ADI",
         "to": "PADME",
         "text": "He is a political idealist, not a murderer.",
         "where": "INT. CHANCELLOR'S OFFICE - DAY",
@@ -3750,7 +3751,7 @@
         "time": 81
     },
     {
-        "from": "SENATOR ASK AAK",
+        "from": "ASK MOE",
         "to": "PALPATINE",
         "text": "The debate is over, we need that clone army now!",
         "where": "INT. CORUSCANT, CHANCELLOR'S OFFICE",
@@ -3759,7 +3760,7 @@
     },
     {
         "from": "BAIL ORGANA",
-        "to": "SENATOR ASK AAK",
+        "to": "ASK MOE",
         "text": "Unfortunately, the debate is not over. The Senate will never be able to approve the use of that army before the separatists attack.",
         "where": "INT. CORUSCANT, CHANCELLOR'S OFFICE",
         "number": 23,
