@@ -280,7 +280,8 @@
 		"time": 99
 	},
 	{
-		"from": "TC14",
+		"from": "TC-14",
+		"to": "CAPTAIN DROID",
 		"text": "Oh, excuse me, so sorry.",
 		"where": "INT. FEDERATION BATTLESHIP - HALLWAY",
 		"number": 5,
@@ -617,10 +618,10 @@
 	{
 		"from": "BIBBLE",
 		"to": "AMIDALA",
-		"text": "A communications disruption can mean only one thing: invasion.",
+		"text": "A communications disruption can mean only one thing",
 		"where": "INT. NABOO PALACE - THRONE ROOM",
-		"number": 9,
-		"time": 81
+		"number": 8,
+		"time": 72
 	},
 	{
 		"from": "PANAKA",
@@ -1280,6 +1281,7 @@
 	},
 	{
 		"from": "OBI-WAN",
+		"to": "QUI-GON",
 		"text": "we're losing power.",
 		"where": "INT. SUB COCKPIT - UNDERWATER",
 		"number": 3,
@@ -1455,10 +1457,11 @@
 	},
 	{
 		"from": "BIBBLE",
-		"to": "QUI-GON :Your negotiations seem",
+		"to": "QUI-GON",
+		"text": "Your negotiations seem to have failed, Ambassador.",
 		"where": "EXT. PALACE - PLAZA - DAY",
-		"number": 0,
-		"time": 0
+		"number": 7,
+		"time": 63
 	},
 	{
 		"from": "QUI-GON",
@@ -1526,10 +1529,11 @@
 	},
 	{
 		"from": "BIBBLE",
-		"to": "QUI-GON :They wouldn't dare.",
+		"to": "QUI-GON",
+		"text": "They wouldn't dare.",
 		"where": "INT. CENTRAL HANGER - HALLWAY - DAY",
-		"number": 0,
-		"time": 0
+		"number": 3,
+		"time": 27
 	},
 	{
 		"from": "PANAKA",
@@ -1612,7 +1616,8 @@
 		"time": 9
 	},
 	{
-		"from": "QUI-GON CAPORAL DROID",
+		"from": "QUI-GON",
+		"to": "CAPORAL DROID",
 		"text": "I'm Ambassador for the Supreme Chancellor, and I'm taking those people to Coruscant.",
 		"where": "INT. CENTRAL HANGER - DAY",
 		"number": 13,
@@ -1627,7 +1632,8 @@
 		"time": 45
 	},
 	{
-		"from": "QUI-GON CAPORAL DROID",
+		"from": "QUI-GON",
+		"to": "CAPORAL DROID",
 		"text": "To Coruscant.",
 		"where": "INT. CENTRAL HANGER - DAY",
 		"number": 2,
@@ -1651,7 +1657,7 @@
 	},
 	{
 		"from": "OBI-WAN",
-		"to": "PILOTS",
+		"to": "REPUBLIC PILOT",
 		"text": "GO!",
 		"where": "INT. CENTRAL HANGER - DAY",
 		"number": 1,
@@ -1659,6 +1665,7 @@
 	},
 	{
 		"from": "RIC OLIE",
+		"to": "OBI-WAN",
 		"text": "our communications are still jammed.",
 		"where": "INT. NABOO SPACECRAFT - COCKPIT",
 		"number": 5,
@@ -2578,14 +2585,14 @@
 	},
 	{
 		"from": "PANAKA",
-		"to": "CONTROLER",
+		"to": "CONTROLLER",
 		"text": "Yes?",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 1,
 		"time": 9
 	},
 	{
-		"from": "CONTROLER",
+		"from": "CONTROLLER",
 		"to": "PANAKA",
 		"text": "Receiving a message from home.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
@@ -2594,14 +2601,14 @@
 	},
 	{
 		"from": "PANAKA",
-		"to": "CONTROLER",
+		"to": "CONTROLLER",
 		"text": "We'll be right there.",
 		"where": "EXT. TATOOINE - DESERT - SPACESHIP - DAY",
 		"number": 4,
 		"time": 36
 	},
 	{
-		"from": "ANAKAIN",
+		"from": "ANAKIN",
 		"to": "QUI-GON",
 		"text": "Here, you'll like these pallies. Here.",
 		"where": "EXT. MOS ESPA - STREET - FRUIT STAND - DAY",
@@ -5282,7 +5289,7 @@
 	},
 	{
 		"from": "AMIDALA",
-		"to": "PALAPATINE",
+		"to": "PALPATINE",
 		"text": "Chancellor Valorum seems to think there is hope.",
 		"where": "INT. PALPATINE'S QUARTERS - LIVING AREA - DAY",
 		"number": 8,
@@ -5290,7 +5297,7 @@
 	},
 	{
 		"from": "PALPATINE",
-		"to": "AMADILA",
+		"to": "AMIDALA",
 		"text": "If I may say so, Your Majesty, the Chancellor has little real power he is mired down by baseless accusations of corruption. A manufactured scandal surrounds him. The bureaucrats are in charge now.",
 		"where": "INT. PALPATINE'S QUARTERS - LIVING AREA - DAY",
 		"number": 33,
@@ -6074,7 +6081,7 @@
 	},
 	{
 		"from": "QUI-GON",
-		"to": "MACE IWNDU",
+		"to": "MACE WINDU",
 		"text": "Obi-Wan is ready",
 		"where": "INT. TEMPLE OF THE JEDI - COUNCIL CHAMBERS - TWILIGHT",
 		"number": 3,
@@ -6354,10 +6361,11 @@
 	},
 	{
 		"from": "RIC OLIE",
-		"to": "ANAKIN: The forward stabalizer.",
+		"to": "ANAKIN",
+		"text": "The forward stabalizer.",
 		"where": "INT. SPACE - NABOO SPACECRAFT COCKPIT",
-		"number": 0,
-		"time": 0
+		"number": 3,
+		"time": 27
 	},
 	{
 		"from": "ANAKIN",
@@ -6721,7 +6729,7 @@
 	},
 	{
 		"from": "PADME",
-		"to": "CAPR. PANAKA",
+		"to": "PANAKA",
 		"text": "The battle is a diversion. The Gungans must draw the Droid Army away from the cities. We can enter the city using the secret passages on the waterfall side. Once we get to the main entrance, PANAKA will create a diversion, so that we can enter the palace and capture the Viceroy. Without the Viceroy, they will be lost and confused. What do you think, Master Jedi?",
 		"where": "EXT. NABOO EDGE OF SWAMP/ GRASS PLAINS - DAY",
 		"number": 67,
@@ -6881,7 +6889,7 @@
 	},
 	{
 		"from": "PADME",
-		"to": "PILOTS",
+		"to": "REPUBLIC PILOT",
 		"text": "Get to your ships!",
 		"where": "INT. THEED - CENTRAL HANGER - DAY",
 		"number": 4,
@@ -7033,7 +7041,7 @@
 	},
 	{
 		"from": "PADME",
-		"to": "CATP. PANAKA",
+		"to": "PANAKA",
 		"text": "We don't have time for this, Captain.",
 		"where": "INT. THEED - PALACE - HALLWAY - DAY",
 		"number": 7,
@@ -7041,7 +7049,7 @@
 	},
 	{
 		"from": "PANAKA",
-		"to": "APDME",
+		"to": "PADME",
 		"text": "GO! Ascension guns!",
 		"where": "INT. THEED - PALACE - HALLWAY - DAY",
 		"number": 3,
@@ -7066,10 +7074,10 @@
 	{
 		"from": "ANAKIN",
 		"to": "ARTOO",
-		"text": ": Oops! ARTOO, get us off Autopilot! It's gonna get us both killed.",
+		"text": "Oops! ARTOO, get us off Autopilot! It's gonna get us both killed.",
 		"where": "INT. NABOO STARFIGHTER - COCKPIT - SPACE",
-		"number": 13,
-		"time": 117
+		"number": 12,
+		"time": 108
 	},
 	{
 		"from": "ARTOO",
